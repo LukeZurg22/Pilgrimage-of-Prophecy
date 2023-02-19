@@ -1,0 +1,7 @@
+name = "Pilgrimage of Prophecy"
+path = "mod/Pilgrimage of Prophecy"
+user_dir = "Pilgrimage of Prophecy"
+replace_path = "history/provinces"
+replace_path = "events"
+replace_path = "decisions"
+replace_path = "gfx"
