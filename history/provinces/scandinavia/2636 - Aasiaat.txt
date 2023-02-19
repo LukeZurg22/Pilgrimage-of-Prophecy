@@ -1,5 +1,5 @@
-owner = DEN
-controller = DEN
+
+
 add_core = GRN
 add_core = DEN
 trade_goods = fish

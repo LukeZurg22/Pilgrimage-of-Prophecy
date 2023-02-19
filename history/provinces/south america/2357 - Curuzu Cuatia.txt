@@ -1,6 +1,6 @@
-owner = CRT
 
-controller = CRT
+
+
 
 add_core = CRT
 add_core = ARC
