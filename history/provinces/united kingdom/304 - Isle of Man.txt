@@ -1,6 +1,7 @@
-
-
-add_core = ENG
+owner = WHA
+controller = WHA
 trade_goods = fish
-life_rating = 35
+life_rating = 35	
+add_core = ENG
 terrain = small_island
+fort = 0	
