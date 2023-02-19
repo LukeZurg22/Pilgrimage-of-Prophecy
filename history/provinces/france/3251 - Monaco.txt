@@ -1,5 +1,5 @@
-owner = MNC
-controller = MNC
+
+
 add_core = MNC
 #terrain = urban
 trade_goods = fruit
