@@ -1,5 +1,5 @@
-owner = CHH
-controller = CHH
+
+
 add_core = CHH
 add_core = BUN
 add_core = MUG
