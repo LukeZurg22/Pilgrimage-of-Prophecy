@@ -1,8 +1,9 @@
-owner = ENG
-controller = ENG
+owner = WHA
+controller = WHA
 trade_goods = fish
 life_rating = 40	
 add_core = ENG
+add_core = WHA
 terrain = liverpool
 naval_base = 2	
 fort = 0	

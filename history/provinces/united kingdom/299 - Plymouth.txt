@@ -1,8 +1,9 @@
-owner = ENG
-controller = ENG
+owner = IRE
+controller = IRE
 trade_goods = iron
 life_rating = 35	
 add_core = ENG
+add_core = IRE
 terrain = plymouth
 naval_base = 2	
 fort = 0	

@@ -3,5 +3,7 @@ controller = WHA
 trade_goods = fish
 life_rating = 35	
 add_core = ENG
+add_core = IRE
+add_core = WHA
 terrain = small_island
 fort = 0	

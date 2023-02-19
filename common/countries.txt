@@ -3,7 +3,8 @@
 # Special countries...
 REB 	= 	"countries/rebels.txt"
 
-### NEW NATIONS MOD ###
+###AllBored Additionals
+OHI		="countries/Ohio.txt"
 
 ###France Mod###
 NZF		="countries/French New Zealand.txt"

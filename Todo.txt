@@ -1,4 +1,9 @@
-rename Baltic States to Zurgatol
+rename Baltic States to Zurgatol & Recolour
+Add Zyrgi culture
+Remove Zurgatland's accepteds on Russian & German
 Rename & Reflavour the "South" Afrikan Polar Nation
 Remove all cores of "TUR"
 Add Byzantine Cores
+Adjust Britain's Cultures to be more scottish
+Add Flavour of Ohio
+Remove Traditional USA from map; it's a formable
