@@ -1,5 +1,6 @@
-
-
-add_core = SWE
+owner = UBD
+controller = UBD
 trade_goods = grain
-life_rating = 35
+life_rating = 35	
+add_core = SWE
+fort = 0	

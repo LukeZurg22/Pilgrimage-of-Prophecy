@@ -1,6 +1,7 @@
-
-
-add_core = RPL
+owner = SAF
+controller = SAF
 trade_goods = timber
-life_rating = 10
-colonial = 2
+life_rating = 10	
+colonial = 2	
+add_core = RPL
+fort = 0	

@@ -1,6 +1,7 @@
-
-
-add_core = DEN
+owner = UBD
+controller = UBD
 trade_goods = fish
-life_rating = 35
+life_rating = 35	
+add_core = DEN
 terrain = small_island
+fort = 0	

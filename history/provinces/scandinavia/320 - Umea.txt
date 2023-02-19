@@ -1,6 +1,5 @@
-
-
-add_core = SWE
 trade_goods = timber
+life_rating = 20	
+add_core = SWE
 terrain = boreal
-life_rating = 20
+fort = 0	

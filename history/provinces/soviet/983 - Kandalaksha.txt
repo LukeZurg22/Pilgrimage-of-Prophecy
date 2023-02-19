@@ -1,6 +1,7 @@
-owner = RUS
-controller = RUS
+owner = FIN
+controller = FIN
+trade_goods = sulphur
+life_rating = 10	
 add_core = RUS
 add_core = KRL
-trade_goods = sulphur
-life_rating = 10
+fort = 0	

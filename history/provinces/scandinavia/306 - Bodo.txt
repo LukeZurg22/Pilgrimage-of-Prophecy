@@ -1,6 +1,7 @@
-
-
-add_core = NOR
+owner = FIN
+controller = FIN
 trade_goods = fish
+life_rating = 20	
+add_core = NOR
 terrain = montane_tundra
-life_rating = 20
+fort = 0	
