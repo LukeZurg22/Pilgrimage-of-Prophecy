@@ -1,5 +1,5 @@
-owner = DND
-controller = DND
+
+
 add_core = DND
 add_core = MAS
 trade_goods = grain
