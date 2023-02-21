@@ -1,8 +1,9 @@
-owner = ENG
-controller = ENG
+owner = ENL
+controller = ENL
 trade_goods = grain
 life_rating = 45	
 add_core = ENG
+add_core = ENL
 terrain = london
 fort = 1	
 state_building = {

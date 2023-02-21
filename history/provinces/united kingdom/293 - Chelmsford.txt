@@ -3,4 +3,5 @@ controller = ZUR
 trade_goods = coal
 life_rating = 35	
 add_core = ENG
+add_core = ENL
 fort = 0	

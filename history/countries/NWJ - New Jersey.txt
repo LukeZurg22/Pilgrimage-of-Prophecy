@@ -1,6 +1,6 @@
 capital = 230
-primary_culture = yankee
-culture = dixie
+primary_culture = trentonite
+culture = yankee
 religion = catholic
 government = democracy
 plurality = 100.0

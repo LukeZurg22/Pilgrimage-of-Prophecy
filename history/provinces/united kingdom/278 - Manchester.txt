@@ -1,8 +1,9 @@
-owner = ENG
-controller = ENG
+owner = ENL
+controller = ENL
 trade_goods = coal
 life_rating = 40	
 add_core = ENG
+add_core = ENL
 terrain = manchester
 fort = 0	
 railroad = 1	

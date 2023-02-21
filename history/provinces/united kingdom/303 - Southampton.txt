@@ -1,7 +1,8 @@
-owner = ENG
-controller = ENG
+owner = ENL
+controller = ENL
 trade_goods = fish
 life_rating = 35	
 add_core = ENG
+add_core = ENL
 terrain = southampton
 fort = 0	

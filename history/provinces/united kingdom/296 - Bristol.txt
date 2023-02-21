@@ -3,6 +3,7 @@ controller = SCO
 trade_goods = iron
 life_rating = 35	
 add_core = ENG
+add_core = ENL
 terrain = bristol
 fort = 0	
 state_building = {

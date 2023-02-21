@@ -54,6 +54,7 @@ SOR;Sorbia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SOR_ADJ;Sorbian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SOR_absolute_monarchy;Sorbia;;;;;;;;;;;;x
 SOR_prussian_constitutionalism;Sorbia;;;;;;;;;;;;x
+SOR_democracy;Sorb Republic;;;;;;;;;;;;;x;
 SOR_hms_government;Sorbia;;;;;;;;;;;;x
 SOR_conservative;Conservative Party;;;;;;;;;;;;x
 SOR_reactionary;Reactionary Party;;;;;;;;;;;;x
@@ -67,6 +68,7 @@ FIN_absolute_monarchy;Proto-Finnic Holy Roman Khaganate;;;;;;;;;;;;x
 FIN_prussian_constitutionalism;Proto-Finnic Holy Khaganate;;;;;;;;;;;;x
 FIN_hms_government;Proto-Finnic Holy Khaganate;;;;;;;;;;;;x
 FIN_fascist_dictatorship;The Great Proto-Finnic Khaganate;;;;;;;;;;;;;x;
+FIN_democracy;Proto-Finnic Roman Republic;;;;;;;;;;;;;x;
 NWJ;New Jersey;;;;;;;;;;;;;;
 NWJ_ADJ;New Jerseyan;;;;;;;;;;;;;;
 NWJ_bourgeois_dictatorship;New Jersey;;;;;;;;;;;;;;

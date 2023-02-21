@@ -8920,7 +8920,7 @@
     farmers = {
         culture = yankee
         religion = protestant
-        size = 5750
+        size = 11500
     }
 
     farmers = {
@@ -8933,12 +8933,6 @@
         culture = afro_american
         religion = protestant
         size = 3500
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 5750
     }
 }
 #Huntington (100000/25000 POPS)
@@ -9094,7 +9088,7 @@
     farmers = {
         culture = yankee
         religion = protestant
-        size = 4500
+        size = 9000
     }
 
     clergymen = {
@@ -9143,12 +9137,6 @@
         culture = trentonite
         religion = catholic
         size = 250
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 4500
     }
 }
 #Annapolis (184000/46000 POPS)
@@ -9216,13 +9204,13 @@
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 105
+        size = 210
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 6750
+        size = 13500
     }
 
     clergymen = {
@@ -9277,18 +9265,6 @@
         culture = trentonite
         religion = catholic
         size = 50
-    }
-
-    soldiers = {
-        culture = trentonite
-        religion = protestant
-        size = 105
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 6750
     }
 }
 #D.C. (104000/26000 POPS)
@@ -9356,7 +9332,7 @@
     farmers = {
         culture = yankee
         religion = protestant
-        size = 1250
+        size = 2500
     }
 
     clergymen = {
@@ -9412,12 +9388,6 @@
         religion = catholic
         size = 25
     }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 1250
-    }
 }
 #Hagerstown (56000/14000 POPS)
 221 = {
@@ -9454,7 +9424,7 @@
     farmers = {
         culture = yankee
         religion = protestant
-        size = 4000
+        size = 8000
     }
 
     clergymen = {
@@ -9479,12 +9449,6 @@
         culture = afro_american
         religion = protestant
         size = 1000
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 4000
     }
 }
 #Delaware Region (76000)
@@ -9536,7 +9500,7 @@
     farmers = {
         culture = yankee
         religion = protestant
-        size = 3500
+        size = 7000
     }
 
     clergymen = {
@@ -9561,12 +9525,6 @@
         culture = afro_american
         religion = protestant
         size = 500
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 3500
     }
 }
 #Pennsylvania Region (1536000)
@@ -9624,61 +9582,61 @@
     bureaucrats = {
         culture = yankee
         religion = protestant
-        size = 900
+        size = 1800
     }
 
     officers = {
         culture = yankee
         religion = protestant
-        size = 150
+        size = 300
     }
 
     capitalists = {
         culture = yankee
         religion = protestant
-        size = 12
+        size = 25
     }
 
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 275
+        size = 550
     }
 
     clerks = {
         culture = yankee
         religion = protestant
-        size = 30
+        size = 60
     }
 
     craftsmen = {
         culture = yankee
         religion = protestant
-        size = 600
+        size = 1200
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 5000
+        size = 10000
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 370
+        size = 740
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 1000
+        size = 2000
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 33475
+        size = 66950
     }
 
     clergymen = {
@@ -9775,66 +9733,6 @@
         culture = trentonite
         religion = catholic
         size = 7700
-    }
-
-    bureaucrats = {
-        culture = trentonite
-        religion = protestant
-        size = 900
-    }
-
-    officers = {
-        culture = trentonite
-        religion = protestant
-        size = 150
-    }
-
-    capitalists = {
-        culture = trentonite
-        religion = protestant
-        size = 13
-    }
-
-    clergymen = {
-        culture = trentonite
-        religion = protestant
-        size = 275
-    }
-
-    clerks = {
-        culture = trentonite
-        religion = protestant
-        size = 30
-    }
-
-    craftsmen = {
-        culture = trentonite
-        religion = protestant
-        size = 600
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 5000
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 370
-    }
-
-    soldiers = {
-        culture = trentonite
-        religion = protestant
-        size = 1000
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 33475
     }
 }
 #Coudersport - Formerly Fort Chimo (2400/600 POPS)
@@ -9934,25 +9832,25 @@
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 150
+        size = 300
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 1025
+        size = 2050
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 212
+        size = 425
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 19112
+        size = 38225
     }
 
     clergymen = {
@@ -9978,79 +9876,31 @@
         religion = catholic
         size = 50
     }
-
-    clergymen = {
-        culture = trentonite
-        religion = protestant
-        size = 150
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 1025
-    }
-
-    soldiers = {
-        culture = trentonite
-        religion = protestant
-        size = 213
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 19113
-    }
 }
 #Williamsport (172000/43000 POPS)
 225 = {
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 162
+        size = 325
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 1075
+        size = 2150
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 212
+        size = 425
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 20050
-    }
-
-    clergymen = {
-        culture = trentonite
-        religion = protestant
-        size = 163
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 1075
-    }
-
-    soldiers = {
-        culture = trentonite
-        religion = protestant
-        size = 213
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 20050
+        size = 40100
     }
 }
 #Harrisburg (292000/73000 POPS)
@@ -10082,25 +9932,25 @@
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 275
+        size = 550
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 1825
+        size = 3650
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 1000
+        size = 2000
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 33400
+        size = 66800
     }
 
     clergymen = {
@@ -10125,30 +9975,6 @@
         culture = trentonite
         religion = catholic
         size = 65
-    }
-
-    clergymen = {
-        culture = trentonite
-        religion = protestant
-        size = 275
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 1825
-    }
-
-    soldiers = {
-        culture = trentonite
-        religion = protestant
-        size = 1000
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 33400
     }
 }
 #Pittsburgh (332000/83000 POPS)
@@ -10270,31 +10096,31 @@
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 775
+        size = 1550
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 162
+        size = 325
     }
 
     craftsmen = {
         culture = yankee
         religion = protestant
-        size = 500
+        size = 1000
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 13962
+        size = 27925
     }
 
     clergymen = {
@@ -10362,107 +10188,77 @@
         religion = catholic
         size = 1850
     }
-
-    clergymen = {
-        culture = trentonite
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 775
-    }
-
-    soldiers = {
-        culture = trentonite
-        religion = protestant
-        size = 163
-    }
-
-    craftsmen = {
-        culture = trentonite
-        religion = protestant
-        size = 500
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 13963
-    }
 }
 #Trenton (96000/24000 POPS)
 230 = {
     bureaucrats = {
-        culture = trentonite
+        culture = yankee
         religion = protestant
-        size = 200
+        size = 125
     }
 
     officers = {
-        culture = greek
-        religion = orthodox
-        size = 35
+        culture = yankee
+        religion = protestant
+        size = 70
     }
 
     clergymen = {
-        culture = trentonite
+        culture = yankee
         religion = protestant
-        size = 75
+        size = 150
     }
 
     artisans = {
-        culture = trentonite
+        culture = yankee
         religion = protestant
-        size = 525
+        size = 1050
     }
 
     soldiers = {
-        culture = trentonite
+        culture = yankee
         religion = protestant
-        size = 112
+        size = 225
     }
 
     farmers = {
-        culture = trentonite
+        culture = yankee
         religion = protestant
-        size = 10552
+        size = 21105
     }
 
     bureaucrats = {
-        culture = trentonite
+        culture = yankee
         religion = catholic
         size = 12
     }
 
     officers = {
-        culture = trentonite
+        culture = yankee
         religion = catholic
         size = 7
     }
 
     clergymen = {
-        culture = trentonite
+        culture = yankee
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = trentonite
+        culture = yankee
         religion = catholic
         size = 75
     }
 
     soldiers = {
-        culture = trentonite
+        culture = yankee
         religion = catholic
         size = 12
     }
 
     farmers = {
-        culture = trentonite
+        culture = yankee
         religion = catholic
         size = 1367
     }
@@ -10502,42 +10298,6 @@
         religion = catholic
         size = 1368
     }
-
-    bureaucrats = {
-        culture = trentonite
-        religion = protestant
-        size = 63
-    }
-
-    officers = {
-        culture = trentonite
-        religion = protestant
-        size = 35
-    }
-
-    clergymen = {
-        culture = trentonite
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 525
-    }
-
-    soldiers = {
-        culture = trentonite
-        religion = protestant
-        size = 113
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 10553
-    }
 }
 #Atlantic City (88000/22000 POPS)
 231 = {
@@ -10568,25 +10328,25 @@
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 75
+        size = 150
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 550
+        size = 1100
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 112
+        size = 225
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 10262
+        size = 20525
     }
 
     clergymen = {
@@ -10611,30 +10371,6 @@
         culture = trentonite
         religion = catholic
         size = 65
-    }
-
-    clergymen = {
-        culture = trentonite
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 550
-    }
-
-    soldiers = {
-        culture = trentonite
-        religion = protestant
-        size = 113
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 10263
     }
 }
 #New York Region (2140000)
@@ -10680,61 +10416,61 @@
     capitalists = {
         culture = yankee
         religion = protestant
-        size = 62
+        size = 125
     }
 
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 337
+        size = 675
     }
 
     clerks = {
         culture = yankee
         religion = protestant
-        size = 62
+        size = 125
     }
 
     craftsmen = {
         culture = yankee
         religion = protestant
-        size = 12500
+        size = 25000
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 5000
+        size = 10000
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 5000
+        size = 10000
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 5000
+        size = 10000
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 4187
+        size = 8375
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 1000
+        size = 2000
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 47562
+        size = 95125
     }
 
     clergymen = {
@@ -10808,66 +10544,6 @@
         religion = catholic
         size = 38
     }
-
-    capitalists = {
-        culture = trentonite
-        religion = protestant
-        size = 63
-    }
-
-    clergymen = {
-        culture = trentonite
-        religion = protestant
-        size = 338
-    }
-
-    clerks = {
-        culture = trentonite
-        religion = protestant
-        size = 63
-    }
-
-    craftsmen = {
-        culture = trentonite
-        religion = protestant
-        size = 12500
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 5000
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 5000
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 5000
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 4188
-    }
-
-    soldiers = {
-        culture = trentonite
-        religion = protestant
-        size = 1000
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 47563
-    }
 }
 #Islip (100000/25000 POPS)
 233 = {
@@ -10898,25 +10574,25 @@
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 87
+        size = 175
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 625
+        size = 1250
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 125
+        size = 250
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 11662
+        size = 23325
     }
 
     artisans = {
@@ -10941,30 +10617,6 @@
         culture = trentonite
         religion = catholic
         size = 13
-    }
-
-    clergymen = {
-        culture = trentonite
-        religion = protestant
-        size = 88
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 625
-    }
-
-    soldiers = {
-        culture = trentonite
-        religion = protestant
-        size = 125
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 11663
     }
 }
 #Albany (332000/83000 POPS)
@@ -11008,37 +10660,37 @@
     bureaucrats = {
         culture = yankee
         religion = protestant
-        size = 487
+        size = 975
     }
 
     officers = {
         culture = yankee
         religion = protestant
-        size = 250
+        size = 500
     }
 
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 312
+        size = 625
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 1562
+        size = 3125
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 1000
+        size = 2000
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 35387
+        size = 70775
     }
 
     bureaucrats = {
@@ -11075,42 +10727,6 @@
         culture = trentonite
         religion = catholic
         size = 2238
-    }
-
-    bureaucrats = {
-        culture = trentonite
-        religion = protestant
-        size = 488
-    }
-
-    officers = {
-        culture = trentonite
-        religion = protestant
-        size = 250
-    }
-
-    clergymen = {
-        culture = trentonite
-        religion = protestant
-        size = 313
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 1563
-    }
-
-    soldiers = {
-        culture = trentonite
-        religion = protestant
-        size = 1000
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 35388
     }
 }
 #Binghamton (352000/88000 POPS)
@@ -11390,55 +11006,55 @@
     bureaucrats = {
         culture = yankee
         religion = protestant
-        size = 75
+        size = 150
     }
 
     officers = {
         culture = yankee
         religion = protestant
-        size = 37
+        size = 75
     }
 
     capitalists = {
         culture = yankee
         religion = protestant
-        size = 7
+        size = 15
     }
 
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 275
+        size = 550
     }
 
     clerks = {
         culture = yankee
         religion = protestant
-        size = 25
+        size = 50
     }
 
     craftsmen = {
         culture = yankee
         religion = protestant
-        size = 275
+        size = 550
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 1525
+        size = 3050
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 1000
+        size = 2000
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 32280
+        size = 64560
     }
 
     clergymen = {
@@ -11476,60 +11092,6 @@
         religion = catholic
         size = 75
     }
-
-    bureaucrats = {
-        culture = trentonite
-        religion = protestant
-        size = 75
-    }
-
-    officers = {
-        culture = trentonite
-        religion = protestant
-        size = 38
-    }
-
-    capitalists = {
-        culture = trentonite
-        religion = protestant
-        size = 8
-    }
-
-    clergymen = {
-        culture = trentonite
-        religion = protestant
-        size = 275
-    }
-
-    clerks = {
-        culture = trentonite
-        religion = protestant
-        size = 25
-    }
-
-    craftsmen = {
-        culture = trentonite
-        religion = protestant
-        size = 275
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 1525
-    }
-
-    soldiers = {
-        culture = trentonite
-        religion = protestant
-        size = 1000
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 32280
-    }
 }
 #Rhode Island Region (104000)
 #ruled by the USA
@@ -11538,55 +11100,55 @@
     bureaucrats = {
         culture = yankee
         religion = protestant
-        size = 25
+        size = 50
     }
 
     officers = {
         culture = yankee
         religion = protestant
-        size = 12
+        size = 25
     }
 
     capitalists = {
         culture = yankee
         religion = protestant
-        size = 12
+        size = 25
     }
 
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 87
+        size = 175
     }
 
     clerks = {
         culture = yankee
         religion = protestant
-        size = 37
+        size = 75
     }
 
     craftsmen = {
         culture = yankee
         religion = protestant
-        size = 375
+        size = 750
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 2087
+        size = 4175
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 125
+        size = 250
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 4500
+        size = 9000
     }
 
     clergymen = {
@@ -11690,60 +11252,6 @@
         religion = catholic
         size = 8
     }
-
-    bureaucrats = {
-        culture = trentonite
-        religion = protestant
-        size = 25
-    }
-
-    officers = {
-        culture = trentonite
-        religion = protestant
-        size = 13
-    }
-
-    capitalists = {
-        culture = trentonite
-        religion = protestant
-        size = 13
-    }
-
-    clergymen = {
-        culture = trentonite
-        religion = protestant
-        size = 88
-    }
-
-    clerks = {
-        culture = trentonite
-        religion = protestant
-        size = 38
-    }
-
-    craftsmen = {
-        culture = trentonite
-        religion = protestant
-        size = 375
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 2088
-    }
-
-    soldiers = {
-        culture = trentonite
-        religion = protestant
-        size = 125
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 4500
-    }
 }
 #Massachusetts Region (660000)
 #ruled by the USA
@@ -11806,79 +11314,79 @@
     bureaucrats = {
         culture = yankee
         religion = protestant
-        size = 150
+        size = 300
     }
 
     officers = {
         culture = yankee
         religion = protestant
-        size = 75
+        size = 150
     }
 
     capitalists = {
         culture = yankee
         religion = protestant
-        size = 175
+        size = 350
     }
 
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 337
+        size = 675
     }
 
     clerks = {
         culture = yankee
         religion = protestant
-        size = 412
+        size = 825
     }
 
     craftsmen = {
         culture = yankee
         religion = protestant
-        size = 8125
+        size = 16250
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 5000
+        size = 10000
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 5000
+        size = 10000
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 5000
+        size = 10000
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 5000
+        size = 10000
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 3962
+        size = 7925
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 1000
+        size = 2000
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 11072
+        size = 22145
     }
 
     clergymen = {
@@ -11951,84 +11459,6 @@
         culture = trentonite
         religion = catholic
         size = 1438
-    }
-
-    bureaucrats = {
-        culture = trentonite
-        religion = protestant
-        size = 150
-    }
-
-    officers = {
-        culture = trentonite
-        religion = protestant
-        size = 75
-    }
-
-    capitalists = {
-        culture = trentonite
-        religion = protestant
-        size = 175
-    }
-
-    clergymen = {
-        culture = trentonite
-        religion = protestant
-        size = 338
-    }
-
-    clerks = {
-        culture = trentonite
-        religion = protestant
-        size = 413
-    }
-
-    craftsmen = {
-        culture = trentonite
-        religion = protestant
-        size = 8125
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 5000
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 5000
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 5000
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 5000
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 3963
-    }
-
-    soldiers = {
-        culture = trentonite
-        religion = protestant
-        size = 1000
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 11073
     }
 }
 #New Bedford (132000/33000 POPS)
@@ -12128,25 +11558,25 @@
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 75
+        size = 150
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 525
+        size = 1050
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 112
+        size = 225
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 9787
+        size = 19575
     }
 
     clergymen = {
@@ -12159,30 +11589,6 @@
         culture = trentonite
         religion = catholic
         size = 100
-    }
-
-    clergymen = {
-        culture = trentonite
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = trentonite
-        religion = protestant
-        size = 525
-    }
-
-    soldiers = {
-        culture = trentonite
-        religion = protestant
-        size = 113
-    }
-
-    farmers = {
-        culture = trentonite
-        religion = protestant
-        size = 9788
     }
 }
 #Vermont Region (284000)

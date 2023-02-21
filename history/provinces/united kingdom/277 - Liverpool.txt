@@ -4,6 +4,7 @@ trade_goods = fish
 life_rating = 40	
 add_core = ENG
 add_core = WHA
+add_core = ENL
 terrain = liverpool
 naval_base = 2	
 fort = 0	

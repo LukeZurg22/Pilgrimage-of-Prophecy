@@ -1,7 +1,7 @@
 name = "War In The Isles Over Scottish Dominance"
 
 1835.1.3 = {
-	add_attacker = ENG
+	add_attacker = ENL
 	add_attacker = WHA
 	add_attacker = IRE
 	add_defender = SCO
@@ -13,7 +13,7 @@ name = "War In The Isles Over Scottish Dominance"
 	# state_province_id - target state capital
 	war_goal = {
 		casus_belli = acquire_all_cores
-		actor = ENG
+		actor = ENL
 		receiver = SCO
 	}
 	war_goal = {
@@ -29,7 +29,7 @@ name = "War In The Isles Over Scottish Dominance"
 	war_goal = {
 		casus_belli = unification_annex_casus_belli
 		actor = SCO
-		receiver = ENG
+		receiver = ENL
 	}
 	war_goal = {
 		casus_belli = unification_annex_casus_belli

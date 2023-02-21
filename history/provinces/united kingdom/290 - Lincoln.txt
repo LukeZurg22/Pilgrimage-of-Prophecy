@@ -3,5 +3,6 @@ controller = ZUR
 trade_goods = iron
 life_rating = 35	
 add_core = ENG
+add_core = ENL
 naval_base = 1	
 fort = 0	

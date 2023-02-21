@@ -1,8 +1,9 @@
-owner = ENG
-controller = ENG
+owner = ENL
+controller = ENL
 trade_goods = coal
 life_rating = 35	
 add_core = ENG
+add_core = ENL
 terrain = birmingham
 fort = 0	
 state_building = {

@@ -3,6 +3,7 @@ controller = SCO
 trade_goods = coal
 life_rating = 35	
 add_core = ENG
+add_core = ENL
 terrain = newcastle
 fort = 0	
 state_building = {
