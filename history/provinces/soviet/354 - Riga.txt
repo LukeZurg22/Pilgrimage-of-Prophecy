@@ -1,21 +1,8 @@
 owner = ZUR
 controller = ZUR
-add_core = UBD
-add_core = RUS
-add_core = LAT
 trade_goods = fish
-life_rating = 40
+life_rating = 40	
+add_core = ZUR
 terrain = riga
-naval_base = 2
-#state_building = {
-#	level = 1
-#	building = glass_factory
-#	upgrade = yes
-#}
-1861.1.1 = { 
-	state_building = {
-		level = 1
-		building = glass_factory
-		upgrade = yes
-	} 
-}
+naval_base = 2	
+fort = 0	

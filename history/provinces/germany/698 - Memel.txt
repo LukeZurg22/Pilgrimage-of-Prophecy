@@ -5,4 +5,5 @@ life_rating = 40
 add_core = PRU
 add_core = GER
 add_core = LIT
+add_core = ZUR
 fort = 0	

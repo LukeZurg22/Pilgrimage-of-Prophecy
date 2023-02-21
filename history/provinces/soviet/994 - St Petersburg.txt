@@ -2,6 +2,7 @@ owner = ZUR
 controller = ZUR
 trade_goods = grain
 life_rating = 42	
+add_core = ZUR
 terrain = stpetersburg
 naval_base = 1	
 fort = 1	

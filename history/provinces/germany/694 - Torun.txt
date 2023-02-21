@@ -6,4 +6,5 @@ colonial = 1
 add_core = PRU
 add_core = GER
 add_core = PML
+add_core = ZUR
 fort = 0	

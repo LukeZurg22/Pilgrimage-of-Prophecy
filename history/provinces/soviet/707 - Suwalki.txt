@@ -4,4 +4,5 @@ trade_goods = grain
 life_rating = 35	
 add_core = CPL
 add_core = POL
+add_core = ZUR
 fort = 0	
