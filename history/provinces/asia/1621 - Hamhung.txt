@@ -1,5 +1,5 @@
-
-
-add_core = KOR
+owner = KOR
 trade_goods = iron
-life_rating = 31
+life_rating = 31	
+add_core = KOR
+fort = 0	

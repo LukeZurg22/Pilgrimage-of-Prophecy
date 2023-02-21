@@ -1,6 +1,7 @@
-owner = TKG
-controller = TKG
-add_core = TKG
+owner = KOR
+controller = KOR
 trade_goods = fish
+life_rating = 30	
+add_core = KOR
 terrain = small_island
-life_rating = 30
+fort = 0	

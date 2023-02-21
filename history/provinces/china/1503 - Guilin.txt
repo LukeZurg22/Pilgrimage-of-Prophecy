@@ -1,6 +1,6 @@
-
-
-add_core = CHI
-add_core = GXI
+owner = GXI
+controller = GXI
 trade_goods = cotton
-life_rating = 32
+life_rating = 32	
+add_core = GXI
+fort = 0	

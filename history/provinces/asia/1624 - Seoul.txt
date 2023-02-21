@@ -1,6 +1,7 @@
-
-
-add_core = KOR
+owner = KOR
+controller = KOR
 trade_goods = grain
-life_rating = 31
+life_rating = 31	
+add_core = KOR
 terrain = hanseong
+fort = 0	
