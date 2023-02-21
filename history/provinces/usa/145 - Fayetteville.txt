@@ -1,22 +1,8 @@
-
- 
-add_core = USA 
+owner = ULA
+controller = ULA
 trade_goods = timber
-life_rating = 35
-colonial = 2
-
-party_loyalty = {
-	ideology = conservative
-	loyalty_value = 12
-}
-
-party_loyalty = {
-	ideology = liberal
-	loyalty_value = 12
-}
-
-1861.1.1 = {
-	controller = CSA
-	owner = CSA
-	add_core = CSA
-}
+life_rating = 35	
+colonial = 2	
+add_core = USA
+add_core = ULA
+fort = 0	

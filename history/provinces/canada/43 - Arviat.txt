@@ -1,6 +1,8 @@
-
-
+owner = ULA
+controller = ULA
+trade_goods = cotton
+life_rating = 35	
 add_core = TEX
 add_core = MEX
-trade_goods = cotton
-life_rating = 35
+add_core = ULA
+fort = 0	
