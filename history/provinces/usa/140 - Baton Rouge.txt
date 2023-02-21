@@ -1,7 +1,8 @@
-owner = ULA
-controller = ULA
+owner = KEN
+controller = KEN
 trade_goods = cotton
 life_rating = 35	
 add_core = USA
 add_core = ULA
+add_core = KEN
 fort = 0	

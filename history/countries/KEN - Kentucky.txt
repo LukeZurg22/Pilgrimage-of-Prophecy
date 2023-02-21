@@ -1,8 +1,7 @@
 capital = 184
-primary_culture = yankee
-culture = dixie
+primary_culture = dixie
 religion = catholic
-government = democracy
+government = absolute_monarchy
 plurality = 100.0
 nationalvalue = nv_order
 literacy = 1
