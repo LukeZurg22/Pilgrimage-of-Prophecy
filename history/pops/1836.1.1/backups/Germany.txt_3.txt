@@ -1199,7 +1199,7 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 38268
+        size = 85040
     }
 
     clergymen = {
@@ -1351,12 +1351,6 @@
         religion = protestant
         size = 1620
     }
-
-    farmers = {
-        culture = western_slavic
-        religion = protestant
-        size = 46772
-    }
 }
 #Prenzlau (280000/70000 POPS)
 550 = {
@@ -1463,7 +1457,7 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 7200
+        size = 16000
     }
 
     farmers = {
@@ -1518,12 +1512,6 @@
         culture = western_slavic
         religion = protestant
         size = 4000
-    }
-
-    farmers = {
-        culture = western_slavic
-        religion = protestant
-        size = 8800
     }
 }
 #Anhalt Region (1527000)
@@ -1705,7 +1693,7 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 33093
+        size = 73540
     }
 
     clergymen = {
@@ -1772,12 +1760,6 @@
         culture = western_slavic
         religion = protestant
         size = 18385
-    }
-
-    farmers = {
-        culture = western_slavic
-        religion = protestant
-        size = 40447
     }
 }
 #Stendal (140000/35000 POPS)
@@ -1948,7 +1930,7 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 52958
+        size = 117684
     }
 
     clergymen = {
@@ -2094,12 +2076,6 @@
         religion = protestant
         size = 420
     }
-
-    farmers = {
-        culture = western_slavic
-        religion = protestant
-        size = 64726
-    }
 }
 #Leipzig (420000/105000 POPS)
 559 = {
@@ -2142,7 +2118,7 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 32688
+        size = 72640
     }
 
     clergymen = {
@@ -2222,12 +2198,6 @@
         religion = protestant
         size = 15
     }
-
-    farmers = {
-        culture = western_slavic
-        religion = protestant
-        size = 39952
-    }
 }
 #Chemnitz (280000/70000 POPS)
 560 = {
@@ -2258,7 +2228,7 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 22527
+        size = 50060
     }
 
     craftsmen = {
@@ -2289,12 +2259,6 @@
         culture = western_slavic
         religion = protestant
         size = 12515
-    }
-
-    farmers = {
-        culture = western_slavic
-        religion = protestant
-        size = 27533
     }
 }
 #Thuringia Region (865000)
@@ -5059,7 +5023,7 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 18522
+        size = 41160
     }
 
     clergymen = {
@@ -5120,12 +5084,6 @@
         culture = western_slavic
         religion = protestant
         size = 10290
-    }
-
-    farmers = {
-        culture = western_slavic
-        religion = protestant
-        size = 22638
     }
 }
 #East Prussia Region (712000) #see Poland.txt and Lithuania.txt for balance of region

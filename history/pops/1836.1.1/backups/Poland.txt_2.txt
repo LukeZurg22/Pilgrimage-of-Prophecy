@@ -247,7 +247,7 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 16713
+        size = 37140
     }
 
     farmers = {
@@ -291,12 +291,6 @@
         religion = protestant
         size = 9285
     }
-
-    farmers = {
-        culture = western_slavic
-        religion = protestant
-        size = 20427
-    }
 }
 #Silesia Region (2568000) #see Czechia.txt and Germany.txt for balance of region
 #under the rule of Prussia in 1836
@@ -311,7 +305,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 640
+        size = 2560
     }
 
     officers = {
@@ -359,7 +353,7 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 53021
+        size = 117824
     }
 
     clergymen = {
@@ -505,18 +499,6 @@
         religion = protestant
         size = 29456
     }
-
-    bureaucrats = {
-        culture = western_slavic
-        religion = protestant
-        size = 1920
-    }
-
-    farmers = {
-        culture = western_slavic
-        religion = protestant
-        size = 64803
-    }
 }
 #Liegnitz (484000/121000 POPS)
 683 = {
@@ -547,7 +529,7 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 35964
+        size = 79920
     }
 
     craftsmen = {
@@ -663,12 +645,6 @@
         religion = protestant
         size = 280
     }
-
-    farmers = {
-        culture = western_slavic
-        religion = protestant
-        size = 43956
-    }
 }
 #Oppeln (492000/123000 POPS)
 684 = {
@@ -699,7 +675,7 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 11799
+        size = 26220
     }
 
     clergymen = {
@@ -827,12 +803,6 @@
         religion = protestant
         size = 6555
     }
-
-    farmers = {
-        culture = western_slavic
-        religion = protestant
-        size = 14421
-    }
 }
 #Kattowitz (452000/113000 POPS)
 685 = {
@@ -863,7 +833,7 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 2727
+        size = 6060
     }
 
     clergymen = {
@@ -966,12 +936,6 @@
         culture = western_slavic
         religion = protestant
         size = 1515
-    }
-
-    farmers = {
-        culture = western_slavic
-        religion = protestant
-        size = 3333
     }
 }
 #under the rule of Austria in 1836
@@ -1516,7 +1480,7 @@
     bureaucrats = {
         culture = north_german
         religion = protestant
-        size = 140
+        size = 560
     }
 
     officers = {
@@ -1546,7 +1510,7 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 9657
+        size = 21460
     }
 
     clergymen = {
@@ -1655,18 +1619,6 @@
         culture = western_slavic
         religion = protestant
         size = 5365
-    }
-
-    bureaucrats = {
-        culture = western_slavic
-        religion = protestant
-        size = 420
-    }
-
-    farmers = {
-        culture = western_slavic
-        religion = protestant
-        size = 11803
     }
 }
 #Bromberg (212000/53000 POPS)
@@ -1796,7 +1748,7 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 4365
+        size = 9700
     }
 
     clergymen = {
@@ -1893,12 +1845,6 @@
         culture = western_slavic
         religion = protestant
         size = 2425
-    }
-
-    farmers = {
-        culture = western_slavic
-        religion = protestant
-        size = 5335
     }
 }
 #under the rule of Russia in 1836 (496000)
