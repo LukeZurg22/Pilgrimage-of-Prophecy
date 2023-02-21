@@ -1,6 +1,7 @@
-
-
-add_core = CHI
+owner = GNG
+controller = GNG
 trade_goods = cotton
-life_rating = 32
+life_rating = 32	
+add_core = GNG
 terrain = ningbo
+fort = 0	

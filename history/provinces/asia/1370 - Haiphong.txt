@@ -1,5 +1,6 @@
-
-
-add_core = DAI
+owner = GXI
+controller = GXI
 trade_goods = grain
-life_rating = 40
+life_rating = 40	
+add_core = DAI
+fort = 0	

@@ -1,6 +1,6 @@
-
-
-add_core = SIA
-add_core = SHA
+owner = SIA
+controller = SIA
 trade_goods = opium
-life_rating = 32
+life_rating = 32	
+add_core = SIA
+fort = 0	

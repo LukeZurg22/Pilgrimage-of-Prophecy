@@ -1,7 +1,6 @@
-
-
-add_core = SIA
-add_core = WIA
-add_core = LUA
+owner = GXI
+controller = GXI
 trade_goods = grain
-life_rating = 35
+life_rating = 35	
+add_core = SIA
+fort = 0	

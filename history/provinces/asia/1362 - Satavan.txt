@@ -1,6 +1,6 @@
-
-
-add_core = SIA
-add_core = CHK
+owner = DAI
+controller = DAI
 trade_goods = tobacco
-life_rating = 32
+life_rating = 32	
+add_core = DAI
+fort = 0	

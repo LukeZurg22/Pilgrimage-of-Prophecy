@@ -1,7 +1,8 @@
-
-
-add_core = SIA
+owner = SIA
+controller = SIA
 trade_goods = grain
-life_rating = 42
+life_rating = 42	
+add_core = SIA
 terrain = bangkok
-naval_base = 1
+naval_base = 1	
+fort = 0	

@@ -1,7 +1,8 @@
-
-
+owner = SIA
+controller = SIA
+trade_goods = tropical_wood
+life_rating = 32	
 add_core = SIA
 add_core = WIA
 add_core = LUA
-trade_goods = tropical_wood
-life_rating = 32
+fort = 0	

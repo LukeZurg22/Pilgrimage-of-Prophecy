@@ -1,6 +1,7 @@
-
-
+owner = SIA
+controller = SIA
+trade_goods = grain
+life_rating = 37	
 add_core = SIA
 add_core = CAM
-trade_goods = grain
-life_rating = 37
+fort = 0	

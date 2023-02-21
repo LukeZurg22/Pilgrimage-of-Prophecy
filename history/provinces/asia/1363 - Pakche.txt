@@ -1,6 +1,6 @@
-
-
-add_core = SIA
-add_core = CHK
+owner = DAI
+controller = DAI
 trade_goods = grain
-life_rating = 33
+life_rating = 33	
+add_core = DAI
+fort = 0	

@@ -1,6 +1,7 @@
-
-
-add_core = DAI
+owner = DAI
+controller = DAI
 trade_goods = grain
-life_rating = 34
+life_rating = 34	
+add_core = DAI
 terrain = hue
+fort = 0	
