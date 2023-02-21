@@ -2,21 +2,6 @@ graphical_culture = UsGC
 color = { 228  173 205 }
 
 party = {
-	name = "USA_liberal"
-	start_date = 1854.1.1
-	end_date = 2000.1.1
-
-	ideology = liberal
-
-	social_policy = no_position_set
-	economic_policy = laissez_faire
-	trade_policy = protectionism
-	religious_policy = pluralism
-	citizenship_policy = full_citizenship
-	war_policy = pro_military
-}
-
-party = {
 	name = "FEM_conservative"
 	start_date = 1820.1.1
 	end_date = 1860.1.1
@@ -24,7 +9,7 @@ party = {
 	ideology = conservative
 
 	social_policy = no_position_set
-	economic_policy = laissez_faire
+	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = pluralism
 	citizenship_policy = limited_citizenship
@@ -38,7 +23,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	social_policy = welfare_state
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -54,7 +39,7 @@ party = {
 	ideology = socialist
 
 	social_policy = welfare_state
-	economic_policy = state_capitalism
+	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = secularized
 	citizenship_policy = full_citizenship
@@ -83,12 +68,12 @@ party = {
 
 	ideology = anarcho_liberal
 
-	social_policy = no_state_interference
+	social_policy = welfare_state
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pro_atheism
-	citizenship_policy = full_citizenship
-	war_policy = pro_military
+	citizenship_policy = residency
+	war_policy = jingoism
 }
 
 party = {

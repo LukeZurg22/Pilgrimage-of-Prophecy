@@ -1,6 +1,7 @@
-owner = TUR
-controller = TUR
+owner = BOS
+controller = BOS
+trade_goods = timber
+life_rating = 35	
 add_core = TUR
 add_core = SER
-trade_goods = timber
-life_rating = 35
+fort = 0	

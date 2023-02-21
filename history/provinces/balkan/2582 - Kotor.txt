@@ -1,7 +1,9 @@
-owner = AUS
-controller = AUS
+owner = MON
+controller = MON
+trade_goods = fish
+life_rating = 35	
 add_core = CRO
 add_core = DLM
 add_core = MON
-trade_goods = fish
-life_rating = 35
+add_core = BOS
+fort = 0	
