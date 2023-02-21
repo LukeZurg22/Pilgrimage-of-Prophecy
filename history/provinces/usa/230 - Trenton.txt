@@ -1,26 +1,12 @@
-
-
-
-add_core = USA
-
-
+owner = NWJ
+controller = NWJ
 trade_goods = fish
-
-life_rating = 35
-
-party_loyalty = {
-	ideology = conservative
-	loyalty_value = 5
-}
-party_loyalty = {
-	ideology = liberal
-	loyalty_value = 15
-}
-
+life_rating = 35	
+add_core = USA
+add_core = NWJ
+fort = 0	
 state_building = {
 	level = 1
 	building = fabric_factory
 	upgrade = yes
 }
-
-1861.1.1 = { railroad = 3 }

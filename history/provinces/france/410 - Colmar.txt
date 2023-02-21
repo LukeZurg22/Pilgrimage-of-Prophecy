@@ -1,7 +1,8 @@
-
-
+owner = NCT
+controller = NCT
+trade_goods = sulphur
+life_rating = 31	
 add_core = FRA
 add_core = ALS
-trade_goods = sulphur
-life_rating = 31
-1861.1.1 = { railroad = 3 }
+add_core = NCT
+fort = 0	
