@@ -1,14 +1,7 @@
-
-
-
-
-add_core = USA
-
+owner = NWJ
+controller = NWJ
 trade_goods = grain
-life_rating = 35
+life_rating = 35	
+add_core = USA
 terrain = dc
-
-party_loyalty = {
-	ideology = liberal
-	loyalty_value = 40
-}
+fort = 0	

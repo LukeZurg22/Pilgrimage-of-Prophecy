@@ -1,15 +1,8 @@
-
-
-add_core = USA
+owner = OHI
+controller = OHI
 trade_goods = timber
-life_rating = 35
-colonial = 2
-1861.1.1 = {
-	colonial = 0
-	state_building = {
-		level = 1
-		building = lumber_mill
-		upgrade = yes
-	}
-}
-1861.1.1 = { railroad = 3 }
+life_rating = 35	
+colonial = 2	
+add_core = USA
+add_core = OHI
+fort = 0	
