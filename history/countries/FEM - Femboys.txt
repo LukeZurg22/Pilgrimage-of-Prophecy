@@ -1,10 +1,10 @@
 capital = 179
-primary_culture = yankee
-culture = dixie
-religion = catholic
-government = democracy
+primary_culture = slovenian
+culture = croatian
+religion = protestant
+government = absolute_monarchy
 plurality = 100.0
-nationalvalue = nv_order
+nationalvalue = nv_liberty
 literacy = 1
 non_state_culture_literacy = 0.1
 civilized = yes
@@ -43,14 +43,13 @@ colonial_policy = settlement
 
 set_country_flag = protestant_country
 
-ruling_party = USA_conservative
-last_election = 1832.5.3
+ruling_party = FEM_anarcho_liberal
 upper_house = {
 	fascist = 0
-	liberal = 37
-	conservative = 60
-	reactionary = 3
-	anarcho_liberal = 0
+	liberal = 10
+	conservative = 25
+	reactionary = 25
+	anarcho_liberal = 40
 	socialist = 0
 	communist = 0
 }
