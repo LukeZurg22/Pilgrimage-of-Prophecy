@@ -5243,49 +5243,25 @@
     clergymen = {
         culture = lithuanian
         religion = protestant
-        size = 35
+        size = 50
     }
 
     artisans = {
         culture = lithuanian
         religion = protestant
-        size = 175
+        size = 250
     }
 
     soldiers = {
         culture = lithuanian
         religion = protestant
-        size = 35
+        size = 50
     }
 
     farmers = {
         culture = lithuanian
         religion = protestant
-        size = 3955
-    }
-
-    clergymen = {
-        culture = zyrgi
-        religion = orthodox
-        size = 15
-    }
-
-    artisans = {
-        culture = zyrgi
-        religion = orthodox
-        size = 75
-    }
-
-    soldiers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 15
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 1695
+        size = 5650
     }
 }
 #Gumbinnen (228000/57000 POPS) #now part of Russia
@@ -5347,49 +5323,25 @@
     clergymen = {
         culture = lithuanian
         religion = protestant
-        size = 17
+        size = 25
     }
 
     artisans = {
         culture = lithuanian
         religion = protestant
-        size = 105
+        size = 150
     }
 
     soldiers = {
         culture = lithuanian
         religion = protestant
-        size = 17
+        size = 25
     }
 
     farmers = {
         culture = lithuanian
         religion = protestant
-        size = 2660
-    }
-
-    clergymen = {
-        culture = zyrgi
-        religion = orthodox
-        size = 8
-    }
-
-    artisans = {
-        culture = zyrgi
-        religion = orthodox
-        size = 45
-    }
-
-    soldiers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 8
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 1140
+        size = 3800
     }
 }
 #Former Ghat - Now Nordhorn(16000/4000 POPS)

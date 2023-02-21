@@ -2733,25 +2733,25 @@
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 31
+        size = 45
     }
 
     artisans = {
         culture = latvian
         religion = protestant
-        size = 105
+        size = 150
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 21
+        size = 30
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 1942
+        size = 2775
     }
 
     clergymen = {
@@ -2782,30 +2782,6 @@
         culture = zyrgi
         religion = orthodox
         size = 21800
-    }
-
-    clergymen = {
-        culture = zyrgi
-        religion = orthodox
-        size = 14
-    }
-
-    artisans = {
-        culture = zyrgi
-        religion = orthodox
-        size = 45
-    }
-
-    soldiers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 9
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 833
     }
 }
 #Velikiye Luki (320000/80000 POPS)

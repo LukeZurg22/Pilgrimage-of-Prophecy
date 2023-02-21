@@ -912,7 +912,7 @@ baltic = {
 		}
 	}
 	zyrgi = {
-		color = {220 220 220}
+		color = {200 200 200}
 		first_names = { Aadu Alar Heino Hendrik Hjalmar Ivari Thundasmacka
 		Jaan Jakob Johannes Joosep Juhan Julius Jri Kaarel Kalev Konstantin Borscjtesckinzad
 		Lennart Ludvig Madis Mart Mikhel Nigul Olev Paavo Peeter Pent Borscjt

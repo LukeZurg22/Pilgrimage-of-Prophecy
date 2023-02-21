@@ -5,25 +5,25 @@
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 227
+        size = 325
     }
 
     artisans = {
         culture = latvian
         religion = protestant
-        size = 1050
+        size = 1500
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 1680
+        size = 2400
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 25742
+        size = 36775
     }
 
     aristocrats = {
@@ -127,55 +127,31 @@
         religion = jewish
         size = 800
     }
-
-    clergymen = {
-        culture = zyrgi
-        religion = orthodox
-        size = 98
-    }
-
-    artisans = {
-        culture = zyrgi
-        religion = orthodox
-        size = 450
-    }
-
-    soldiers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 720
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 11033
-    }
 }
 #Valmeira (516000/129000 POPS)
 355 = {
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 770
+        size = 1100
     }
 
     artisans = {
         culture = latvian
         religion = protestant
-        size = 2345
+        size = 3350
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 1505
+        size = 2150
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 78662
+        size = 112375
     }
 
     aristocrats = {
@@ -291,55 +267,31 @@
         religion = orthodox
         size = 620
     }
-
-    clergymen = {
-        culture = zyrgi
-        religion = orthodox
-        size = 330
-    }
-
-    artisans = {
-        culture = zyrgi
-        religion = orthodox
-        size = 1005
-    }
-
-    soldiers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 645
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 33713
-    }
 }
 #Daugavpils (136000/34000 POPS)
 356 = {
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 122
+        size = 175
     }
 
     artisans = {
         culture = latvian
         religion = protestant
-        size = 455
+        size = 650
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 175
+        size = 250
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 13860
+        size = 19800
     }
 
     aristocrats = {
@@ -423,7 +375,7 @@
     farmers = {
         culture = lithuanian
         religion = catholic
-        size = 2695
+        size = 3850
     }
 
     farmers = {
@@ -437,61 +389,31 @@
         religion = orthodox
         size = 820
     }
-
-    clergymen = {
-        culture = zyrgi
-        religion = orthodox
-        size = 53
-    }
-
-    artisans = {
-        culture = zyrgi
-        religion = orthodox
-        size = 195
-    }
-
-    soldiers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 75
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 5940
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 1155
-    }
 }
 #Jelgava (128000/32000 POPS)
 357 = {
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 157
+        size = 225
     }
 
     artisans = {
         culture = latvian
         religion = protestant
-        size = 175
+        size = 250
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 175
+        size = 250
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 19792
+        size = 28275
     }
 
     farmers = {
@@ -547,30 +469,6 @@
         religion = jewish
         size = 750
     }
-
-    clergymen = {
-        culture = zyrgi
-        religion = orthodox
-        size = 68
-    }
-
-    artisans = {
-        culture = zyrgi
-        religion = orthodox
-        size = 75
-    }
-
-    soldiers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 75
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 8483
-    }
 }
 #Ventspils (140000/35000 POPS) #uralic = Livonian
 358 = {
@@ -583,19 +481,19 @@
     artisans = {
         culture = latvian
         religion = protestant
-        size = 210
+        size = 300
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 192
+        size = 275
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 20615
+        size = 29450
     }
 
     aristocrats = {
@@ -657,49 +555,31 @@
         religion = orthodox
         size = 825
     }
-
-    artisans = {
-        culture = zyrgi
-        religion = orthodox
-        size = 90
-    }
-
-    soldiers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 83
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 8835
-    }
 }
 #Liepaja (96000/24000 POPS)
 359 = {
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 122
+        size = 175
     }
 
     artisans = {
         culture = latvian
         religion = protestant
-        size = 105
+        size = 150
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 140
+        size = 200
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 15032
+        size = 21475
     }
 
     aristocrats = {
@@ -748,29 +628,5 @@
         culture = ashkenazi
         religion = jewish
         size = 750
-    }
-
-    clergymen = {
-        culture = zyrgi
-        religion = orthodox
-        size = 53
-    }
-
-    artisans = {
-        culture = zyrgi
-        religion = orthodox
-        size = 45
-    }
-
-    soldiers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 60
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 6443
     }
 }

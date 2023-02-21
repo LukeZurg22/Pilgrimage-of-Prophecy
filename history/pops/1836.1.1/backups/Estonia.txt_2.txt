@@ -143,25 +143,13 @@
     farmers = {
         culture = russian
         religion = orthodox
-        size = 60
+        size = 100
     }
 
     farmers = {
         culture = zyrgi
         religion = orthodox
         size = 18934
-    }
-
-    bureaucrats = {
-        culture = zyrgi
-        religion = orthodox
-        size = 0
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 40
     }
 }
 #Narva (184000/46000 POPS)
@@ -217,25 +205,13 @@
     farmers = {
         culture = russian
         religion = orthodox
-        size = 660
+        size = 1100
     }
 
     farmers = {
         culture = zyrgi
         religion = orthodox
         size = 21904
-    }
-
-    bureaucrats = {
-        culture = zyrgi
-        religion = orthodox
-        size = 0
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 440
     }
 }
 #Parnu (92000/23000 POPS)
@@ -298,12 +274,6 @@
         culture = zyrgi
         religion = orthodox
         size = 11440
-    }
-
-    bureaucrats = {
-        culture = zyrgi
-        religion = orthodox
-        size = 0
     }
 }
 #Tartu/Dorpat (156000/39000 POPS)
@@ -383,25 +353,13 @@
     farmers = {
         culture = russian
         religion = orthodox
-        size = 795
+        size = 1325
     }
 
     farmers = {
         culture = zyrgi
         religion = orthodox
         size = 18975
-    }
-
-    bureaucrats = {
-        culture = zyrgi
-        religion = orthodox
-        size = 0
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 530
     }
 }
 #Kuressaare (16000/4000 POPS)
@@ -461,19 +419,8 @@
     }
 
     farmers = {
-        culture = estonian
+        culture = zyrgi
         religion = orthodox
         size = 1774
-    }
-farmers = {
-        culture = zyrgi
-        religion = soldiers
-        size = 500
-}
-
-    bureaucrats = {
-        culture = zyrgi
-        religion = orthodox
-        size = 0
     }
 }

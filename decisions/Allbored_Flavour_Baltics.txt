@@ -1,0 +1,107 @@
+political_decisions = {
+	zyrgi_rename = {
+		picture = gtfo
+		potential = {
+			AND = {
+				tag = ZUR
+				OR = {
+					AND = { owns = 360 NOT = { has_global_flag = lithuanian_renamed_vilnius } }
+					AND = { owns = 361 NOT = { has_global_flag = lithuanian_renamed_lithuania } }
+					AND = { owns = 947 NOT = { has_global_flag = lithuanian_renamed_lithuania_pinsk } }
+				}
+			}
+		}
+		
+		allow = {
+			war = no
+		}
+		
+		effect = {
+			random_owned = {
+				limit = {
+					province_id = 361
+					owner = {
+						OR = { 
+							primary_culture = lithuanian
+							is_culture_group = baltic
+							tag = ZUR
+						}
+					}
+				}
+				361 = { 
+					change_province_name = "Zurganas" 
+					state_scope = {
+						change_region_name = "Zurguvos"
+					}
+				}
+				362 = { change_province_name = "Zurgampole" }	
+				363 = { change_province_name = "Zurgežys" }
+				364 = { change_province_name = "Zurguliai" }		
+				365 = { change_province_name = "Zurganga" }
+				359 = { change_province_name = "Zurgaja" }
+				358 = { change_province_name = "Zurgspils" }
+				357 = { change_province_name = "Zurgava" }
+				356 = { change_province_name = "Zurgavpils" }
+				355 = { change_province_name = "Zurgiera" }
+				354 = { change_province_name = "Zuriga" }
+				352 = { change_province_name = "Zurg" }
+				351 = { change_province_name = "Zurgnu" }
+				350 = { change_province_name = "Zurgarva" }
+				349 = { change_province_name = "Zurgeval" }
+				
+				owner = { 
+					set_global_flag = lithuanian_renamed_lithuania
+					clr_global_flag = german_renamed_lithuania
+					clr_global_flag = russian_renamed_lithuania 
+					clr_global_flag = polish_renamed_lithuania
+				}
+			}
+			
+			###Zyrgi - Vilnius###
+			random_owned = {
+				limit = {
+					province_id = 360
+					owner = {
+						OR = { 
+							primary_culture = lithuanian
+							is_culture_group = baltic
+							tag = PLC
+						}
+					}
+				}
+				360 = { change_province_name = "Zurgius" }
+				owner = { 
+					set_global_flag = lithuanian_renamed_vilnius
+					clr_global_flag = german_renamed_vilnius
+					clr_global_flag = russian_renamed_vilnius
+					clr_global_flag = polish_renamed_vilnius
+				}
+			}
+			
+			###Zyrgi - Pinsk###
+			random_owned = {
+				limit = {
+					province_id = 938
+					owner = {
+						OR = { 
+							primary_culture = lithuanian
+							is_culture_group = baltic
+							tag = PLC
+						}
+					}
+				}
+				938 = { change_province_name = "Zurgda" }
+				947 = { change_province_name = "Zurgovys" }
+				owner = { 
+					set_global_flag = lithuanian_renamed_lithuania_pinsk
+					clr_global_flag = german_renamed_lithuania_pinsk
+					clr_global_flag = russian_renamed_lithuania_pinsk 
+					clr_global_flag = polish_renamed_lithuania_pinsk
+				}
+			}
+			
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+}

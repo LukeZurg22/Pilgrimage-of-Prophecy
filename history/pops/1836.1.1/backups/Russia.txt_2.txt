@@ -1141,7 +1141,7 @@
     farmers = {
         culture = russian
         religion = orthodox
-        size = 1500
+        size = 2500
     }
 
     clergymen = {
@@ -1166,12 +1166,6 @@
         culture = finnish
         religion = orthodox
         size = 4000
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 1000
     }
 }
 #Kola (2200/550 POPS)
@@ -1733,19 +1727,13 @@
     farmers = {
         culture = russian
         religion = orthodox
-        size = 28470
+        size = 47450
     }
 
     serfs = {
         culture = russian
         religion = orthodox
         size = 40000
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 18980
     }
 }
 #Vyterga (96000/24000 POPS)
@@ -1777,7 +1765,7 @@
     farmers = {
         culture = russian
         religion = orthodox
-        size = 10410
+        size = 17350
     }
 
     clergymen = {
@@ -1802,12 +1790,6 @@
         culture = ugrian
         religion = orthodox
         size = 4625
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 6940
     }
 }
 #Ingria Region (1155000)
@@ -1901,7 +1883,7 @@
     farmers = {
         culture = russian
         religion = orthodox
-        size = 30420
+        size = 50700
     }
 
     aristocrats = {
@@ -2005,18 +1987,6 @@
         religion = orthodox
         size = 2159
     }
-
-    bureaucrats = {
-        culture = zyrgi
-        religion = orthodox
-        size = 0
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 20280
-    }
 }
 #Petrozavorsk (104000/26000 POPS)
 995 = {
@@ -2047,7 +2017,7 @@
     farmers = {
         culture = russian
         religion = orthodox
-        size = 7200
+        size = 12000
     }
 
     clergymen = {
@@ -2066,12 +2036,6 @@
         culture = finnish
         religion = orthodox
         size = 11500
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 4800
     }
 }
 #Luga (132000/33000 POPS)
@@ -2103,7 +2067,7 @@
     farmers = {
         culture = russian
         religion = orthodox
-        size = 28395
+        size = 47325
     }
 
     serfs = {
@@ -2116,12 +2080,6 @@
         culture = finnish
         religion = orthodox
         size = 10175
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 18930
     }
 }
 #Gdov (120000/30000 POPS)
@@ -2153,7 +2111,7 @@
     farmers = {
         culture = russian
         religion = orthodox
-        size = 34680
+        size = 57800
     }
 
     clergymen = {
@@ -2203,18 +2161,6 @@
         religion = orthodox
         size = 3259
     }
-
-    bureaucrats = {
-        culture = zyrgi
-        religion = orthodox
-        size = 0
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 23120
-    }
 }
 #Stara Ladoga (64000/16000 POPS)
 2580 = {
@@ -2245,7 +2191,7 @@
     farmers = {
         culture = russian
         religion = orthodox
-        size = 6420
+        size = 10700
     }
 
     clergymen = {
@@ -2276,12 +2222,6 @@
         culture = ugrian
         religion = orthodox
         size = 3000
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 4280
     }
 }
 #Tver Region (1824000)
@@ -2535,7 +2475,7 @@
     farmers = {
         culture = russian
         religion = orthodox
-        size = 36555
+        size = 60925
     }
 
     serfs = {
@@ -2554,12 +2494,6 @@
         culture = ashkenazi
         religion = jewish
         size = 490
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 24370
     }
 }
 #Tikhvin (156000/44000 POPS)
@@ -2591,7 +2525,7 @@
     farmers = {
         culture = russian
         religion = orthodox
-        size = 23040
+        size = 38400
     }
 
     clergymen = {
@@ -2616,12 +2550,6 @@
         culture = ugrian
         religion = orthodox
         size = 1850
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 15360
     }
 }
 #Borovichi (344000/86000 POPS)
@@ -2653,19 +2581,13 @@
     farmers = {
         culture = russian
         religion = orthodox
-        size = 35085
+        size = 58475
     }
 
     serfs = {
         culture = russian
         religion = orthodox
         size = 20000
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 23390
     }
 }
 #Pskov (472000/118000 POPS)
@@ -2697,7 +2619,7 @@
     farmers = {
         culture = russian
         religion = orthodox
-        size = 32700
+        size = 54500
     }
 
     serfs = {
@@ -2733,25 +2655,25 @@
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 31
+        size = 45
     }
 
     artisans = {
         culture = latvian
         religion = protestant
-        size = 105
+        size = 150
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 21
+        size = 30
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 1942
+        size = 2775
     }
 
     clergymen = {
@@ -2770,42 +2692,6 @@
         culture = zyrgi
         religion = orthodox
         size = 509
-    }
-
-    bureaucrats = {
-        culture = zyrgi
-        religion = orthodox
-        size = 0
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 21800
-    }
-
-    clergymen = {
-        culture = zyrgi
-        religion = orthodox
-        size = 14
-    }
-
-    artisans = {
-        culture = zyrgi
-        religion = orthodox
-        size = 45
-    }
-
-    soldiers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 9
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 833
     }
 }
 #Velikiye Luki (320000/80000 POPS)

@@ -3081,25 +3081,25 @@
     clergymen = {
         culture = lithuanian
         religion = catholic
-        size = 70
+        size = 100
     }
 
     artisans = {
         culture = lithuanian
         religion = catholic
-        size = 175
+        size = 250
     }
 
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 70
+        size = 100
     }
 
     farmers = {
         culture = lithuanian
         religion = catholic
-        size = 3237
+        size = 4625
     }
 
     clergymen = {
@@ -3124,30 +3124,6 @@
         culture = ashkenazi
         religion = jewish
         size = 2900
-    }
-
-    clergymen = {
-        culture = zyrgi
-        religion = orthodox
-        size = 30
-    }
-
-    artisans = {
-        culture = zyrgi
-        religion = orthodox
-        size = 75
-    }
-
-    soldiers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 30
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 1388
     }
 }
 #Plock (396000/99000 POPS)

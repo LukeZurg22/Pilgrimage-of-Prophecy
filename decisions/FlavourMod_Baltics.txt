@@ -139,6 +139,7 @@ political_decisions = {
 	latvia_rename = {
 		picture = gtfo
 		potential = {
+			NOT = { tag = ZUR }
 			OR = {
 				AND = {
 					is_culture_group = germanic
@@ -298,6 +299,7 @@ political_decisions = {
 	estonia_rename = {
 		picture = gtfo
 		potential = {
+			NOT = { tag = ZUR }
 			OR = {
 				AND = {
 					OR = {
@@ -420,6 +422,7 @@ political_decisions = {
 	lithuania_rename = {
 		picture = gtfo
 		potential = {
+			NOT = { tag = ZUR }
 			OR = {
 				AND = {
 					is_culture_group = germanic

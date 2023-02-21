@@ -423,7 +423,7 @@
     farmers = {
         culture = lithuanian
         religion = catholic
-        size = 2695
+        size = 3850
     }
 
     farmers = {
@@ -460,12 +460,6 @@
         culture = zyrgi
         religion = orthodox
         size = 5940
-    }
-
-    farmers = {
-        culture = zyrgi
-        religion = orthodox
-        size = 1155
     }
 }
 #Jelgava (128000/32000 POPS)
