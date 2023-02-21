@@ -1,9 +1,10 @@
-owner = PRU
-controller = PRU
+owner = SOR
+controller = SOR
+trade_goods = grain
+life_rating = 40	
 add_core = PRU
 add_core = GER
 add_core = PZN
-trade_goods = grain
+add_core = SOR
 terrain = pozan
-life_rating = 40
-1861.1.1 = { railroad = 3 }
+fort = 0	

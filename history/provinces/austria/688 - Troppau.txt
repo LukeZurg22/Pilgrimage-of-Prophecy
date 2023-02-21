@@ -1,8 +1,9 @@
-owner = AUS
-controller = AUS
+owner = SOR
+controller = SOR
+trade_goods = coal
+life_rating = 35	
 add_core = AUS
 add_core = BOH
 add_core = CZH
-trade_goods = coal
-life_rating = 35
-1861.1.1 = { railroad = 3 }
+add_core = SOR
+fort = 0	

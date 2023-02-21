@@ -1,7 +1,9 @@
-owner = SAX
-controller = SAX
+owner = SOR
+controller = SOR
+trade_goods = iron
+life_rating = 40	
 add_core = SAX
 add_core = GER
+add_core = SOR
 terrain = chemnitz
-trade_goods = iron
-life_rating = 40
+fort = 0	

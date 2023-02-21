@@ -1,7 +1,8 @@
-owner = PRU
-controller = PRU
+owner = SOR
+controller = SOR
+trade_goods = fruit
+life_rating = 40	
 add_core = PRU
 add_core = GER
-trade_goods = fruit
-life_rating = 40
-1861.1.1 = { railroad = 3 }
+add_core = SOR
+fort = 0	

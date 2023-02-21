@@ -1,12 +1,9 @@
-owner = KRA
-controller = KRA
+owner = SOR
+controller = SOR
+trade_goods = coal
+life_rating = 40	
 add_core = KRA
 add_core = POL
-trade_goods = coal
-life_rating = 40
+add_core = SOR
 terrain = krakow
-1861.1.1 = {
-	owner = AUS
-	controller = AUS
-}
-1861.1.1 = { railroad = 3 }
+fort = 0	
