@@ -1,5 +1,5 @@
-owner = UBD
-controller = UBD
+owner = EST
+controller = EST
 trade_goods = grain
 life_rating = 35	
 add_core = RUS

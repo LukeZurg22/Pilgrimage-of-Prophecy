@@ -1,19 +1,8 @@
-owner = AUS
-controller = AUS
-add_core = VEN
+owner = FEM
+controller = FEM
 trade_goods = fish
-life_rating = 40
+life_rating = 40	
+add_core = FEM
 terrain = venice
-naval_base = 1
-#state_building = {
-#	level = 1
-#	building = glass_factory
-#	upgrade = yes
-#}
-1861.1.1 = {
-	state_building = {
-	level = 1
-	building = glass_factory
-	upgrade = yes
-	}
-}
+naval_base = 1	
+fort = 0	

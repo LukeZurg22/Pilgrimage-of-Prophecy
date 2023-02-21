@@ -1,7 +1,9 @@
-owner = AUS
-controller = AUS
+owner = FEM
+controller = FEM
+trade_goods = fish
+life_rating = 35	
 add_core = CRO
 add_core = DLM
+add_core = FEM
 terrain = zadar
-trade_goods = fish
-life_rating = 35
+fort = 0	

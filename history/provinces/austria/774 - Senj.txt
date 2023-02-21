@@ -1,6 +1,8 @@
-owner = AUS
-controller = AUS
+owner = FEM
+controller = FEM
+trade_goods = iron
+life_rating = 35	
 add_core = CRO
 add_core = HUN
-trade_goods = iron
-life_rating = 35
+add_core = FEM
+fort = 0	

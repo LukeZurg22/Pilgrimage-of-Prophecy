@@ -1,7 +1,9 @@
-owner = PRU
-controller = PRU
+owner = FEM
+controller = FEM
+trade_goods = grain
+life_rating = 40	
+colonial = 1	
 add_core = PRU
 add_core = GER
 add_core = PZN
-trade_goods = grain
-life_rating = 40
+fort = 0	

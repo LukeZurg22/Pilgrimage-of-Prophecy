@@ -1,10 +1,11 @@
 #Please keep tags sorted alphabetically when you add/remove country tags
 
 # Special countries...
-REB 	= 	"countries/rebels.txt"
+REB = "countries/rebels.txt"
 
 ###AllBored Additionals
-OHI		="countries/Ohio.txt"
+OHI = "countries/Ohio.txt"
+FEM = "countries/Femboys.txt"
 
 ###France Mod###
 NZF		="countries/French New Zealand.txt"

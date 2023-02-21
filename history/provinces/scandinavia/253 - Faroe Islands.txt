@@ -1,5 +1,5 @@
-owner = UBD
-controller = UBD
+owner = EST
+controller = EST
 trade_goods = fish
 life_rating = 30	
 colonial = 2	
