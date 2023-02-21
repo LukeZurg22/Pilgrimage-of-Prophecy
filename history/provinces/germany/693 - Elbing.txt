@@ -1,5 +1,5 @@
-owner = FEM
-controller = FEM
+owner = EST
+controller = EST
 trade_goods = cattle
 life_rating = 40	
 colonial = 1	
