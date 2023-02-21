@@ -47,6 +47,9 @@ ZUR_communist_88;Zyrgi Unions;Zyrgi Unions;Zyrgi Unions;;;;;;;;;;;x;
 ZUR_fascist_81;Order of Borscjt;Order of Borscjt;Order of Borscjt;;;;;;;;;;;x;
 BOS;Holy Bosnian Empire;;;;;;;;;;;;;x;
 BOS_ADJ;Bosnian;;;;;;;;;;;;;x;
+BOS_proletarian_dictatorship;The Great Bosnian People's Republic;;;;;;;;;;;;;x;
+BOS_theocracy;The Holy Bosnian Empire;;;;;;;;;;;;;x;
+BOS_fascist_dictatorship;Holy Bosnian Empire;;;;;;;;;;;;;x;
 SOR;Sorbia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SOR_ADJ;Sorbian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SOR_absolute_monarchy;Sorbia;;;;;;;;;;;;x
@@ -58,3 +61,9 @@ SOR_liberal;Liberal Party;;;;;;;;;;;;x
 SOR_anarcho_liberal;Sorbian Anarchs;;;;;;;;;;;;x
 SOR_fascist;Sorbian Fascist Party;;;;;;;;;;;;x
 SOR_communist;Sorbian Communist Party;;;;;;;;;;;;x
+FIN;Sorbia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+FIN_ADJ;Sorbian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+FIN_absolute_monarchy;Proto-Finnic Holy Roman Khaganate;;;;;;;;;;;;x
+FIN_prussian_constitutionalism;Proto-Finnic Holy Khaganate;;;;;;;;;;;;x
+FIN_hms_government;Proto-Finnic Holy Khaganate;;;;;;;;;;;;x
+FIN_fascist_dictatorship;The Great Proto-Finnic Khaganate;;;;;;;;;;;;;x;
