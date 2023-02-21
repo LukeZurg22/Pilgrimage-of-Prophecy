@@ -1,8 +1,7 @@
-owner = SAF
-controller = SAF
-trade_goods = grain
-life_rating = 30	
-colonial = 2	
+
+
 add_core = QUE
+trade_goods = grain
 terrain = new_world_boreal
-fort = 0	
+life_rating = 30
+colonial = 2

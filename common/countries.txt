@@ -8,7 +8,6 @@ OHI = "countries/Ohio.txt"
 FEM = "countries/Femboys.txt"
 ZUR = "countries/Zurgatland.txt"
 SOR = "countries/Sorbia.txt"
-NWJ = "countries/New Jersey.txt"
 
 ###France Mod###
 NZF		="countries/French New Zealand.txt"

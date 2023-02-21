@@ -1,7 +1,6 @@
-owner = SAF
-controller = SAF
-trade_goods = iron
-life_rating = 30	
-colonial = 2	
+
+
 add_core = CAN
-fort = 0	
+trade_goods = iron
+life_rating = 30
+colonial = 2

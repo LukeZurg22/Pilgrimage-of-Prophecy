@@ -1,9 +1,8 @@
-owner = NCT
-controller = NCT
-trade_goods = grain
-life_rating = 31	
+
+
 add_core = FRA
 add_core = ALS
-add_core = NCT
+trade_goods = grain
+life_rating = 31
 terrain = strasburg
-fort = 0	
+1861.1.1 = { railroad = 3 }
