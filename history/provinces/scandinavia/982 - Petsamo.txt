@@ -4,4 +4,5 @@ trade_goods = iron
 life_rating = 10	
 add_core = RUS
 add_core = KRL
+add_core = FIN
 fort = 0	

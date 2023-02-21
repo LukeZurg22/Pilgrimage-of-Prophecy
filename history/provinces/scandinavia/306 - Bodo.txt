@@ -3,5 +3,6 @@ controller = FIN
 trade_goods = fish
 life_rating = 20	
 add_core = NOR
+add_core = FIN
 terrain = montane_tundra
 fort = 0	

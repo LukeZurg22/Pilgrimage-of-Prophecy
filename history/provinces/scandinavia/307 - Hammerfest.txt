@@ -3,4 +3,5 @@ controller = FIN
 trade_goods = timber
 life_rating = 10	
 add_core = NOR
+add_core = FIN
 fort = 0	
