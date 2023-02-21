@@ -6,6 +6,7 @@ REB = "countries/rebels.txt"
 ###AllBored Additionals
 OHI = "countries/Ohio.txt"
 FEM = "countries/Femboys.txt"
+ZUR = "countries/Zurgatland.txt"
 
 ###France Mod###
 NZF		="countries/French New Zealand.txt"

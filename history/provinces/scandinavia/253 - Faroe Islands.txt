@@ -1,5 +1,5 @@
-owner = EST
-controller = EST
+owner = ZUR
+controller = ZUR
 trade_goods = fish
 life_rating = 30	
 colonial = 2	

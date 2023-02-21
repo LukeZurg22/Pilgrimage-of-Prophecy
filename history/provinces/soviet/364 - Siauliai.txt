@@ -1,5 +1,5 @@
-owner = EST
-controller = EST
+owner = ZUR
+controller = ZUR
 trade_goods = cattle
 life_rating = 35	
 add_core = UBD

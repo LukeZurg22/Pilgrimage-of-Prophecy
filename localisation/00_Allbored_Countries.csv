@@ -1,4 +1,5 @@
 ;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+OHI_ADJ;Ohioan;;;;;;;;;;;;;;
 OHI;Ohio;;;;;;;;;;;;;;
 OHI_bourgeois_dictatorship;Ohio;;;;;;;;;;;;;;
 OHI_absolute_monarchy;The Empire of Ohio;;;;;;;;;;;;x
@@ -8,6 +9,7 @@ OHI_proletarian_dictatorship;Ohio Anarchist Zone;;;;;;;;;;;;x
 OHI_socialist;Workingmen's Party;;;;;;;;;;;;x
 OHI_communist;People's Republic of Ohio;;;;;;;;;;;;x
 OHI_fascist;Silver Legions of Ohio;;;;;;;;;;;;x
+FEM_ADJ;Femboy;;;;;;;;;;;;;;
 FEM;Femboys United;;;;;;;;;;;;;;
 FEM_bourgeois_dictatorship;Regular Women's Dungeoneers;;;;;;;;;;;;;;
 FEM_absolute_monarchy;The Slovene Femboy Empire;;;;;;;;;;;;x
@@ -20,15 +22,25 @@ FEM_fascist;Regular Women;;;;;;;;;;;;x
 FEM_liberal;The Bird's Party;;;;;;;;;;;;x
 FEM_anarcho_liberal;The Crusadar's Faction;;;;;;;;;;;;x
 FEM_conservative;The Rusty Coders;;;;;;;;;;;;x
-EST;Zurgatol;;;;;;;;;;;;;;
-EST_ADJ;Zyrgi;;;;;;;;;;;;;;
-EST_fascist;Vabadussõjalased;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EST_communist;Eestimaa Kommunistlik Partei;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EST_socialist;Eesti Sotsialistlik Tööliste Partei;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EST_socialist_2;Eesti Tööerakond;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EST_anarcho_liberal;Radikaal-Demokraatlik Erakond;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EST_liberal;Asunikkude Partei;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EST_conservative;Põllumeeste Kogud;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EST_conservative_2;Kristlik Rahvaerakond;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EST_reactionary;Eesti Rojalistlik Partei;;;;;;;;;;;;;;;;;;;;;;x;;;;
-EST_reactionary_2;Isamaaliit;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ZUR_ADJ;Zyrgi;Zyrgi;Zyrgi;;;;;;;;;;;x;
+ZUR;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
+ZUR_proletarian_dictatorship;Zyrgiyatland;Zyrgiyatland;Zyrgiyatland;;;;;;;;;;;x;
+ZUR_presidential_dictatorship;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
+ZUR_colonial_company;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
+ZUR_dominion;Zyrglyndia;Zyrglyndia;Zyrglyndia;;;;;;;;;;;x;
+ZUR_bourgeois_dictatorship;Zyrgatlynd;Zyrgatlynd;Zyrgatlynd;;;;;;;;;;;x;
+ZUR_fascist_dictatorship;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
+ZUR_absolute_monarchy;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
+ZUR_prussian_constitutionalism;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
+ZUR_hms_government;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
+ZUR_democracy;Zurgat Republik;Zurgat Republik;Zurgat Republik;;;;;;;;;;;x;
+ZUR_federal_democracy;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
+ZUR_theocracy;The Holy Zurgat;The Holy Zurgat;The Holy Zurgat;;;;;;;;;;;x;
+ZUR_french_bourbon;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
+ZUR_conservative_89;Zurgat Council;Zurgat Council;Zurgat Council;;;;;;;;;;;x;
+ZUR_liberal_88;Opposition Group;Opposition Group;Opposition Group;;;;;;;;;;;x;
+ZUR_socialist_94;Zurgatollanska;Zurgatollanska;Zurgatollanska;;;;;;;;;;;x;
+ZUR_reactionary_77;Zurg Dynasty;Zurg Dynasty;Zurg Dynasty;;;;;;;;;;;x;
+ZUR_anarcho_liberal_89;Radical Opposition;Radical Opposition;Radical Opposition;;;;;;;;;;;x;
+ZUR_communist_88;Zyrgi Unions;Zyrgi Unions;Zyrgi Unions;;;;;;;;;;;x;
+ZUR_fascist_81;Order of Borscjt;Order of Borscjt;Order of Borscjt;;;;;;;;;;;x;
