@@ -1,7 +1,8 @@
-
-
-add_core = AST
+owner = GUN
+controller = GUN
 trade_goods = wool
-life_rating = 30
-colonial = 2
-1861.1.1 = { railroad = 1 }
+life_rating = 30	
+colonial = 2	
+add_core = AST
+add_core = GUN
+fort = 0	

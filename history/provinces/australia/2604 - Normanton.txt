@@ -1,7 +1,9 @@
-
-
-add_core = AST
+owner = GUN
+controller = GUN
 trade_goods = tropical_wood
+life_rating = 30	
+colonial = 2	
+add_core = AST
+add_core = GUN
 terrain = savanna
-life_rating = 30
-colonial = 2
+fort = 0	

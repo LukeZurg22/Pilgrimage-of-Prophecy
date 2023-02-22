@@ -1,16 +1,9 @@
-
-
-add_core = AST
+owner = GUN
+controller = GUN
 trade_goods = wool
-life_rating = 35
+life_rating = 35	
+colonial = 2	
+add_core = AST
+add_core = GUN
 terrain = melbourne
-colonial = 2
-1861.1.1 = {
-	colonial = 2
-	state_building = {
-		level = 1
-		building = fabric_factory
-		upgrade = yes
-	}
-}
-1861.1.1 = { railroad = 1 }
+fort = 0	

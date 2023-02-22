@@ -91,3 +91,18 @@ KEN_socialist;Workingmen's Party;;;;;;;;;;;;x
 KEN_communist;Kentucky Soviet;;;;;;;;;;;;x
 KEN_fascist;Kentucker Blackshirts;;;;;;;;;;;;x
 KEN_fascist_dictatorship;The State of Kentucky;;;;;;;;;;;;;x;
+GUN;Gunai;;;;;;;;;;;;;;
+GUN_ADJ;Gunai;;;;;;;;;;;;;;
+GUN_bourgeois_dictatorship;State of Gunai;;;;;;;;;;;;;;
+GUN_absolute_monarchy;Gunai;;;;;;;;;;;;x
+GUN_prussian_constitutionalism;Gunai;;;;;;;;;;;;x
+GUN_hms_government;Gunai;;;;;;;;;;;;x
+GUN_fascist_dictatorship;The Gunai Empire;;;;;;;;;;;;;x;
+GUN_proletarian_dictatorship;Peasants' Republic of Gunai;;;;;;;;;;;;x
+GUN_socialist;Workingmen's Party;;;;;;;;;;;;x
+GUN_communist;Gunai People's Party;;;;;;;;;;;;x
+GUN_fascist;Gunai Nationalists;;;;;;;;;;;;x
+GUN_conservative;Chieftain's Supporters;;;;;;;;;;;;x
+GUN_liberal;Gunai Republic Loyalists;;;;;;;;;;;;x
+GUN_anarcho_liberal;Crazy Anarchists;;;;;;;;;;;;x
+GUN_reactionary;Imperialists;;;;;;;;;;;;x

@@ -1,9 +1,7 @@
-add_core = NZL
+owner = NZL
+controller = NZL
 trade_goods = wool
+life_rating = 30	
+add_core = NZL
 terrain = hills
-life_rating = 30
-1861.1.1 = {
-	
-	
-	colonial = 2
-}
+fort = 0	

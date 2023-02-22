@@ -1,6 +1,8 @@
-
-
-add_core = AST
+owner = GUN
+controller = GUN
 trade_goods = wool
-life_rating = 30
-colonial = 2
+life_rating = 30	
+colonial = 2	
+add_core = AST
+add_core = GUN
+fort = 0	

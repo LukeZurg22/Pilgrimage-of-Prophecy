@@ -1,4 +1,8 @@
-add_core = AST
+owner = GUN
+controller = GUN
 trade_goods = grain
+life_rating = 20	
+add_core = AST
+add_core = GUN
 terrain = savanna
-life_rating = 20
+fort = 0	

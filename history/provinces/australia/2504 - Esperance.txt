@@ -1,8 +1,9 @@
-owner = AST
-controller = AST
+owner = GUN
+controller = GUN
 trade_goods = fruit
 life_rating = 30	
 colonial = 2	
 add_core = AST
+add_core = GUN
 terrain = dryhills
 fort = 0	
