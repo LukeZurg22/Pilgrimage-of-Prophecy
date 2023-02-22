@@ -5,3 +5,21 @@ vassal = {
 	start_date = 1815.1.1
 	end_date = 1857.1.1
 }
+
+#New Armenia - Canada / Iroquois
+vassal = {
+	first = AMK
+	second = CAN
+	start_date = 1816.1.1
+	end_date = 1840.1.1
+}
+
+#New Armenia - New England / R'yleh
+vassal = {
+	first = AMK
+	second = NEN
+	start_date = 1816.1.1
+	end_date = 1840.1.1
+}
+
+

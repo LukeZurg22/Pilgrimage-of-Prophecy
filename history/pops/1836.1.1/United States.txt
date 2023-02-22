@@ -20024,25 +20024,433 @@
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 225
+        size = 67
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 1450
+        size = 435
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 300
+        size = 90
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 27025
+        size = 8107
+    }
+
+    clergymen = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 155
+    }
+
+    artisans = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 992
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 205
+    }
+
+    farmers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 18499
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 5
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 30
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 7
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 572
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 5
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 31
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 7
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 572
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 17
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 5
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 31
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 7
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 572
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 17
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 17
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    clergymen = {
+        culture = cree
+        religion = coptic
+        size = 103
+    }
+
+    artisans = {
+        culture = cree
+        religion = coptic
+        size = 662
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 137
+    }
+
+    farmers = {
+        culture = cree
+        religion = coptic
+        size = 12333
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 20
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 382
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 20
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 382
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 12
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 20
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 382
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 12
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 12
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    clergymen = {
+        culture = cree
+        religion = protestant
+        size = 45
+    }
+
+    artisans = {
+        culture = cree
+        religion = protestant
+        size = 290
+    }
+
+    soldiers = {
+        culture = cree
+        religion = protestant
+        size = 60
+    }
+
+    farmers = {
+        culture = cree
+        religion = protestant
+        size = 5405
     }
 }
 #Plattsburgh (76000/19000 POPS)
@@ -20050,25 +20458,433 @@
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 125
+        size = 37
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 950
+        size = 285
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 200
+        size = 60
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 17725
+        size = 5317
+    }
+
+    clergymen = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 86
+    }
+
+    artisans = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 650
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 137
+    }
+
+    farmers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 12133
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 20
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 5
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 376
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 20
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 376
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 11
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 20
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 375
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 11
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 11
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    clergymen = {
+        culture = cree
+        religion = coptic
+        size = 57
+    }
+
+    artisans = {
+        culture = cree
+        religion = coptic
+        size = 433
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 91
+    }
+
+    farmers = {
+        culture = cree
+        religion = coptic
+        size = 8089
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 14
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 250
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 14
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 250
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 8
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 13
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 250
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 8
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 8
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    clergymen = {
+        culture = cree
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = cree
+        religion = protestant
+        size = 190
+    }
+
+    soldiers = {
+        culture = cree
+        religion = protestant
+        size = 40
+    }
+
+    farmers = {
+        culture = cree
+        religion = protestant
+        size = 3545
     }
 }
 #Connecticut Region (304000)
@@ -20742,61 +21558,61 @@
     clergymen = {
         culture = yankee
         religion = catholic
-        size = 25
+        size = 15
     }
 
     artisans = {
         culture = yankee
         religion = catholic
-        size = 500
+        size = 300
     }
 
     farmers = {
         culture = yankee
         religion = catholic
-        size = 2950
+        size = 1770
     }
 
     craftsmen = {
         culture = yankee
         religion = catholic
-        size = 100
+        size = 60
     }
 
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 225
+        size = 67
     }
 
     clerks = {
         culture = yankee
         religion = protestant
-        size = 25
+        size = 7
     }
 
     craftsmen = {
         culture = yankee
         religion = protestant
-        size = 300
+        size = 90
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 1125
+        size = 337
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 300
+        size = 90
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 27025
+        size = 8107
     }
 
     clergymen = {
@@ -20815,6 +21631,642 @@
         culture = irish
         religion = catholic
         size = 2950
+    }
+
+    clergymen = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 155
+    }
+
+    clerks = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 17
+    }
+
+    craftsmen = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 205
+    }
+
+    artisans = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 770
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 205
+    }
+
+    farmers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 18499
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 5
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 7
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 24
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 7
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 572
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 5
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 7
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 24
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 7
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 572
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 17
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 5
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 7
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 24
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 7
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 572
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 17
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 17
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    clergymen = {
+        culture = cree
+        religion = coptic
+        size = 103
+    }
+
+    clerks = {
+        culture = cree
+        religion = coptic
+        size = 12
+    }
+
+    craftsmen = {
+        culture = cree
+        religion = coptic
+        size = 137
+    }
+
+    artisans = {
+        culture = cree
+        religion = coptic
+        size = 514
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 137
+    }
+
+    farmers = {
+        culture = cree
+        religion = coptic
+        size = 12333
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 16
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 382
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 16
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 382
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 12
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 16
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 382
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 12
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 12
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    clergymen = {
+        culture = cree
+        religion = catholic
+        size = 10
+    }
+
+    artisans = {
+        culture = cree
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = cree
+        religion = catholic
+        size = 1180
+    }
+
+    craftsmen = {
+        culture = cree
+        religion = catholic
+        size = 40
+    }
+
+    clergymen = {
+        culture = cree
+        religion = protestant
+        size = 45
+    }
+
+    clerks = {
+        culture = cree
+        religion = protestant
+        size = 5
+    }
+
+    craftsmen = {
+        culture = cree
+        religion = protestant
+        size = 60
+    }
+
+    artisans = {
+        culture = cree
+        religion = protestant
+        size = 225
+    }
+
+    soldiers = {
+        culture = cree
+        religion = protestant
+        size = 60
+    }
+
+    farmers = {
+        culture = cree
+        religion = protestant
+        size = 5405
     }
 }
 #Pittsfield (84000/21000 POPS)
@@ -20898,37 +22350,37 @@
     bureaucrats = {
         culture = yankee
         religion = protestant
-        size = 125
+        size = 37
     }
 
     officers = {
         culture = yankee
         religion = protestant
-        size = 75
+        size = 22
     }
 
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 500
+        size = 150
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 3150
+        size = 945
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 650
+        size = 195
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 50200
+        size = 15060
     }
 
     clergymen = {
@@ -20958,25 +22410,661 @@
     clergymen = {
         culture = yankee
         religion = catholic
-        size = 25
+        size = 15
     }
 
     artisans = {
         culture = yankee
         religion = catholic
-        size = 200
+        size = 120
     }
 
     soldiers = {
         culture = yankee
         religion = catholic
-        size = 25
+        size = 15
     }
 
     farmers = {
         culture = yankee
         religion = catholic
-        size = 5475
+        size = 3285
+    }
+
+    bureaucrats = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 86
+    }
+
+    officers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 52
+    }
+
+    clergymen = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 342
+    }
+
+    artisans = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2156
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 445
+    }
+
+    farmers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 34362
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 10
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 67
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 13
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1063
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 10
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 67
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 14
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1063
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 32
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 11
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 67
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 14
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1063
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 33
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 33
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    bureaucrats = {
+        culture = cree
+        religion = coptic
+        size = 57
+    }
+
+    officers = {
+        culture = cree
+        religion = coptic
+        size = 34
+    }
+
+    clergymen = {
+        culture = cree
+        religion = coptic
+        size = 228
+    }
+
+    artisans = {
+        culture = cree
+        religion = coptic
+        size = 1437
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 296
+    }
+
+    farmers = {
+        culture = cree
+        religion = coptic
+        size = 22908
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 7
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 44
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 9
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 709
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 7
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 45
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 9
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 708
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 22
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 7
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 44
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 9
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 708
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 22
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 22
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    bureaucrats = {
+        culture = cree
+        religion = protestant
+        size = 25
+    }
+
+    officers = {
+        culture = cree
+        religion = protestant
+        size = 15
+    }
+
+    clergymen = {
+        culture = cree
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = cree
+        religion = protestant
+        size = 630
+    }
+
+    soldiers = {
+        culture = cree
+        religion = protestant
+        size = 130
+    }
+
+    farmers = {
+        culture = cree
+        religion = protestant
+        size = 10040
+    }
+
+    clergymen = {
+        culture = cree
+        religion = catholic
+        size = 10
+    }
+
+    artisans = {
+        culture = cree
+        religion = catholic
+        size = 80
+    }
+
+    soldiers = {
+        culture = cree
+        religion = catholic
+        size = 10
+    }
+
+    farmers = {
+        culture = cree
+        religion = catholic
+        size = 2190
     }
 }
 #New Hampshire Region (276000)
@@ -20986,79 +23074,79 @@
     clergymen = {
         culture = yankee
         religion = catholic
-        size = 50
+        size = 30
     }
 
     farmers = {
         culture = yankee
         religion = catholic
-        size = 2000
+        size = 1200
     }
 
     artisans = {
         culture = yankee
         religion = catholic
-        size = 925
+        size = 555
     }
 
     craftsmen = {
         culture = yankee
         religion = catholic
-        size = 1000
+        size = 600
     }
 
     bureaucrats = {
         culture = yankee
         religion = protestant
-        size = 150
+        size = 45
     }
 
     capitalists = {
         culture = yankee
         religion = protestant
-        size = 100
+        size = 30
     }
 
     officers = {
         culture = yankee
         religion = protestant
-        size = 75
+        size = 22
     }
 
     clerks = {
         culture = yankee
         religion = protestant
-        size = 25
+        size = 7
     }
 
     craftsmen = {
         culture = yankee
         religion = protestant
-        size = 3000
+        size = 900
     }
 
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 2150
+        size = 645
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 2925
+        size = 877
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 2000
+        size = 600
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 55700
+        size = 16710
     }
 
     clergymen = {
@@ -21084,6 +23172,948 @@
         religion = catholic
         size = 5000
     }
+
+    bureaucrats = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 103
+    }
+
+    capitalists = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 68
+    }
+
+    officers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 52
+    }
+
+    clerks = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 17
+    }
+
+    craftsmen = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2053
+    }
+
+    clergymen = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1471
+    }
+
+    artisans = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2003
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1369
+    }
+
+    farmers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 38127
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 64
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 46
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 62
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 43
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1179
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 64
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 46
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 62
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 43
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1179
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 37
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 64
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 46
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 62
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 43
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1179
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 37
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 37
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    bureaucrats = {
+        culture = cree
+        religion = coptic
+        size = 68
+    }
+
+    capitalists = {
+        culture = cree
+        religion = coptic
+        size = 45
+    }
+
+    officers = {
+        culture = cree
+        religion = coptic
+        size = 34
+    }
+
+    clerks = {
+        culture = cree
+        religion = coptic
+        size = 12
+    }
+
+    craftsmen = {
+        culture = cree
+        religion = coptic
+        size = 1369
+    }
+
+    clergymen = {
+        culture = cree
+        religion = coptic
+        size = 981
+    }
+
+    artisans = {
+        culture = cree
+        religion = coptic
+        size = 1335
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 912
+    }
+
+    farmers = {
+        culture = cree
+        religion = coptic
+        size = 25418
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 43
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 31
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 42
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 28
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 786
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 42
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 30
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 41
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 28
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 786
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 24
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 42
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 30
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 41
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 28
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 786
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 24
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 24
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    clergymen = {
+        culture = cree
+        religion = catholic
+        size = 20
+    }
+
+    farmers = {
+        culture = cree
+        religion = catholic
+        size = 800
+    }
+
+    artisans = {
+        culture = cree
+        religion = catholic
+        size = 370
+    }
+
+    craftsmen = {
+        culture = cree
+        religion = catholic
+        size = 400
+    }
+
+    bureaucrats = {
+        culture = cree
+        religion = protestant
+        size = 30
+    }
+
+    capitalists = {
+        culture = cree
+        religion = protestant
+        size = 20
+    }
+
+    officers = {
+        culture = cree
+        religion = protestant
+        size = 15
+    }
+
+    clerks = {
+        culture = cree
+        religion = protestant
+        size = 5
+    }
+
+    craftsmen = {
+        culture = cree
+        religion = protestant
+        size = 600
+    }
+
+    clergymen = {
+        culture = cree
+        religion = protestant
+        size = 430
+    }
+
+    artisans = {
+        culture = cree
+        religion = protestant
+        size = 585
+    }
+
+    soldiers = {
+        culture = cree
+        religion = protestant
+        size = 400
+    }
+
+    farmers = {
+        culture = cree
+        religion = protestant
+        size = 11140
+    }
 }
 #Maine Region (432000)
 #ruled by the USA
@@ -21092,61 +24122,61 @@
     farmers = {
         culture = yankee
         religion = catholic
-        size = 3500
+        size = 2100
     }
 
     clergymen = {
         culture = yankee
         religion = catholic
-        size = 10
+        size = 6
     }
 
     artisans = {
         culture = yankee
         religion = catholic
-        size = 100
+        size = 60
     }
 
     soldiers = {
         culture = yankee
         religion = catholic
-        size = 25
+        size = 15
     }
 
     bureaucrats = {
         culture = yankee
         religion = protestant
-        size = 175
+        size = 52
     }
 
     officers = {
         culture = yankee
         religion = protestant
-        size = 100
+        size = 30
     }
 
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 450
+        size = 135
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 3000
+        size = 900
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 600
+        size = 180
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 35675
+        size = 10702
     }
 
     farmers = {
@@ -21154,55 +24184,691 @@
         religion = catholic
         size = 14000
     }
+
+    bureaucrats = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 121
+    }
+
+    officers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 68
+    }
+
+    clergymen = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 308
+    }
+
+    artisans = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2053
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 410
+    }
+
+    farmers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 24420
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 10
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 64
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 13
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 755
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 10
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 64
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 13
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 755
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 23
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 10
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 64
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 13
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 755
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 23
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 23
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    bureaucrats = {
+        culture = cree
+        religion = coptic
+        size = 80
+    }
+
+    officers = {
+        culture = cree
+        religion = coptic
+        size = 45
+    }
+
+    clergymen = {
+        culture = cree
+        religion = coptic
+        size = 205
+    }
+
+    artisans = {
+        culture = cree
+        religion = coptic
+        size = 1369
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 274
+    }
+
+    farmers = {
+        culture = cree
+        religion = coptic
+        size = 16280
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 6
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 43
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 8
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 504
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 6
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 42
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 8
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 504
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 16
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 6
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 42
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 8
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 504
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 16
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 16
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    farmers = {
+        culture = cree
+        religion = catholic
+        size = 1400
+    }
+
+    clergymen = {
+        culture = cree
+        religion = catholic
+        size = 4
+    }
+
+    artisans = {
+        culture = cree
+        religion = catholic
+        size = 40
+    }
+
+    soldiers = {
+        culture = cree
+        religion = catholic
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = cree
+        religion = protestant
+        size = 35
+    }
+
+    officers = {
+        culture = cree
+        religion = protestant
+        size = 20
+    }
+
+    clergymen = {
+        culture = cree
+        religion = protestant
+        size = 90
+    }
+
+    artisans = {
+        culture = cree
+        religion = protestant
+        size = 600
+    }
+
+    soldiers = {
+        culture = cree
+        religion = protestant
+        size = 120
+    }
+
+    farmers = {
+        culture = cree
+        religion = protestant
+        size = 7135
+    }
 }
 #Bangor (156000/44000 POPS)
 249 = {
     clergymen = {
         culture = yankee
         religion = catholic
-        size = 10
+        size = 6
     }
 
     artisans = {
         culture = yankee
         religion = catholic
-        size = 100
+        size = 60
     }
 
     soldiers = {
         culture = yankee
         religion = catholic
-        size = 25
+        size = 15
     }
 
     farmers = {
         culture = yankee
         religion = catholic
-        size = 1575
+        size = 945
     }
 
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 250
+        size = 75
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 1900
+        size = 570
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 375
+        size = 112
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 35475
+        size = 10642
     }
 
     clergymen = {
@@ -21228,6 +24894,438 @@
         religion = catholic
         size = 4000
     }
+
+    clergymen = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 171
+    }
+
+    artisans = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1301
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 257
+    }
+
+    farmers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 24284
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 5
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 40
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 8
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 751
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 5
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 40
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 8
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 751
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 23
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 5
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 40
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 8
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 751
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 23
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 23
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    clergymen = {
+        culture = cree
+        religion = coptic
+        size = 114
+    }
+
+    artisans = {
+        culture = cree
+        religion = coptic
+        size = 867
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 172
+    }
+
+    farmers = {
+        culture = cree
+        religion = coptic
+        size = 16189
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 27
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 6
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 500
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 27
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 6
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 500
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 16
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 27
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 5
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 501
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 16
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 16
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    clergymen = {
+        culture = cree
+        religion = catholic
+        size = 4
+    }
+
+    artisans = {
+        culture = cree
+        religion = catholic
+        size = 40
+    }
+
+    soldiers = {
+        culture = cree
+        religion = catholic
+        size = 10
+    }
+
+    farmers = {
+        culture = cree
+        religion = catholic
+        size = 630
+    }
+
+    clergymen = {
+        culture = cree
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = cree
+        religion = protestant
+        size = 380
+    }
+
+    soldiers = {
+        culture = cree
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = cree
+        religion = protestant
+        size = 7095
+    }
 }
 #ruled by the UK
 #Caribou (36000/9000 POPS)
@@ -21235,49 +25333,49 @@
     clergymen = {
         culture = yankee
         religion = catholic
-        size = 10
+        size = 6
     }
 
     artisans = {
         culture = yankee
         religion = catholic
-        size = 10
+        size = 6
     }
 
     soldiers = {
         culture = yankee
         religion = catholic
-        size = 25
+        size = 15
     }
 
     farmers = {
         culture = yankee
         religion = catholic
-        size = 175
+        size = 105
     }
 
     clergymen = {
         culture = yankee
         religion = protestant
-        size = 75
+        size = 22
     }
 
     artisans = {
         culture = yankee
         religion = protestant
-        size = 250
+        size = 75
     }
 
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 50
+        size = 15
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 4625
+        size = 1387
     }
 
     clergymen = {
@@ -21308,6 +25406,438 @@
         culture = french_canadian
         religion = protestant
         size = 2725
+    }
+
+    clergymen = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 52
+    }
+
+    artisans = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 171
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 34
+    }
+
+    farmers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 3167
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 5
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 98
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 5
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 98
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 5
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 98
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 3
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = coptic
+        size = 0
+    }
+
+    clergymen = {
+        culture = cree
+        religion = coptic
+        size = 34
+    }
+
+    artisans = {
+        culture = cree
+        religion = coptic
+        size = 114
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 22
+    }
+
+    farmers = {
+        culture = cree
+        religion = coptic
+        size = 2111
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 65
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 65
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 4
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 1
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 65
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 2
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    soldiers = {
+        culture = cree
+        religion = coptic
+        size = 0
+    }
+
+    clergymen = {
+        culture = cree
+        religion = catholic
+        size = 4
+    }
+
+    artisans = {
+        culture = cree
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = cree
+        religion = catholic
+        size = 10
+    }
+
+    farmers = {
+        culture = cree
+        religion = catholic
+        size = 70
+    }
+
+    clergymen = {
+        culture = cree
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = cree
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = cree
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = cree
+        religion = protestant
+        size = 925
     }
 }
 #Cherskiy - Animas
