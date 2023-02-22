@@ -1,6 +1,7 @@
 ;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 OHI_ADJ;Ohioan;;;;;;;;;;;;;;
 OHI;Ohio;;;;;;;;;;;;;;
+OHI_democracy;Ohioan Republic;;;;;;;;;;;;;x;;
 OHI_bourgeois_dictatorship;Ohio;;;;;;;;;;;;;;
 OHI_absolute_monarchy;The Empire of Ohio;;;;;;;;;;;;x
 OHI_prussian_constitutionalism;The Ohioan Empire;;;;;;;;;;;;x
@@ -43,3 +44,18 @@ ULA_presidential_dictatorship;The State of Louisiane;;;;;;;;;;;;;x;;
 ULA_bourgeois_dictatorship;The State of Louisiana;;;;;;;;;;;;;;x
 ULA_fascist_dictatorship;The Lousianan Empire;;;;;;;;;;;;;;x
 ULA_ADJ;Louisianan;;;;;;;;;;;;;x;;
+AMA;Amerikayi Hayastan;;;;;;;;;;;;;;
+AMA_ADJ;Hayastani;;;;;;;;;;;;;;
+AMA_democracy;New Armenia;;;;;;;;;;;;;x;;
+AMA_bourgeois_dictatorship;State of Hayastan;;;;;;;;;;;;;;
+AMA_absolute_monarchy;Grand Duchy of Hayastan;;;;;;;;;;;;x
+AMA_prussian_constitutionalism;The Kingdom of New Armenia;;;;;;;;;;;;x
+AMA_hms_government;The Kingdom of Hayastan;;;;;;;;;;;;x
+AMA_fascist_dictatorship;Hayots’ Petut’yun;;;;;;;;;;;;;x;
+AMA_socialist;Workingmen's Party;;;;;;;;;;;;x
+AMA_communist;Hayastani Soviet;;;;;;;;;;;;x
+AMA_fascist;Hayastan Whiteshirts;;;;;;;;;;;;x
+AMA_reactionary;Hayastani Royals;;;;;;;;;;;;x
+AMA_liberal;The Progressivists;;;;;;;;;;;;x
+AMA_conservative;Hayastani Merchantry;;;;;;;;;;;;x
+AMA_anarcho_liberal;Hayastani Anarchs;;;;;;;;;;;;x

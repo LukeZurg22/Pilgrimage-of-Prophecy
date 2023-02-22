@@ -11,6 +11,7 @@ SOR = "countries/Sorbia.txt"
 NWJ = "countries/New Jersey.txt"
 KEN = "countries/Kentucky.txt"
 GUN = "countries/Gunai.txt"
+AMA = "countries/Hayastan.txt"
 
 ###France Mod###
 NZF		="countries/French New Zealand.txt"
