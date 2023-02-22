@@ -1,7 +1,8 @@
-
-
-add_core = AST
+owner = AST
+controller = AST
 trade_goods = fruit
+life_rating = 30	
+colonial = 2	
+add_core = AST
 terrain = dryhills
-life_rating = 30
-colonial = 2
+fort = 0	
