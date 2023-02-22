@@ -1,7 +1,9 @@
-
-
+owner = AMK
+controller = AMK
+trade_goods = coal
+life_rating = 30	
+colonial = 0	
 add_core = ACA
 add_core = MRU
-trade_goods = coal
-life_rating = 30
-colonial = 2
+add_core = AMK
+fort = 0	

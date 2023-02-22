@@ -1,7 +1,8 @@
-owner = NWJ
-controller = NWJ
+owner = NEN
+controller = NEN
 trade_goods = grain
 life_rating = 35	
+colonial = 0	
 add_core = USA
 add_core = NEN
 add_core = NWJ

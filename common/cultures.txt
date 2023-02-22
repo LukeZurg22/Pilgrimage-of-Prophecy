@@ -1064,6 +1064,18 @@ turko_semitic = {
 		}
 		radicalism = 10
 	}
+	amerikan_kurdish = {
+		color = {0 130 0}
+		first_names = {
+			Abdal Abdulkarim Bedr Hafid Ihsan Mahmud Mohammed Qazi Reshid Said Ubaydallah
+			}
+		
+		last_names = {
+			Badirkhan Barzani Khan Shilak
+		}
+		radicalism = 5
+	}
+
 }
 
 caucasian = {
