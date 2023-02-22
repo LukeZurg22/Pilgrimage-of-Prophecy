@@ -1,4 +1,4 @@
-capital = 179
+capital = 768
 primary_culture = slovene
 culture = croat
 religion = protestant

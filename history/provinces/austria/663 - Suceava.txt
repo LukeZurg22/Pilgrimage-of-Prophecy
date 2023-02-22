@@ -1,7 +1,9 @@
-owner = AUS
-controller = AUS
+owner = ROM
+controller = ROM
+trade_goods = cattle
+life_rating = 35	
+colonial = 0	
 add_core = ROM
 add_core = MOL
 add_core = BKV
-trade_goods = cattle
-life_rating = 35
+fort = 0	

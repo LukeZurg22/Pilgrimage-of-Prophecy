@@ -1,7 +1,9 @@
-owner = PRU
-controller = PRU
+owner = PML
+controller = PML
+trade_goods = grain
+life_rating = 40	
+colonial = 0	
 add_core = PRU
 add_core = GER
-trade_goods = grain
-life_rating = 40
-1861.1.1 = { railroad = 3 }
+add_core = PML
+fort = 0	

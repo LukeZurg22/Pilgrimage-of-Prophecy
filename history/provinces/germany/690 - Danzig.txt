@@ -5,5 +5,6 @@ life_rating = 40
 colonial = 1	
 add_core = ZUR
 add_core = FEM
+add_core = PML
 terrain = danzig
 fort = 0	

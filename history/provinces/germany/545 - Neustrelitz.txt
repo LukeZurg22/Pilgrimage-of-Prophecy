@@ -1,6 +1,9 @@
-owner = MEC
-controller = MEC
+owner = PML
+controller = PML
+trade_goods = grain
+life_rating = 40	
+colonial = 0	
 add_core = MEC
 add_core = GER
-trade_goods = grain
-life_rating = 40
+add_core = PML
+fort = 0	

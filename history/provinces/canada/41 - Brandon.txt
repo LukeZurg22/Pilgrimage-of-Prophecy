@@ -1,7 +1,8 @@
-
-
+owner = SAF
+controller = SAF
+trade_goods = grain
+life_rating = 30	
+colonial = 2	
 add_core = MTC
 add_core = RPL
-trade_goods = grain
-life_rating = 30
-colonial = 2
+fort = 0	
