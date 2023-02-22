@@ -3557,187 +3557,67 @@
     aristocrats = {
         culture = cherokee
         religion = protestant
-        size = 15
+        size = 5
     }
 
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 15
+        size = 5
     }
 
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 78
+        size = 26
     }
 
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 30
+        size = 10
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 990
+        size = 330
     }
 
     aristocrats = {
         culture = cherokee
         religion = protestant
-        size = 30
+        size = 10
     }
 
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 30
+        size = 10
     }
 
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 156
+        size = 52
     }
 
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 60
+        size = 20
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 1980
+        size = 660
     }
 
     slaves = {
         culture = cajun
         religion = protestant
         size = 10500
-    }
-
-    aristocrats = {
-        culture = cherokee
-        religion = protestant
-        size = 336
-    }
-
-    clergymen = {
-        culture = cherokee
-        religion = protestant
-        size = 336
-    }
-
-    artisans = {
-        culture = cherokee
-        religion = protestant
-        size = 1755
-    }
-
-    soldiers = {
-        culture = cherokee
-        religion = protestant
-        size = 675
-    }
-
-    farmers = {
-        culture = cherokee
-        religion = protestant
-        size = 22275
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 30
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 30
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 156
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 60
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 1980
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 60
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 60
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 312
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 120
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 3960
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 672
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 672
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 3510
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 1350
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 44550
     }
 }
 #Baton Rouge (72000/18000 POPS)
@@ -3895,259 +3775,91 @@
     aristocrats = {
         culture = cherokee
         religion = protestant
-        size = 30
+        size = 10
     }
 
     bureaucrats = {
         culture = cherokee
         religion = protestant
-        size = 6
+        size = 2
     }
 
     officers = {
         culture = cherokee
         religion = protestant
-        size = 6
+        size = 2
     }
 
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 6
+        size = 2
     }
 
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 21
+        size = 7
     }
 
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 12
+        size = 4
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 531
+        size = 177
     }
 
     aristocrats = {
         culture = cherokee
         religion = protestant
-        size = 60
+        size = 20
     }
 
     bureaucrats = {
         culture = cherokee
         religion = protestant
-        size = 12
+        size = 4
     }
 
     officers = {
         culture = cherokee
         religion = protestant
-        size = 12
+        size = 4
     }
 
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 12
+        size = 4
     }
 
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 42
+        size = 14
     }
 
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 24
+        size = 8
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 1065
+        size = 355
     }
 
     slaves = {
         culture = cajun
         religion = protestant
         size = 10369
-    }
-
-    aristocrats = {
-        culture = cherokee
-        religion = protestant
-        size = 675
-    }
-
-    bureaucrats = {
-        culture = cherokee
-        religion = protestant
-        size = 135
-    }
-
-    officers = {
-        culture = cherokee
-        religion = protestant
-        size = 120
-    }
-
-    clergymen = {
-        culture = cherokee
-        religion = protestant
-        size = 135
-    }
-
-    artisans = {
-        culture = cherokee
-        religion = protestant
-        size = 471
-    }
-
-    soldiers = {
-        culture = cherokee
-        religion = protestant
-        size = 270
-    }
-
-    farmers = {
-        culture = cherokee
-        religion = protestant
-        size = 11961
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 60
-    }
-
-    bureaucrats = {
-        culture = cajun
-        religion = protestant
-        size = 12
-    }
-
-    officers = {
-        culture = cajun
-        religion = protestant
-        size = 12
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 12
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 42
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 24
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 1062
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 120
-    }
-
-    bureaucrats = {
-        culture = cajun
-        religion = protestant
-        size = 24
-    }
-
-    officers = {
-        culture = cajun
-        religion = protestant
-        size = 24
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 24
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 84
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 48
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 2130
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 1350
-    }
-
-    bureaucrats = {
-        culture = cajun
-        religion = protestant
-        size = 270
-    }
-
-    officers = {
-        culture = cajun
-        religion = protestant
-        size = 240
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 270
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 942
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 540
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 23922
     }
 }
 #Lake Charles (36000/9000 POPS)
@@ -4263,187 +3975,67 @@
     aristocrats = {
         culture = cherokee
         religion = protestant
-        size = 18
+        size = 6
     }
 
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 6
+        size = 2
     }
 
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 21
+        size = 7
     }
 
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 12
+        size = 4
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 123
+        size = 41
     }
 
     aristocrats = {
         culture = cherokee
         religion = protestant
-        size = 36
+        size = 12
     }
 
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 12
+        size = 4
     }
 
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 42
+        size = 14
     }
 
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 24
+        size = 8
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 246
+        size = 82
     }
 
     slaves = {
         culture = cajun
         religion = protestant
         size = 5145
-    }
-
-    aristocrats = {
-        culture = cherokee
-        religion = protestant
-        size = 405
-    }
-
-    clergymen = {
-        culture = cherokee
-        religion = protestant
-        size = 135
-    }
-
-    artisans = {
-        culture = cherokee
-        religion = protestant
-        size = 471
-    }
-
-    soldiers = {
-        culture = cherokee
-        religion = protestant
-        size = 270
-    }
-
-    farmers = {
-        culture = cherokee
-        religion = protestant
-        size = 2766
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 36
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 12
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 42
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 24
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 246
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 72
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 24
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 84
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 48
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 492
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 810
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 270
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 942
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 540
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 5532
     }
 }
 #Shreveport (44000/11000 POPS)
@@ -4547,61 +4139,61 @@
     aristocrats = {
         culture = cherokee
         religion = protestant
-        size = 18
+        size = 6
     }
 
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 9
+        size = 3
     }
 
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 24
+        size = 8
     }
 
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 15
+        size = 5
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 366
+        size = 122
     }
 
     aristocrats = {
         culture = cherokee
         religion = protestant
-        size = 36
+        size = 12
     }
 
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 18
+        size = 6
     }
 
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 48
+        size = 16
     }
 
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 30
+        size = 10
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 732
+        size = 244
     }
 
     clergymen = {
@@ -4626,126 +4218,6 @@
         culture = cajun
         religion = protestant
         size = 6169
-    }
-
-    aristocrats = {
-        culture = cherokee
-        religion = protestant
-        size = 405
-    }
-
-    clergymen = {
-        culture = cherokee
-        religion = protestant
-        size = 201
-    }
-
-    artisans = {
-        culture = cherokee
-        religion = protestant
-        size = 540
-    }
-
-    soldiers = {
-        culture = cherokee
-        religion = protestant
-        size = 336
-    }
-
-    farmers = {
-        culture = cherokee
-        religion = protestant
-        size = 8235
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 36
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 18
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 48
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 30
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 732
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 72
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 36
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 96
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 60
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 1464
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 810
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 402
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 1080
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 672
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 16470
     }
 }
 #Arkansas Region (88000)
@@ -4863,85 +4335,85 @@
     aristocrats = {
         culture = cherokee
         religion = protestant
-        size = 24
+        size = 8
     }
 
     bureaucrats = {
         culture = cherokee
         religion = protestant
-        size = 6
+        size = 2
     }
 
     officers = {
         culture = cherokee
         religion = protestant
-        size = 3
+        size = 1
     }
 
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 6
+        size = 2
     }
 
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 48
+        size = 16
     }
 
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 18
+        size = 6
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 1098
+        size = 366
     }
 
     aristocrats = {
         culture = cherokee
         religion = protestant
-        size = 48
+        size = 16
     }
 
     bureaucrats = {
         culture = cherokee
         religion = protestant
-        size = 12
+        size = 4
     }
 
     officers = {
         culture = cherokee
         religion = protestant
-        size = 6
+        size = 2
     }
 
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 12
+        size = 4
     }
 
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 96
+        size = 32
     }
 
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 36
+        size = 12
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 2196
+        size = 732
     }
 
     clergymen = {
@@ -4966,174 +4438,6 @@
         culture = cajun
         religion = protestant
         size = 3990
-    }
-
-    aristocrats = {
-        culture = cherokee
-        religion = protestant
-        size = 540
-    }
-
-    bureaucrats = {
-        culture = cherokee
-        religion = protestant
-        size = 135
-    }
-
-    officers = {
-        culture = cherokee
-        religion = protestant
-        size = 66
-    }
-
-    clergymen = {
-        culture = cherokee
-        religion = protestant
-        size = 135
-    }
-
-    artisans = {
-        culture = cherokee
-        religion = protestant
-        size = 1080
-    }
-
-    soldiers = {
-        culture = cherokee
-        religion = protestant
-        size = 405
-    }
-
-    farmers = {
-        culture = cherokee
-        religion = protestant
-        size = 24705
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 48
-    }
-
-    bureaucrats = {
-        culture = cajun
-        religion = protestant
-        size = 12
-    }
-
-    officers = {
-        culture = cajun
-        religion = protestant
-        size = 6
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 12
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 96
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 36
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 2196
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 96
-    }
-
-    bureaucrats = {
-        culture = cajun
-        religion = protestant
-        size = 24
-    }
-
-    officers = {
-        culture = cajun
-        religion = protestant
-        size = 12
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 24
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 192
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 72
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 4392
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 1080
-    }
-
-    bureaucrats = {
-        culture = cajun
-        religion = protestant
-        size = 270
-    }
-
-    officers = {
-        culture = cajun
-        religion = protestant
-        size = 132
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 270
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 2160
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 810
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 49410
     }
 }
 #Hot Springs (16000/4000 POPS)
@@ -5189,145 +4493,49 @@
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 9
+        size = 3
     }
 
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 24
+        size = 8
     }
 
     soldiers = {
+        culture = cherokee
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = cherokee
+        religion = protestant
+        size = 147
+    }
+
+    clergymen = {
         culture = cherokee
         religion = protestant
         size = 6
     }
 
-    farmers = {
-        culture = cherokee
-        religion = protestant
-        size = 441
-    }
-
-    clergymen = {
-        culture = cherokee
-        religion = protestant
-        size = 18
-    }
-
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 48
+        size = 16
     }
 
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 12
+        size = 4
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 882
-    }
-
-    clergymen = {
-        culture = cherokee
-        religion = protestant
-        size = 201
-    }
-
-    artisans = {
-        culture = cherokee
-        religion = protestant
-        size = 540
-    }
-
-    soldiers = {
-        culture = cherokee
-        religion = protestant
-        size = 135
-    }
-
-    farmers = {
-        culture = cherokee
-        religion = protestant
-        size = 9921
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 18
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 48
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 12
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 882
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 36
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 96
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 24
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 1764
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 402
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 1080
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 270
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 19842
+        size = 294
     }
 }
 #Fayetteville (16000/4000 POPS)
@@ -5383,145 +4591,49 @@
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 9
+        size = 3
     }
 
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 24
+        size = 8
     }
 
     soldiers = {
+        culture = cherokee
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = cherokee
+        religion = protestant
+        size = 147
+    }
+
+    clergymen = {
         culture = cherokee
         religion = protestant
         size = 6
     }
 
-    farmers = {
-        culture = cherokee
-        religion = protestant
-        size = 441
-    }
-
-    clergymen = {
-        culture = cherokee
-        religion = protestant
-        size = 18
-    }
-
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 48
+        size = 16
     }
 
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 12
+        size = 4
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 882
-    }
-
-    clergymen = {
-        culture = cherokee
-        religion = protestant
-        size = 201
-    }
-
-    artisans = {
-        culture = cherokee
-        religion = protestant
-        size = 540
-    }
-
-    soldiers = {
-        culture = cherokee
-        religion = protestant
-        size = 135
-    }
-
-    farmers = {
-        culture = cherokee
-        religion = protestant
-        size = 9921
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 18
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 48
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 12
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 882
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 36
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 96
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 24
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 1764
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 402
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 1080
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 270
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 19842
+        size = 294
     }
 }
 #Missouri Region (365000)
@@ -5729,61 +4841,61 @@
     aristocrats = {
         culture = cherokee
         religion = protestant
-        size = 18
+        size = 6
     }
 
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 12
+        size = 4
     }
 
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 81
+        size = 27
     }
 
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 24
+        size = 8
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 1905
+        size = 635
     }
 
     aristocrats = {
         culture = cherokee
         religion = protestant
-        size = 36
+        size = 12
     }
 
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 24
+        size = 8
     }
 
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 162
+        size = 54
     }
 
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 48
+        size = 16
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 3810
+        size = 1270
     }
 
     clergymen = {
@@ -5808,126 +4920,6 @@
         culture = cajun
         religion = protestant
         size = 2835
-    }
-
-    aristocrats = {
-        culture = cherokee
-        religion = protestant
-        size = 405
-    }
-
-    clergymen = {
-        culture = cherokee
-        religion = protestant
-        size = 270
-    }
-
-    artisans = {
-        culture = cherokee
-        religion = protestant
-        size = 1821
-    }
-
-    soldiers = {
-        culture = cherokee
-        religion = protestant
-        size = 540
-    }
-
-    farmers = {
-        culture = cherokee
-        religion = protestant
-        size = 42861
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 36
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 24
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 162
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 48
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 3810
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 72
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 48
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 324
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 96
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 7620
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 810
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 540
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 3642
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 1080
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 85722
     }
 }
 #Joplin (25000/5000 POPS)
@@ -5983,145 +4975,49 @@
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 9
+        size = 3
     }
 
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 30
+        size = 10
     }
 
     soldiers = {
+        culture = cherokee
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = cherokee
+        religion = protestant
+        size = 185
+    }
+
+    clergymen = {
         culture = cherokee
         religion = protestant
         size = 6
     }
 
-    farmers = {
-        culture = cherokee
-        religion = protestant
-        size = 555
-    }
-
-    clergymen = {
-        culture = cherokee
-        religion = protestant
-        size = 18
-    }
-
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 60
+        size = 20
     }
 
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 12
+        size = 4
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 1110
-    }
-
-    clergymen = {
-        culture = cherokee
-        religion = protestant
-        size = 201
-    }
-
-    artisans = {
-        culture = cherokee
-        religion = protestant
-        size = 675
-    }
-
-    soldiers = {
-        culture = cherokee
-        religion = protestant
-        size = 135
-    }
-
-    farmers = {
-        culture = cherokee
-        religion = protestant
-        size = 12486
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 18
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 60
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 12
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 1110
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 36
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 120
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 24
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 2220
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 402
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 1350
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 270
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 24972
+        size = 370
     }
 }
 #Malden (40000/10000 POPS)
@@ -6237,61 +5133,61 @@
     aristocrats = {
         culture = cherokee
         religion = protestant
-        size = 6
+        size = 2
     }
 
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 9
+        size = 3
     }
 
     artisans = {
-        culture = cherokee
-        religion = protestant
-        size = 36
-    }
-
-    soldiers = {
-        culture = cherokee
-        religion = protestant
-        size = 9
-    }
-
-    farmers = {
-        culture = cherokee
-        religion = protestant
-        size = 540
-    }
-
-    aristocrats = {
         culture = cherokee
         religion = protestant
         size = 12
     }
 
-    clergymen = {
-        culture = cherokee
-        religion = protestant
-        size = 18
-    }
-
-    artisans = {
-        culture = cherokee
-        religion = protestant
-        size = 72
-    }
-
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 18
+        size = 3
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 1080
+        size = 180
+    }
+
+    aristocrats = {
+        culture = cherokee
+        religion = protestant
+        size = 4
+    }
+
+    clergymen = {
+        culture = cherokee
+        religion = protestant
+        size = 6
+    }
+
+    artisans = {
+        culture = cherokee
+        religion = protestant
+        size = 24
+    }
+
+    soldiers = {
+        culture = cherokee
+        religion = protestant
+        size = 6
+    }
+
+    farmers = {
+        culture = cherokee
+        religion = protestant
+        size = 360
     }
 
     clergymen = {
@@ -6316,126 +5212,6 @@
         culture = cajun
         religion = protestant
         size = 2992
-    }
-
-    aristocrats = {
-        culture = cherokee
-        religion = protestant
-        size = 135
-    }
-
-    clergymen = {
-        culture = cherokee
-        religion = protestant
-        size = 201
-    }
-
-    artisans = {
-        culture = cherokee
-        religion = protestant
-        size = 810
-    }
-
-    soldiers = {
-        culture = cherokee
-        religion = protestant
-        size = 201
-    }
-
-    farmers = {
-        culture = cherokee
-        religion = protestant
-        size = 12150
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 12
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 18
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 72
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 18
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 1080
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 24
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 36
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 144
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 36
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 2160
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 270
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 402
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 1620
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 402
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 24300
     }
 }
 #Jefferson City (56000/14000 POPS)
@@ -6587,85 +5363,85 @@
     aristocrats = {
         culture = cherokee
         religion = protestant
-        size = 12
+        size = 4
     }
 
     bureaucrats = {
         culture = cherokee
         religion = protestant
-        size = 9
+        size = 3
     }
 
     officers = {
         culture = cherokee
         religion = protestant
-        size = 6
+        size = 2
     }
 
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 9
+        size = 3
     }
 
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 24
+        size = 8
     }
 
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 9
+        size = 3
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 651
+        size = 217
     }
 
     aristocrats = {
         culture = cherokee
         religion = protestant
-        size = 24
+        size = 8
     }
 
     bureaucrats = {
         culture = cherokee
         religion = protestant
-        size = 18
+        size = 6
     }
 
     officers = {
         culture = cherokee
         religion = protestant
-        size = 12
+        size = 4
     }
 
     clergymen = {
         culture = cherokee
         religion = protestant
-        size = 18
+        size = 6
     }
 
     artisans = {
         culture = cherokee
         religion = protestant
-        size = 48
+        size = 16
     }
 
     soldiers = {
         culture = cherokee
         religion = protestant
-        size = 18
+        size = 6
     }
 
     farmers = {
         culture = cherokee
         religion = protestant
-        size = 1302
+        size = 434
     }
 
     clergymen = {
@@ -6690,174 +5466,6 @@
         culture = cajun
         religion = protestant
         size = 2835
-    }
-
-    aristocrats = {
-        culture = cherokee
-        religion = protestant
-        size = 270
-    }
-
-    bureaucrats = {
-        culture = cherokee
-        religion = protestant
-        size = 201
-    }
-
-    officers = {
-        culture = cherokee
-        religion = protestant
-        size = 135
-    }
-
-    clergymen = {
-        culture = cherokee
-        religion = protestant
-        size = 201
-    }
-
-    artisans = {
-        culture = cherokee
-        religion = protestant
-        size = 540
-    }
-
-    soldiers = {
-        culture = cherokee
-        religion = protestant
-        size = 201
-    }
-
-    farmers = {
-        culture = cherokee
-        religion = protestant
-        size = 14646
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 24
-    }
-
-    bureaucrats = {
-        culture = cajun
-        religion = protestant
-        size = 18
-    }
-
-    officers = {
-        culture = cajun
-        religion = protestant
-        size = 12
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 18
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 48
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 18
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 1302
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 48
-    }
-
-    bureaucrats = {
-        culture = cajun
-        religion = protestant
-        size = 36
-    }
-
-    officers = {
-        culture = cajun
-        religion = protestant
-        size = 24
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 36
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 96
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 36
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 2604
-    }
-
-    aristocrats = {
-        culture = cajun
-        religion = protestant
-        size = 540
-    }
-
-    bureaucrats = {
-        culture = cajun
-        religion = protestant
-        size = 402
-    }
-
-    officers = {
-        culture = cajun
-        religion = protestant
-        size = 270
-    }
-
-    clergymen = {
-        culture = cajun
-        religion = protestant
-        size = 402
-    }
-
-    artisans = {
-        culture = cajun
-        religion = protestant
-        size = 1080
-    }
-
-    soldiers = {
-        culture = cajun
-        religion = protestant
-        size = 402
-    }
-
-    farmers = {
-        culture = cajun
-        religion = protestant
-        size = 29292
     }
 }
 #Kansas City (56000/14000 POPS)
