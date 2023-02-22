@@ -71,6 +71,13 @@
 		size = 30
 	}
 }
+2524 = {
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 1
+	}
+}
 #Central Polynesia Region (604)
 #uncolonized in 1836
 #Palmyra Atoll (60/15 POPS)

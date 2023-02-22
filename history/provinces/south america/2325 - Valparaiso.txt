@@ -1,11 +1,9 @@
-
-
-add_core = CHL
+owner = CHL
+controller = CHL
 trade_goods = fruit
+life_rating = 35	
+colonial = 0	
+add_core = CHL
 terrain = farmlands
-life_rating = 35
-naval_base = 1
-1861.1.1 = { 
-	railroad = 1
-	naval_base = 1
-}
+naval_base = 1	
+fort = 0	

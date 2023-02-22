@@ -1,7 +1,8 @@
-
-
-add_core = CHL
+owner = CHL
+controller = CHL
 trade_goods = iron
+life_rating = 35	
+colonial = 0	
+add_core = CHL
 terrain = dryhills
-life_rating = 35
-1861.1.1 = { railroad = 1 }
+fort = 0	

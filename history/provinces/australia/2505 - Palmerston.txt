@@ -1,5 +1,3 @@
-owner = GUN
-controller = GUN
 trade_goods = grain
 life_rating = 20	
 colonial = 2	

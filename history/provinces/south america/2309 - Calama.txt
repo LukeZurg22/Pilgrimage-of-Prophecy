@@ -1,10 +1,8 @@
-
-
-add_core = BOL
+owner = CHL
+controller = CHL
 trade_goods = fish
+life_rating = 15	
+colonial = 0	
+add_core = BOL
 terrain = new_world_desert
-life_rating = 15
-1860.1.1 = {
-	owner = CHL
-	controller = CHL
-}
+fort = 0	

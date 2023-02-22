@@ -2,6 +2,6 @@ owner = NZL
 controller = NZL
 trade_goods = cattle
 life_rating = 30	
-colonial = 2	
+colonial = 0	
 add_core = NZL
 fort = 0	

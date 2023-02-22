@@ -1,7 +1,9 @@
-
-
+owner = CHL
+controller = CHL
+trade_goods = fruit
+life_rating = 32	
+colonial = 0	
 add_core = CLM
 add_core = PNM
-trade_goods = fruit
-life_rating = 32
-naval_base = 1
+naval_base = 1	
+fort = 0	

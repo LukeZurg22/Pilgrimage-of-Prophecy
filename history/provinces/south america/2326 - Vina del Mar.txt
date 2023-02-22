@@ -1,5 +1,7 @@
-
-
-add_core = CHL
+owner = CHL
+controller = CHL
 trade_goods = cattle
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = CHL
+fort = 0	

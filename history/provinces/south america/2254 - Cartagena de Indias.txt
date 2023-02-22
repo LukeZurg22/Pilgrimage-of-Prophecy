@@ -1,5 +1,7 @@
-
-
-add_core = CLM
+owner = CHL
+controller = CHL
 trade_goods = fish
-life_rating = 33
+life_rating = 33	
+colonial = 0	
+add_core = CLM
+fort = 0	

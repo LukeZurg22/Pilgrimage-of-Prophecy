@@ -1,14 +1,4 @@
 ;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
-OHI_ADJ;Ohioan;;;;;;;;;;;;;;
-OHI;Ohio;;;;;;;;;;;;;;
-OHI_bourgeois_dictatorship;Ohio;;;;;;;;;;;;;;
-OHI_absolute_monarchy;The Empire of Ohio;;;;;;;;;;;;x
-OHI_prussian_constitutionalism;The Ohioan Empire;;;;;;;;;;;;x
-OHI_hms_government;Greater Ohio;;;;;;;;;;;;x
-OHI_proletarian_dictatorship;Ohio Anarchist Zone;;;;;;;;;;;;x
-OHI_socialist;Workingmen's Party;;;;;;;;;;;;x
-OHI_communist;People's Republic of Ohio;;;;;;;;;;;;x
-OHI_fascist;Silver Legions of Ohio;;;;;;;;;;;;x
 FEM_ADJ;Femboy;;;;;;;;;;;;;;
 FEM;Femboys United;;;;;;;;;;;;;;
 FEM_bourgeois_dictatorship;Regular Women's Dungeoneers;;;;;;;;;;;;;;
@@ -69,28 +59,6 @@ FIN_prussian_constitutionalism;Proto-Finnic Holy Khaganate;;;;;;;;;;;;x
 FIN_hms_government;Proto-Finnic Holy Khaganate;;;;;;;;;;;;x
 FIN_fascist_dictatorship;The Great Proto-Finnic Khaganate;;;;;;;;;;;;;x;
 FIN_democracy;Proto-Finnic Roman Republic;;;;;;;;;;;;;x;
-NWJ;New Jersey;;;;;;;;;;;;;;
-NWJ_ADJ;New Jerseyan;;;;;;;;;;;;;;
-NWJ_bourgeois_dictatorship;New Jersey;;;;;;;;;;;;;;
-NWJ_absolute_monarchy;The Empire of New Jersey;;;;;;;;;;;;x
-NWJ_prussian_constitutionalism;The New Jerseyan Empire;;;;;;;;;;;;x
-NWJ_hms_government;Greater New Jersey;;;;;;;;;;;;x
-NWJ_proletarian_dictatorship;New Jersey Anarchist Zone;;;;;;;;;;;;x
-NWJ_socialist;Workingmen's Party;;;;;;;;;;;;x
-NWJ_communist;People's Republic of New Jersey;;;;;;;;;;;;x
-NWJ_fascist_dictatorship;The State of New Jersey;;;;;;;;;;;;;x;
-NWJ_fascist;Silver Legions of New Jersey;;;;;;;;;;;;x
-KEN;Kentucky;;;;;;;;;;;;;;
-KEN_ADJ;Kentucker;;;;;;;;;;;;;;
-KEN_bourgeois_dictatorship;State of Kentucky;;;;;;;;;;;;;;
-KEN_absolute_monarchy;Kentucko-Tennessee;;;;;;;;;;;;x
-KEN_prussian_constitutionalism;The Kingdom of Kentucky;;;;;;;;;;;;x
-KEN_hms_government;The Kingdom of Kentucky;;;;;;;;;;;;x
-KEN_proletarian_dictatorship;People's Republic of Kentucky;;;;;;;;;;;;x
-KEN_socialist;Workingmen's Party;;;;;;;;;;;;x
-KEN_communist;Kentucky Soviet;;;;;;;;;;;;x
-KEN_fascist;Kentucker Blackshirts;;;;;;;;;;;;x
-KEN_fascist_dictatorship;The State of Kentucky;;;;;;;;;;;;;x;
 GUN;Gunai;;;;;;;;;;;;;;
 GUN_ADJ;Gunai;;;;;;;;;;;;;;
 GUN_bourgeois_dictatorship;State of Gunai;;;;;;;;;;;;;;

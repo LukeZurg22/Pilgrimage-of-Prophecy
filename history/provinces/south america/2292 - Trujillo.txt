@@ -1,6 +1,8 @@
-
-
-add_core = PEU
+owner = CHL
+controller = CHL
 trade_goods = grain
+life_rating = 35	
+colonial = 0	
+add_core = PEU
 terrain = dryhills
-life_rating = 35
+fort = 0	

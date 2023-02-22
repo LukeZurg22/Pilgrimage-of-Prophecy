@@ -1,6 +1,8 @@
-
-
-add_core = PEU
+owner = CHL
+controller = CHL
 trade_goods = fish
+life_rating = 32	
+colonial = 0	
+add_core = PEU
 terrain = new_world_semidesert
-life_rating = 32
+fort = 0	
