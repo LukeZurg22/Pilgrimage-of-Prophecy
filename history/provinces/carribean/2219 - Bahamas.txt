@@ -1,6 +1,8 @@
-
-
+owner = HQJ
+controller = HQJ
 trade_goods = cotton
-life_rating = 35
-colonial = 2
+life_rating = 35	
+colonial = 2	
+add_core = HQJ
 terrain = new_world_plains
+fort = 0	

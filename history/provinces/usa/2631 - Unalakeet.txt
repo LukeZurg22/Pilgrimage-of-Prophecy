@@ -1,7 +1,9 @@
-
-
-colonial = 2
-add_core = LSK
-terrain = new_world_arctic
+owner = LIE
+controller = LIE
 trade_goods = fish
-life_rating = 15
+life_rating = 15	
+colonial = 2	
+add_core = LSK
+add_core = LIE
+terrain = new_world_arctic
+fort = 0	
