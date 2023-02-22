@@ -3,4 +3,5 @@ controller = GXI
 trade_goods = fish
 life_rating = 32	
 add_core = GXI
+add_core = CHI
 fort = 0	

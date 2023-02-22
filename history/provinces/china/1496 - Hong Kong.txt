@@ -3,5 +3,6 @@ controller = GNG
 trade_goods = tea
 life_rating = 32	
 add_core = GNG
+add_core = CHI
 terrain = hongkong
 fort = 0	

@@ -1,10 +1,7 @@
-
-
-add_core = CHI
+owner = QNG
+controller = QNG
 trade_goods = tea
-life_rating = 32
-1861.1.1 = {
-	owner = TPG
-	controller = TPG
-	add_core = TPG
-}
+life_rating = 32	
+add_core = CHI
+add_core = QNG
+fort = 0	

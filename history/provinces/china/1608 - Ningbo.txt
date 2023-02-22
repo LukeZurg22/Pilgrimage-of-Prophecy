@@ -3,5 +3,6 @@ controller = GNG
 trade_goods = cotton
 life_rating = 32	
 add_core = GNG
+add_core = CHI
 terrain = ningbo
 fort = 0	
