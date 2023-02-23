@@ -91,3 +91,18 @@ CAN_reactionary;The Cree Loyalists;;;;;;;;;;;;x
 CAN_liberal;The Blue Party;;;;;;;;;;;;x
 CAN_fascist;The Nationalists;;;;;;;;;;;;x
 CAN_anarcho_liberal;The Anarchists;;;;;;;;;;;;x
+CPH;Caliphornia;;;;;;;;;;;;x
+CPH_ADJ;Caliphornian;;;;;;;;;;;;x
+CPH_democracy;Caliphornia;;;;;;;;;;;;;x;;
+CPH_bourgeois_dictatorship;Caliphornia;;;;;;;;;;;;;;
+CPH_absolute_monarchy;Sultanate of Caliphornia;;;;;;;;;;;;x
+CPH_prussian_constitutionalism;Caliphornian Sultanate;;;;;;;;;;;;x
+CPH_hms_government;Caliphornian Sultanate;;;;;;;;;;;;x
+CPH_fascist_dictatorship;The Caliphornian Caliphate;;;;;;;;;;;;;x;
+CPH_socialist;The Ba'ath Party;;;;;;;;;;;;x
+CPH_communist;The Muslim Peoples' Party;;;;;;;;;;;;x
+CPH_conservative;The Sultan's Supporters;;;;;;;;;;;;x
+CPH_reactionary;The Reactionaries;;;;;;;;;;;;x
+CPH_liberal;The Reformists;;;;;;;;;;;;x
+CPH_fascist;The Fundamentalists;;;;;;;;;;;;x
+CPH_anarcho_liberal;The Western Party;;;;;;;;;;;;x

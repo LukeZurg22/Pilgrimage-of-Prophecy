@@ -1,9 +1,8 @@
-add_core = COL
+owner = CPH
+controller = CPH
 trade_goods = wool
-life_rating = 35
-1861.1.1 = {
-	
-	
-	colonial = 2
-	remove_core = COL
-}
+life_rating = 35	
+colonial = 0	
+add_core = COL
+add_core = CPH
+fort = 0	

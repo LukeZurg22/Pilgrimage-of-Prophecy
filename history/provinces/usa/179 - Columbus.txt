@@ -1,6 +1,8 @@
 owner = OHI
+controller = OHI
 trade_goods = grain
 life_rating = 35	
+colonial = 0	
 add_core = USA
 add_core = OHI
 fort = 0	

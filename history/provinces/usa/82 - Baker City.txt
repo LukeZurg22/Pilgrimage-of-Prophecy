@@ -1,11 +1,9 @@
-add_core = COL
+owner = CPH
+controller = CPH
 trade_goods = timber
-life_rating = 20
-colonial = 1
-1861.1.1 = {
-
-
+life_rating = 20	
+colonial = 0	
+add_core = COL
 add_core = USA
-colonial = 2
-remove_core = COL
-}
+add_core = CPH
+fort = 0	

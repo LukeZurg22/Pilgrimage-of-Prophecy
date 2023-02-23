@@ -5,4 +5,5 @@ life_rating = 30
 colonial = 0	
 add_core = QUE
 add_core = AMK
+add_core = CAN
 fort = 0	

@@ -1,7 +1,9 @@
-
-
-add_core = USA
+owner = ULA
+controller = ULA
 trade_goods = grain
-life_rating = 35
-colonial = 2
-1861.1.1 = { colonial = 0 }
+life_rating = 35	
+colonial = 0	
+add_core = USA
+add_core = CPH
+add_core = ULA
+fort = 0	

@@ -1,14 +1,9 @@
-
-
-add_core = MEX
-colonial = 2
+owner = CPH
+controller = CPH
 trade_goods = grain
+life_rating = 35	
+colonial = 0	
+add_core = MEX
+add_core = CPH
 terrain = mountain
-life_rating = 35
-1861.1.1 = {
-	colonial = 0
-	owner = USA
-	controller = USA
-	remove_core = MEX
-	add_core = USA
-}
+fort = 0	

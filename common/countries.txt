@@ -13,6 +13,7 @@ KEN = "countries/Kentucky.txt"
 GUN = "countries/Gunai.txt"
 AMA = "countries/Hayastan.txt"
 AMK = "countries/Kurdistana.txt"
+CPH = "countries/Caliphornia.txt"
 
 ###France Mod###
 NZF		="countries/French New Zealand.txt"

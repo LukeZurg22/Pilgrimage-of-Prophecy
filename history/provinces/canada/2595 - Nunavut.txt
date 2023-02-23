@@ -2,6 +2,6 @@ owner = SAF
 controller = SAF
 trade_goods = fish
 life_rating = 10	
-colonial = 2	
+colonial = 0	
 add_core = RPL
 fort = 0	

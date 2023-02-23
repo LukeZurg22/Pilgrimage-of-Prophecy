@@ -6,4 +6,5 @@ colonial = 0
 add_core = USA
 add_core = OHI
 add_core = AMK
+add_core = CAN
 fort = 0	

@@ -1,3 +1,5 @@
+owner = 
+controller = 
 
 
 terrain = new_world_semidesert

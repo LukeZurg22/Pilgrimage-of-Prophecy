@@ -1,9 +1,10 @@
-add_core = LSK
+owner = SAF
+controller = SAF
 trade_goods = fish
-life_rating = 15
+life_rating = 15	
+colonial = 0	
+add_core = LSK
+add_core = SAF
+add_core = LIE
 terrain = new_world_arctic
-1861.1.1 = {
-	
-	
-	colonial = 2
-}
+fort = 0	

@@ -1,8 +1,9 @@
-
-
-add_core = RPL
-colonial = 2
-add_core = MTC
+owner = COL
+controller = COL
 trade_goods = timber
+life_rating = 30	
+colonial = 0	
+add_core = RPL
+add_core = MTC
 terrain = plains
-life_rating = 30
+fort = 0	

@@ -1,6 +1,9 @@
-
-
-add_core = COL
-terrain = new_world_montane_tundra
+owner = LIE
+controller = LIE
 trade_goods = fish
-life_rating = 20
+life_rating = 20	
+colonial = 0	
+add_core = COL
+add_core = LIE
+terrain = new_world_montane_tundra
+fort = 0	

@@ -1,11 +1,10 @@
-
-
-add_core = TRI
+owner = BOS
+controller = BOS
 trade_goods = fruit
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = TRI
+add_core = BOS
 terrain = tripoli
-naval_base = 1
-1861.1.1 = {
-	owner = TUR
-	colonial = 2
-}
+naval_base = 1	
+fort = 0	
