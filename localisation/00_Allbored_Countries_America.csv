@@ -47,7 +47,7 @@ ULA_ADJ;Louisianan;;;;;;;;;;;;;x;;
 AMA;Amerikayi Hayastan;;;;;;;;;;;;;;
 AMA_ADJ;Hayastani;;;;;;;;;;;;;;
 AMA_democracy;New Armenia;;;;;;;;;;;;;x;;
-AMA_bourgeois_dictatorship;State of Hayastan;;;;;;;;;;;;;;
+AMA_bourgeois_dictatorship;The State of Hayastan;;;;;;;;;;;;;;
 AMA_absolute_monarchy;Grand Duchy of Hayastan;;;;;;;;;;;;x
 AMA_prussian_constitutionalism;The Kingdom of New Armenia;;;;;;;;;;;;x
 AMA_hms_government;The Kingdom of Hayastan;;;;;;;;;;;;x
@@ -59,3 +59,35 @@ AMA_reactionary;Hayastani Royals;;;;;;;;;;;;x
 AMA_liberal;The Progressivists;;;;;;;;;;;;x
 AMA_conservative;Hayastani Merchantry;;;;;;;;;;;;x
 AMA_anarcho_liberal;Hayastani Anarchs;;;;;;;;;;;;x
+AMK;Kurdistana Amerîka;;;;;;;;;;;;;;
+AMK_ADJ;Kurdistani;;;;;;;;;;;;;;
+AMK_democracy;Mala Kurdî Ya Nû;;;;;;;;;;;;;x;;
+AMK_bourgeois_dictatorship;The State of New Kurdistan;;;;;;;;;;;;;;
+AMK_absolute_monarchy;Padîsahiya Kurdan;;;;;;;;;;;;x
+AMK_prussian_constitutionalism;Kingdom of New Kurdan;;;;;;;;;;;;x
+AMK_hms_government;The Padîsahiya of New Kurdistan;;;;;;;;;;;;x
+AMK_fascist_dictatorship;Împaratoriya Kurdan;;;;;;;;;;;;;x;
+AMK_socialist;Socialist Party;;;;;;;;;;;;x
+AMK_communist;Kurdish Communists;;;;;;;;;;;;x
+AMK_fascist;Kurdish Fascists;;;;;;;;;;;;x
+AMK_reactionary;Kurdish Reactionaries;;;;;;;;;;;;x
+AMK_liberal;The Liberal Group;;;;;;;;;;;;x
+AMK_conservative;The Kurdish Gentry;;;;;;;;;;;;x
+AMK_anarcho_liberal;Kurdish Anarchs;;;;;;;;;;;;x
+NEN;New R'lyeh;;;;;;;;;;;;;;
+NEN_ADJ;R'lyeh;;;;;;;;;;;;;;
+CAN;The Iroquois Confederation;;;;;;;;;;;;x
+CAN_ADJ;Iroquois;;;;;;;;;;;;x
+CAN_democracy;The Iroquois Republic;;;;;;;;;;;;;x;;
+CAN_bourgeois_dictatorship;Iroquois;;;;;;;;;;;;;;
+CAN_absolute_monarchy;Kingdom of The Iroquois;;;;;;;;;;;;x
+CAN_prussian_constitutionalism;Kingdom of The Iroquois;;;;;;;;;;;;x
+CAN_hms_government;Kingdom of The Iroquois;;;;;;;;;;;;x
+CAN_fascist_dictatorship;The Iroquois Empire;;;;;;;;;;;;;x;
+CAN_socialist;Socialist Cree Party;;;;;;;;;;;;x
+CAN_communist;The Communist Party;;;;;;;;;;;;x
+CAN_conservative;The Conservative Party;;;;;;;;;;;;x
+CAN_reactionary;The Cree Loyalists;;;;;;;;;;;;x
+CAN_liberal;The Blue Party;;;;;;;;;;;;x
+CAN_fascist;The Nationalists;;;;;;;;;;;;x
+CAN_anarcho_liberal;The Anarchists;;;;;;;;;;;;x

@@ -1,8 +1,7 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = BRY
-add_core = KAM
+owner = KOR
+controller = KOR
 trade_goods = timber
-life_rating = 35
-colonial = 2
+life_rating = 35	
+colonial = 2	
+add_core = KOR
+fort = 0	

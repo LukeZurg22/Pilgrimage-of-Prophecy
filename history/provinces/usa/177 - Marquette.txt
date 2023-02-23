@@ -1,18 +1,8 @@
-
-
-add_core = USA
+owner = CAN
+controller = CAN
 trade_goods = fish
-life_rating = 35
-colonial = 2
-
-party_loyalty = {
-	ideology = conservative
-	loyalty_value = 12
-}
-
-party_loyalty = {
-	ideology = liberal
-	loyalty_value = 12
-}
-
-1861.1.1 = { colonial = 0 }
+life_rating = 35	
+colonial = 0	
+add_core = USA
+add_core = CAN
+fort = 0	

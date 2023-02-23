@@ -3,5 +3,6 @@ controller = GNG
 trade_goods = fish
 life_rating = 32	
 add_core = GNG
+add_core = CHI
 terrain = canton
 fort = 0	

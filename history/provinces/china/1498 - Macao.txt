@@ -4,5 +4,6 @@ trade_goods = precious_goods
 life_rating = 35	
 colonial = 2	
 add_core = GNG
+add_core = CHI
 terrain = macao
 fort = 0	
