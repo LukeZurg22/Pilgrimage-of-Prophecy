@@ -1,6 +1,6 @@
-
-
-add_core = QNG
-add_core = CHI
+owner = KOR
+controller = KOR
 trade_goods = silk
-life_rating = 32
+life_rating = 32	
+add_core = QNG
+fort = 0	

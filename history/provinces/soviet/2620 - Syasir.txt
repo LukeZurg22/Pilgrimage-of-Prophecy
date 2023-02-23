@@ -1,5 +1,7 @@
-add_core = RUS
-add_core = KAM
+owner = YAK
+controller = YAK
 trade_goods = cattle
+life_rating = 15	
+add_core = YAK
 terrain = boreal
-life_rating = 15
+fort = 0	

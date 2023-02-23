@@ -1,6 +1,5 @@
 owner = KOR
 trade_goods = iron
 life_rating = 32	
-add_core = CHI
-add_core = MCK
+add_core = KOR
 fort = 0	
