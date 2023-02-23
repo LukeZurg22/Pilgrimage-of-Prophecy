@@ -2,5 +2,7 @@ owner = KEN
 controller = KEN
 trade_goods = grain
 life_rating = 35	
+colonial = 0	
 add_core = KEN
+add_core = USA
 fort = 0	

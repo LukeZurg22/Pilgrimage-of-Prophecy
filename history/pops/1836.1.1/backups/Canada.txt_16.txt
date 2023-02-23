@@ -2245,97 +2245,37 @@
     farmers = {
         culture = cree
         religion = animist
-        size = 1824
+        size = 1920
     }
 
     clergymen = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 3
+        size = 5
     }
 
     artisans = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 6
+        size = 9
     }
 
     soldiers = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 11
+        size = 18
     }
 
     farmers = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 28
+        size = 45
     }
 
     soldiers = {
         culture = cree
         religion = animist
-        size = 76
-    }
-
-    soldiers = {
-        culture = cree
-        religion = animist
-        size = 96
-    }
-
-    soldiers = {
-        culture = cree
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 2
-    }
-
-    clergymen = {
-        culture = cree
-        religion = protestant
-        size = 2
-    }
-
-    artisans = {
-        culture = cree
-        religion = protestant
-        size = 3
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 6
-    }
-
-    farmers = {
-        culture = cree
-        religion = protestant
-        size = 15
+        size = 80
     }
 }
 #Barrie (4000/1000 POPS)
@@ -2367,97 +2307,37 @@
     farmers = {
         culture = cree
         religion = animist
-        size = 902
+        size = 950
     }
 
     clergymen = {
         culture = amerikan_kurdish
-        religion = protestant
-        size = 3
-    }
-
-    artisans = {
-        culture = amerikan_kurdish
-        religion = protestant
-        size = 3
-    }
-
-    soldiers = {
-        culture = amerikan_kurdish
-        religion = protestant
-        size = 3
-    }
-
-    farmers = {
-        culture = amerikan_kurdish
-        religion = protestant
-        size = 8
-    }
-
-    soldiers = {
-        culture = cree
-        religion = animist
-        size = 38
-    }
-
-    soldiers = {
-        culture = cree
-        religion = animist
-        size = 48
-    }
-
-    soldiers = {
-        culture = cree
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 1
-    }
-
-    clergymen = {
-        culture = cree
-        religion = protestant
-        size = 2
-    }
-
-    artisans = {
-        culture = cree
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 2
-    }
-
-    farmers = {
-        culture = cree
         religion = protestant
         size = 5
+    }
+
+    artisans = {
+        culture = amerikan_kurdish
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = amerikan_kurdish
+        religion = protestant
+        size = 5
+    }
+
+    farmers = {
+        culture = amerikan_kurdish
+        religion = protestant
+        size = 14
+    }
+
+    soldiers = {
+        culture = cree
+        religion = animist
+        size = 40
     }
 }
 #Pickle Lake (1200/3000 POPS)
@@ -2528,91 +2408,31 @@
     bureaucrats = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 139
+        size = 225
     }
 
     clergymen = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 139
+        size = 225
     }
 
     artisans = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 1389
+        size = 2250
     }
 
     soldiers = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 1722
+        size = 2790
     }
 
     farmers = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 21674
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 11
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 11
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 113
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 140
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 1755
-    }
-
-    bureaucrats = {
-        culture = cree
-        religion = protestant
-        size = 75
-    }
-
-    clergymen = {
-        culture = cree
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = cree
-        religion = protestant
-        size = 748
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 928
-    }
-
-    farmers = {
-        culture = cree
-        religion = protestant
-        size = 11671
+        size = 35100
     }
 }
 #Windsor (36000/9000 POPS)
@@ -2644,73 +2464,25 @@
     clergymen = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 28
+        size = 45
     }
 
     artisans = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 278
+        size = 450
     }
 
     soldiers = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 55
+        size = 90
     }
 
     labourers = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 4640
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 23
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 376
-    }
-
-    clergymen = {
-        culture = cree
-        religion = protestant
-        size = 15
-    }
-
-    artisans = {
-        culture = cree
-        religion = protestant
-        size = 149
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 30
-    }
-
-    labourers = {
-        culture = cree
-        religion = protestant
-        size = 2499
+        size = 7515
     }
 }
 #Hamilton (68000/17000 POPS)
@@ -2742,73 +2514,25 @@
     clergymen = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 55
+        size = 90
     }
 
     artisans = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 611
+        size = 990
     }
 
     soldiers = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 111
+        size = 180
     }
 
     farmers = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 8725
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 9
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 707
-    }
-
-    clergymen = {
-        culture = cree
-        religion = protestant
-        size = 30
-    }
-
-    artisans = {
-        culture = cree
-        religion = protestant
-        size = 329
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 60
-    }
-
-    farmers = {
-        culture = cree
-        religion = protestant
-        size = 4698
+        size = 14130
     }
 }
 #Kingston (72000/18000 POPS)
@@ -2864,73 +2588,25 @@
     clergymen = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 83
+        size = 135
     }
 
     artisans = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 972
+        size = 1575
     }
 
     soldiers = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 97
+        size = 158
     }
 
     farmers = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 7739
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 7
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 79
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 8
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 627
-    }
-
-    clergymen = {
-        culture = cree
-        religion = protestant
-        size = 45
-    }
-
-    artisans = {
-        culture = cree
-        religion = protestant
-        size = 524
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 53
-    }
-
-    farmers = {
-        culture = cree
-        religion = protestant
-        size = 4167
+        size = 12533
     }
 }
 #Ottawa (44000/11000 POPS)
@@ -2986,73 +2662,25 @@
     clergymen = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 28
+        size = 45
     }
 
     artisans = {
         culture = amerikan_kurdish
         religion = protestant
-        size = 166
+        size = 270
     }
 
     soldiers = {
         culture = amerikan_kurdish
-        religion = protestant
-        size = 55
-    }
-
-    farmers = {
-        culture = amerikan_kurdish
-        religion = protestant
-        size = 3640
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 14
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 295
-    }
-
-    clergymen = {
-        culture = cree
-        religion = protestant
-        size = 15
-    }
-
-    artisans = {
-        culture = cree
         religion = protestant
         size = 90
     }
 
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 30
-    }
-
     farmers = {
-        culture = cree
+        culture = amerikan_kurdish
         religion = protestant
-        size = 1960
+        size = 5895
     }
 }
 #Quebec Region : 676000
