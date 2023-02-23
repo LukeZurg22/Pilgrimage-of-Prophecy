@@ -1,8 +1,9 @@
-owner = 
-controller = 
-
-
+owner = MMN
+controller = MMN
+trade_goods = fish
+life_rating = 31	
+colonial = 0	
 add_core = UCA
 add_core = GUA
-trade_goods = fish
-life_rating = 31
+add_core = MMN
+fort = 0	

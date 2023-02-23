@@ -1,8 +1,9 @@
-owner = 
-controller = 
-
-
+owner = MMN
+controller = MMN
+trade_goods = cotton
+life_rating = 30	
+colonial = 0	
 add_core = MEX
 add_core = CHP
-trade_goods = cotton
-life_rating = 30
+add_core = MMN
+fort = 0	

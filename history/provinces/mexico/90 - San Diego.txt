@@ -6,4 +6,5 @@ colonial = 0
 add_core = MEX
 add_core = CAL
 add_core = CPH
+add_core = FEM
 fort = 0	

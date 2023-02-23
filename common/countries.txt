@@ -3,17 +3,20 @@
 # Special countries...
 REB = "countries/rebels.txt"
 
-###AllBored Additionals
-OHI = "countries/Ohio.txt"
+###Allbored Other
 FEM = "countries/Femboys.txt"
 ZUR = "countries/Zurgatland.txt"
 SOR = "countries/Sorbia.txt"
+GUN = "countries/Gunai.txt"
+
+###Allbored America
+OHI = "countries/Ohio.txt"
 NWJ = "countries/New Jersey.txt"
 KEN = "countries/Kentucky.txt"
-GUN = "countries/Gunai.txt"
 AMA = "countries/Hayastan.txt"
 AMK = "countries/Kurdistana.txt"
 CPH = "countries/Caliphornia.txt"
+MMN = "countries/Mormons.txt"
 
 ###France Mod###
 NZF		="countries/French New Zealand.txt"
@@ -24,7 +27,7 @@ EIC		="countries/East India Company.txt"
 UTI		="countries/Utility Tag.txt"
 OCC		="countries/Occitania.txt"
 ACA		="countries/Acadia.txt"
-VIC 	="countries/Nationalist France.txt"
+VIC 		="countries/Nationalist France.txt"
 BOR		="countries/The Kingdom of France.txt"
 
 ##HFM New Nations

@@ -2156,6 +2156,16 @@ american_cultures = {
 		}
 		radicalism = 10
 	}
+	mormon = {
+		color = {0 120 190}
+		first_names = {Hamilton Matthew Richard Hiram Thomas Elkanah John William James Albert Wilburn Walter Hinchie Samuel Benjamin 
+		Henry Allison Horace Felix Jerome Lawrence Alexander Louis
+		}
+		last_names = {Bee Ector Gano Granbury Green Greer Gregg Hardeman Harrison Hood Johnston King Lane Mabry Maxey McCulloch Moore 
+		Nelson Randal Robertson Ross Rosser Scurry Steele Terrell Waterhouse Waul Wharton Whitfield Wigfall Young Bowie Travis Houston
+		}
+		radicalism = 10
+	}
 	union = USA
 }
 

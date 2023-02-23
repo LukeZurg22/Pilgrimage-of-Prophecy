@@ -1,8 +1,10 @@
-owner = 
-controller = 
-
-
-add_core = MEX
+owner = CPH
+controller = CPH
 trade_goods = grain
+life_rating = 35	
+colonial = 0	
+add_core = MEX
+add_core = MMN
+add_core = CPH
 terrain = montane_forest
-life_rating = 35
+fort = 0	

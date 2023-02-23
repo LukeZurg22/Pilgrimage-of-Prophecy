@@ -106,3 +106,18 @@ CPH_reactionary;The Reactionaries;;;;;;;;;;;;x
 CPH_liberal;The Reformists;;;;;;;;;;;;x
 CPH_fascist;The Fundamentalists;;;;;;;;;;;;x
 CPH_anarcho_liberal;The Western Party;;;;;;;;;;;;x
+MMN;Mormonia;;;;;;;;;;;;x
+MMN_ADJ;Mormon;;;;;;;;;;;;x
+MMN_democracy;Mormonia;;;;;;;;;;;;;x;;
+MMN_bourgeois_dictatorship;Mormonia;;;;;;;;;;;;;;
+MMN_absolute_monarchy;The Kingdom of Christ;;;;;;;;;;;;x
+MMN_prussian_constitutionalism;The Kingdom of Christ;;;;;;;;;;;;x
+MMN_hms_government;The Kingdom of Christ;;;;;;;;;;;;x
+MMN_fascist_dictatorship;The Mormon Empire;;;;;;;;;;;;;x;
+MMN_socialist;The Socialists;;;;;;;;;;;;x
+MMN_communist;The Communists;;;;;;;;;;;;x
+MMN_conservative;The Traditionalists;;;;;;;;;;;;x
+MMN_reactionary;The Reactionaries;;;;;;;;;;;;x
+MMN_liberal;Mormon Reformists;;;;;;;;;;;;x
+MMN_fascist;Mormon Fundamentalists;;;;;;;;;;;;x
+MMN_anarcho_liberal;The Mormon Anarchs;;;;;;;;;;;;x
