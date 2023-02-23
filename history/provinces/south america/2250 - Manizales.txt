@@ -1,6 +1,7 @@
-
-
-add_core = CLM
+owner = CLM
+controller = CLM
 trade_goods = fruit
+life_rating = 32	
+add_core = CLM
 terrain = montane_forest
-life_rating = 32
+fort = 0	
