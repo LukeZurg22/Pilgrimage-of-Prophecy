@@ -1,9 +1,10 @@
-
-
-add_core = JAP
-add_core = TKG
+owner = SAT
+controller = SAT
 trade_goods = tea
-life_rating = 38
+life_rating = 38	
+add_core = SAT
+add_core = SEN
+add_core = JAP
 terrain = kyoto
-fort = 1
-naval_base = 1
+naval_base = 1	
+fort = 1	

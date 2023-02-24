@@ -1,7 +1,8 @@
-
-
-add_core = JAP
-add_core = TKG
+owner = SAT
+controller = SAT
 trade_goods = tea
-life_rating = 35
+life_rating = 35	
+add_core = JAP
+add_core = SAT
 terrain = osaka
+fort = 0	

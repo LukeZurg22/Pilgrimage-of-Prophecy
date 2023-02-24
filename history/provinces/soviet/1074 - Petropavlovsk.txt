@@ -1,8 +1,8 @@
-owner = KAM
-controller = KAM
+owner = YAK
+controller = YAK
 trade_goods = fish
 life_rating = 15	
 colonial = 2	
-add_core = KAM
+add_core = YAK
 terrain = montane_tundra
 fort = 0	

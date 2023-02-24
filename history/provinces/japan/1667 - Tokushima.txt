@@ -1,6 +1,8 @@
-
-
-add_core = TOS
-add_core = TKG
+owner = SAT
+controller = SAT
 trade_goods = tobacco
-life_rating = 35
+life_rating = 35	
+add_core = SAT
+add_core = SEN
+add_core = JAP
+fort = 0	
