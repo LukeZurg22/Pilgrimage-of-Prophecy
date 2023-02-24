@@ -1,4 +1,9 @@
-add_core = TKM
-terrain = desert
+owner = TIM
+controller = TIM
 trade_goods = fish
-life_rating = 20
+life_rating = 20	
+colonial = 0	
+add_core = TKM
+add_core = TIM
+terrain = desert
+fort = 0	

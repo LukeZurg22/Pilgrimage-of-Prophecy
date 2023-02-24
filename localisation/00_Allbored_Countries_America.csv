@@ -121,3 +121,12 @@ MMN_reactionary;The Reactionaries;;;;;;;;;;;;x
 MMN_liberal;Mormon Reformists;;;;;;;;;;;;x
 MMN_fascist;Mormon Fundamentalists;;;;;;;;;;;;x
 MMN_anarcho_liberal;The Mormon Anarchs;;;;;;;;;;;;x
+PRI;Anarchist Territory;;;;;;;;;;;;;x
+PRI_ADJ;Anarchist;;;;;;;;;;;;;x
+PRI_liberal;Anarcho Liberals;;;;;;;;;;;;;x
+PRI_socialist;Anarcho Socialists;;;;;;;;;;;;;x
+PRI_conservative;Anarchists;;;;;;;;;;;;;x
+PRI_anarcho_liberal;Even-More-Anarcho Liberals;;;;;;;;;;;;;x
+PRI_communist;Anarcho Communes;;;;;;;;;;;;;x
+PRI_fascist;Anarcho Fascists;;;;;;;;;;;;;x
+PRI_reactionary;Reformists;;;;;;;;;;;;;x

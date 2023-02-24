@@ -8,6 +8,7 @@ FEM = "countries/Femboys.txt"
 ZUR = "countries/Zurgatland.txt"
 SOR = "countries/Sorbia.txt"
 GUN = "countries/Gunai.txt"
+TIM = "countries/Timurid.txt"
 
 ###Allbored America
 OHI = "countries/Ohio.txt"

@@ -1,8 +1,8 @@
-owner = BYZ
-controller = BYZ
+owner = SAM
+controller = SAM
 trade_goods = fruit
 life_rating = 40	
+colonial = 0	
 add_core = BYZ
-terrain = istanbul
-naval_base = 1	
-fort = 1	
+add_core = SAM
+fort = 0	

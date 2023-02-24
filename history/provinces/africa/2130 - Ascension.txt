@@ -1,6 +1,8 @@
-
-
+owner = BOS
+controller = BOS
 trade_goods = fish
-life_rating = 20
-colonial = 2
+life_rating = 20	
+colonial = 2	
+add_core = BOS
 terrain = small_island
+fort = 0	

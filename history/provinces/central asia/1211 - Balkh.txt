@@ -1,11 +1,10 @@
-
-
+owner = TIM
+controller = TIM
+trade_goods = grain
+life_rating = 35	
+colonial = 0	
 add_core = BDK
 add_core = AFG
+add_core = TIM
 terrain = dryhills
-trade_goods = grain
-life_rating = 35
-1860.1.1 = {
-	owner = AFG
-	controller = AFG
-}
+fort = 0	

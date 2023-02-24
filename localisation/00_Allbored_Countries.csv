@@ -74,3 +74,24 @@ GUN_conservative;Chieftain's Supporters;;;;;;;;;;;;x
 GUN_liberal;Gunai Republic Loyalists;;;;;;;;;;;;x
 GUN_anarcho_liberal;Crazy Anarchists;;;;;;;;;;;;x
 GUN_reactionary;Imperialists;;;;;;;;;;;;x
+PML;Pomerelia;;;;;;;;;;;;x
+PML_ADJ;Pomerelian;;;;;;;;;;;;x
+PML_colonial_company;Zyrgrelia;;;;;;;;;;;;;x
+PML_dominion;Zyrgrelia;;;;;;;;;;;;;x
+ICL;Old Israel;;;;;;;;;;;;x
+ICL_ADJ;Israeli;;;;;;;;;;;;x
+TIM;Timurids;;;;;;;;;;;;;x
+TIM_ADJ;Timurid;;;;;;;;;;;;;x
+TIM_absolute_monarchy;Timurid Empire;;;;;;;;;;;;;x
+TIM_absolute_monarchy_ADJ;Timur's;;;;;;;;;;;;;x
+TIM_prussian_constitutionalism;The Imperial State of Persia;;;;;;;;;;;;;x
+TIM_hms_government;The Imperial State of Persia;;;;;;;;;;;;x
+TIM_bourgeois_dictatorship;The Persian Free State;;;;;;;;;;;;;x
+TIM_bourgeois_dictatorship_ADJ;Persian;;;;;;;;;;;;;x
+TIM_communist;Tudeh Party;;;;;;;;;;;;;x
+TIM_conservative;Shahist Faction;;;;;;;;;;;;;x
+TIM_reactionary;Ulama Faction;;;;;;;;;;;;;x
+TIM_anarcho_liberal;Bazaari Faction;;;;;;;;;;;;x
+TIM_socialist;Hizb-e Socialyist;;;;;;;;;;;;;x
+TIM_fascist;Sumka Fascists;;;;;;;;;;;;;x
+TIM_liberal;Constitutionalist Party;;;;;;;;;;;;;x

@@ -1,11 +1,9 @@
-
-
+owner = TIM
+controller = TIM
+trade_goods = cattle
+life_rating = 32	
+colonial = 0	
 add_core = PNJ
 add_core = HND
-trade_goods = cattle
-life_rating = 32
-1861.1.1 = {
-	owner = ENL
-	controller = ENL
-	colonial = 2
-}
+add_core = TIM
+fort = 0	

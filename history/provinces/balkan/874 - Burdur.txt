@@ -2,5 +2,5 @@ owner = BYZ
 controller = BYZ
 trade_goods = grain
 life_rating = 35	
-add_core = TUR
+add_core = BYZ
 fort = 0	

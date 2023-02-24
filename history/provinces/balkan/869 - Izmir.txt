@@ -2,4 +2,6 @@ owner = BYZ
 controller = BYZ
 trade_goods = sulphur
 life_rating = 35	
+colonial = 0	
+add_core = BYZ
 fort = 0	

@@ -2,6 +2,6 @@ owner = BOS
 controller = BOS
 trade_goods = timber
 life_rating = 35	
-add_core = TUR
+add_core = BYZ
 add_core = SER
 fort = 0	

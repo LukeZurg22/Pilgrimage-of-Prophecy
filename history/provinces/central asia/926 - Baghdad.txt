@@ -1,8 +1,6 @@
-
-
-add_core = TUR
-add_core = IRQ
 trade_goods = grain
-life_rating = 35
-colonial = 2
+life_rating = 35	
+colonial = 2	
+add_core = IRQ
 terrain = baghdad
+fort = 0	

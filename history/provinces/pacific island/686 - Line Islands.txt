@@ -1,7 +1,10 @@
-
-
+owner = TIM
+controller = TIM
+trade_goods = opium
+life_rating = 15	
+colonial = 0	
 add_core = KHI
 add_core = TKM
+add_core = TIM
 terrain = desert
-trade_goods = opium
-life_rating = 15
+fort = 0	

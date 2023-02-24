@@ -2,6 +2,6 @@ owner = BYZ
 controller = BYZ
 trade_goods = iron
 life_rating = 35	
-add_core = TUR
+add_core = BYZ
 add_core = ARM
 fort = 0	

@@ -1,8 +1,6 @@
 # Do not change tags in here without changing every other reference to them.
 # If adding new forms of governemnts, make sure they are uniquely named.
 
-
-
 proletarian_dictatorship = {
 	#which ideology of parties.
 	communist = yes
@@ -50,6 +48,15 @@ dominion = {
 
  
 bourgeois_dictatorship = {
+	#which ideology of parties.
+	anarcho_liberal = yes
+	
+	election = no
+	appoint_ruling_party = yes
+	flagType = republic
+}
+
+anarchist_society = {
 	#which ideology of parties.
 	anarcho_liberal = yes
 	

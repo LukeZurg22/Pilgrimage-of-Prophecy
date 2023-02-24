@@ -1,6 +1,9 @@
-
-
+owner = TIM
+controller = TIM
+trade_goods = fruit
+life_rating = 35	
+colonial = 0	
 add_core = PER
 add_core = TKM
-trade_goods = fruit
-life_rating = 35
+add_core = TIM
+fort = 0	
