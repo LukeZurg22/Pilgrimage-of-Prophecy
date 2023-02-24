@@ -1,6 +1,5 @@
 capital = 2172
 primary_culture = mormon
-culture = mexican
 religion = mormon
 government = democracy
 plurality = 0.1
