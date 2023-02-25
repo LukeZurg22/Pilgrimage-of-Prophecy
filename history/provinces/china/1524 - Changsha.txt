@@ -1,7 +1,9 @@
-owner = GNG
-controller = GNG
+owner = GXI
+controller = GXI
 trade_goods = tea
 life_rating = 32	
+colonial = 0	
 add_core = GNG
 add_core = CHI
+add_core = GXI
 fort = 0	
