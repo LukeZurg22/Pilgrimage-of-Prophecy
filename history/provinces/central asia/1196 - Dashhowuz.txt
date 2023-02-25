@@ -1,7 +1,7 @@
-
-
-add_core = KHI
-add_core = TKM
+owner = KAZ
+controller = KAZ
 trade_goods = cattle
-life_rating = 35
+life_rating = 35	
+add_core = KAZ
 terrain = semidesert
+fort = 0	

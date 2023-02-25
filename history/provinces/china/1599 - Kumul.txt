@@ -1,6 +1,7 @@
-
-
-add_core = KML
-add_core = CHI
+owner = XIN
+controller = XIN
 trade_goods = grain
-life_rating = 32
+life_rating = 32	
+add_core = CHI
+add_core = XIN
+fort = 0	

@@ -1,6 +1,7 @@
-
-
-add_core = NEP
+owner = NEP
+controller = NEP
 trade_goods = grain
-life_rating = 25
+life_rating = 25	
+add_core = NEP
 terrain = katmandu
+fort = 0	

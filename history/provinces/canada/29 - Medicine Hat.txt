@@ -1,8 +1,7 @@
-owner = 
-controller = 
-
-
-add_core = BUK
+owner = KAZ
+controller = KAZ
 trade_goods = fruit
+life_rating = 15	
+add_core = KAZ
 terrain = desert
-life_rating = 15
+fort = 0	

@@ -1,5 +1,6 @@
-
-
-add_core = TIB
+owner = TIB
+controller = TIB
 trade_goods = wool
-life_rating = 25
+life_rating = 25	
+add_core = TIB
+fort = 0	

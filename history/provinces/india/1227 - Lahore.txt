@@ -1,12 +1,8 @@
-
-
-add_core = PNJ
-add_core = HND
+owner = SHI
+controller = SHI
 trade_goods = wool
-life_rating = 32
+life_rating = 32	
+add_core = SHI
+add_core = HND
 terrain = lahore
-1861.1.1 = {
-	owner = ENL
-	controller = ENL
-	colonial = 2
-}
+fort = 0	

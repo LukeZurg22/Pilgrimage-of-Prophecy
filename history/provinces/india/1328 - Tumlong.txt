@@ -1,6 +1,6 @@
-
-
-add_core = SIK
-add_core = HND
+owner = NEP
+controller = NEP
 trade_goods = wool
-life_rating = 32
+life_rating = 32	
+add_core = NEP
+fort = 0	

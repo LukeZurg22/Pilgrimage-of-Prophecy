@@ -1,6 +1,6 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = URA
+owner = KAZ
+controller = KAZ
 trade_goods = iron
-life_rating = 35
+life_rating = 35	
+add_core = KAZ
+fort = 0	
