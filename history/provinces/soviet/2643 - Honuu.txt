@@ -1,5 +1,9 @@
+owner = YAK
+controller = YAK
+trade_goods = grain
+life_rating = 10	
+colonial = 0	
 add_core = RUS
 add_core = YAK
-trade_goods = grain
 terrain = boreal
-life_rating = 10
+fort = 0	

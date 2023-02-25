@@ -1,5 +1,7 @@
-
-
-add_core = KOR
+owner = KOR
+controller = KOR
 trade_goods = grain
-life_rating = 31
+life_rating = 31	
+colonial = 0	
+add_core = KOR
+fort = 0	

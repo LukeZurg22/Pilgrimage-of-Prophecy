@@ -2,5 +2,7 @@ owner = GXI
 controller = GXI
 trade_goods = tea
 life_rating = 32	
+colonial = 0	
 add_core = GXI
+add_core = CHI
 fort = 0	

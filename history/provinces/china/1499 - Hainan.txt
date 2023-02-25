@@ -1,7 +1,9 @@
-
-
+owner = GNG
+controller = GNG
+trade_goods = fish
+life_rating = 32	
+colonial = 0	
 add_core = CHI
 add_core = GNG
-trade_goods = fish
-life_rating = 32
 terrain = hainan
+fort = 0	

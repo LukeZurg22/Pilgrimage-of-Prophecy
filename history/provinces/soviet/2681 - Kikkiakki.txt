@@ -1,8 +1,10 @@
-owner = FJN
-controller = FJN
+owner = KOR
+controller = KOR
 trade_goods = tea
 life_rating = 35	
+colonial = 0	
 add_core = CHI
 add_core = FJN
+add_core = KOR
 terrain = plains
 fort = 0	
