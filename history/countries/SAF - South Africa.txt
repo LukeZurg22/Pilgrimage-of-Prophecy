@@ -2,12 +2,12 @@ capital = 2087
 primary_culture = boer
 culture = british
 religion = protestant
-government = colonial_company
+government = democracy
 plurality = 0.6
 nationalvalue = nv_productivity
 literacy = 0.2
 civilized = yes
-is_releasable_vassal = no
+is_releasable_vassal = yes
 
 # Political reforms
 slavery = no_slavery
@@ -40,11 +40,6 @@ colonial_policy = settlement
 
 set_country_flag = protestant_country
 
-govt_flag = {
-	government = dominion
-	flag = absolute_monarchy
-}
-
 ruling_party = SAF_conservative_2
 upper_house = {
 	fascist = 0
@@ -58,4 +53,3 @@ upper_house = {
 
 schools = unciv_tech_school
 set_country_flag = post_colonial_country
-

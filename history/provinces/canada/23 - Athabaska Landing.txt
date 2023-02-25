@@ -5,3 +5,5 @@ life_rating = 15
 colonial = 0	
 terrain = new_world_boreal
 fort = 0	
+
+add_core = SAF

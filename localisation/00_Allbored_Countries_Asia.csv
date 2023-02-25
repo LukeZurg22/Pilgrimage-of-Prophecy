@@ -1,12 +1,19 @@
 ;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
-SEN;Yapon;;;;;;;;;;;;;x
-SEN_ADJ;Yapon;;;;;;;;;;;;;x
-SEN_absolute_monarchy;Japanese Khanate;;;;;;;;;;;;;x
-SEN_prussian_constitutionalism;Japanese Khanate;;;;;;;;;;;;;x
-SEN_hms_government;Mongolian Japanese Khanate;;;;;;;;;;;;;x
-SEN_absolute_monarchy_ADJ;Date;;;;;;;;;;;;;x
-SEN_prussian_constitutionalism_ADJ;Date;;;;;;;;;;;;;x
-SEN_hms_government_ADJ;Date;;;;;;;;;;;;;x
+SEN;Yapon;;;;;;;;;;;;x
+SEN_ADJ;Yapon;;;;;;;;;;;;x
+SEN_democracy;Yapon;;;;;;;;;;;;;x;;
+SEN_bourgeois_dictatorship;State of Yapon;;;;;;;;;;;;;;
+SEN_absolute_monarchy;Yapon Khaganate;;;;;;;;;;;;x
+SEN_prussian_constitutionalism;Kingdom of Yapon;;;;;;;;;;;;x
+SEN_hms_government;Kingdom of Yapon;;;;;;;;;;;;x
+SEN_fascist_dictatorship;The Yapon Proto-Khaganate;;;;;;;;;;;;;x;
+SEN_socialist;The Socialists;;;;;;;;;;;;x
+SEN_communist;The Communists;;;;;;;;;;;;x
+SEN_conservative;The Conservatives;;;;;;;;;;;;x
+SEN_reactionary;The Reactionaries;;;;;;;;;;;;x
+SEN_liberal;The Liberals;;;;;;;;;;;;x
+SEN_fascist;The Fascists;;;;;;;;;;;;x
+SEN_anarcho_liberal;The Anarcho Liberals;;;;;;;;;;;;x
 SAT;Nihon;;;;;;;;;;;;x
 SAT_ADJ;Nihon;;;;;;;;;;;;x
 SAT_democracy;Nihon;;;;;;;;;;;;;x;;

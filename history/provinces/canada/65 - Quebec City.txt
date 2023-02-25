@@ -7,3 +7,5 @@ add_core = QUE
 terrain = quebec
 naval_base = 1	
 fort = 0	
+
+add_core = SAF

@@ -8,3 +8,5 @@ add_core = MRU
 add_core = AMK
 naval_base = 1	
 fort = 1	
+
+add_core = SAF

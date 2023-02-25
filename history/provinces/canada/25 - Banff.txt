@@ -5,3 +5,5 @@ life_rating = 30
 colonial = 0	
 add_core = RPL
 fort = 0	
+
+add_core = SAF

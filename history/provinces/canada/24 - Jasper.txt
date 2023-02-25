@@ -6,3 +6,5 @@ colonial = 0
 add_core = RPL
 add_core = MTC
 fort = 0	
+
+add_core = SAF

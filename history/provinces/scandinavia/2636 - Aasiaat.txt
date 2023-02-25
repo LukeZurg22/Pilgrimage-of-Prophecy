@@ -5,4 +5,5 @@ life_rating = 10
 colonial = 2	
 add_core = GRN
 add_core = DEN
+add_core = SAF
 fort = 0	

@@ -6,3 +6,5 @@ colonial = 0
 add_core = MTC
 terrain = new_world_boreal
 fort = 0	
+
+add_core = SAF

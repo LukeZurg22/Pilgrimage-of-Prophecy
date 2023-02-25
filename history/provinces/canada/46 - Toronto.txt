@@ -6,3 +6,5 @@ colonial = 0
 add_core = CAN
 terrain = toronto
 fort = 0	
+
+add_core = SAF

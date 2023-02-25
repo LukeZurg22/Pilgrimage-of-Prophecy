@@ -7,3 +7,5 @@ add_core = QUE
 add_core = AMK
 add_core = CAN
 fort = 0	
+
+add_core = SAF

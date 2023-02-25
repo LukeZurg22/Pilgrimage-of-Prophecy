@@ -6,3 +6,5 @@ trade_goods = fish
 life_rating = 30
 colonial = 0
 terrain = new_world_small_island
+
+add_core = SAF

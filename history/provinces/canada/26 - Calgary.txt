@@ -7,3 +7,5 @@ add_core = RPL
 add_core = MTC
 terrain = plains
 fort = 0	
+
+add_core = SAF

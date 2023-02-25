@@ -2,6 +2,7 @@ owner = KAZ
 controller = KAZ
 trade_goods = fruit
 life_rating = 15	
+colonial = 0	
 add_core = KAZ
 terrain = desert
 fort = 0	

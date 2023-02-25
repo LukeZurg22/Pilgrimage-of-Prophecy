@@ -7,3 +7,5 @@ add_core = NEW
 add_core = SCO
 terrain = stjohn
 fort = 0	
+
+add_core = SAF
