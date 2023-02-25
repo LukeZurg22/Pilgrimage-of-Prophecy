@@ -1,6 +1,7 @@
-
-
-add_core = ORI
-add_core = HND
+owner = BNG
+controller = BNG
 trade_goods = grain
-life_rating = 32
+life_rating = 32	
+add_core = BNG
+add_core = HND
+fort = 0	

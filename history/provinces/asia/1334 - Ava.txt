@@ -1,5 +1,7 @@
-
-
-add_core = BUR
+owner = BNG
+controller = BNG
 trade_goods = tropical_wood
-life_rating = 35
+life_rating = 35	
+add_core = BNG
+add_core = BUR
+fort = 0	

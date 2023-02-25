@@ -1,6 +1,7 @@
-
-
-add_core = BUR
-add_core = SHA
+owner = YNN
+controller = YNN
 trade_goods = tropical_wood
-life_rating = 33
+life_rating = 33	
+add_core = YNN
+add_core = CHI
+fort = 0	

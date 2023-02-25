@@ -1,7 +1,8 @@
-
-
-add_core = HND
-add_core = ASM
+owner = BNG
+controller = BNG
 trade_goods = fruit
-life_rating = 32
-colonial = 2
+life_rating = 32	
+colonial = 2	
+add_core = BNG
+add_core = BUR
+fort = 0	

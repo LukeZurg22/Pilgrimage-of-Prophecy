@@ -1,7 +1,7 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = YAK
+owner = YAK
+controller = YAK
 trade_goods = coal
-life_rating = 20
-colonial = 2
+life_rating = 20	
+colonial = 2	
+add_core = YAK
+fort = 0	

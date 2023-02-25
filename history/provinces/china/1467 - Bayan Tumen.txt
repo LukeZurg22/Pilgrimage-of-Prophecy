@@ -1,6 +1,8 @@
-owner = KOR
-controller = KOR
+owner = MGL
+controller = MGL
 trade_goods = cattle
 life_rating = 32	
-add_core = KOR
+add_core = QNG
+add_core = CHI
+add_core = MGL
 fort = 0	

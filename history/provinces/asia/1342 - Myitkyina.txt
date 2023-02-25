@@ -1,6 +1,7 @@
-
-
-add_core = BUR
-add_core = KCH
+owner = YNN
+controller = YNN
 trade_goods = grain
-life_rating = 33
+life_rating = 33	
+add_core = BNG
+add_core = YNN
+fort = 0	

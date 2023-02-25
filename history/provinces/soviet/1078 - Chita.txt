@@ -1,7 +1,9 @@
-owner = KOR
-controller = KOR
+owner = MGL
+controller = MGL
 trade_goods = timber
 life_rating = 35	
 colonial = 2	
-add_core = KOR
+add_core = MGL
+add_core = CHI
+add_core = QNG
 fort = 0	

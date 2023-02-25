@@ -1,8 +1,9 @@
-
-
+owner = BNG
+controller = BNG
+trade_goods = wool
+life_rating = 35	
+colonial = 2	
 add_core = HND
 add_core = BNG
-trade_goods = wool
-life_rating = 35
-colonial = 2
-naval_base = 2
+naval_base = 2	
+fort = 0	

@@ -1,6 +1,6 @@
-
-
-add_core = BUR
-add_core = KCH
+owner = YNN
+controller = YNN
 trade_goods = timber
-life_rating = 31
+life_rating = 31	
+add_core = YNN
+fort = 0	

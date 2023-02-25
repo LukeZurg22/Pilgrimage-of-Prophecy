@@ -1,7 +1,8 @@
-owner = KOR
-controller = KOR
+owner = QNG
+controller = QNG
 trade_goods = cattle
 life_rating = 35	
 colonial = 2	
-add_core = KOR
+add_core = QNG
+add_core = CHI
 fort = 0	
