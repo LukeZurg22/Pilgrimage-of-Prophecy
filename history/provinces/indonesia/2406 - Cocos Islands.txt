@@ -1,6 +1,9 @@
-
-
+owner = GNG
+controller = GNG
+trade_goods = fish
+life_rating = 32	
+colonial = 0	
 add_core = CHI
 add_core = FJN
-trade_goods = fish
-life_rating = 32
+add_core = GNG
+fort = 0	

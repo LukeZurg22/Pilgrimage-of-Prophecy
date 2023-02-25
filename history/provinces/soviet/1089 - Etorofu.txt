@@ -1,8 +1,8 @@
+owner = YAK
+controller = YAK
 trade_goods = fish
-life_rating = 15
-colonial = 1
+life_rating = 15	
+colonial = 1	
+add_core = YAK
 terrain = mountain
-1861.1.1 = {
-	owner = TKG
-	controller = TKG
-}
+fort = 0	

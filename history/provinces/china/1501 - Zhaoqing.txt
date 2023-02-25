@@ -2,5 +2,7 @@ owner = GNG
 controller = GNG
 trade_goods = fish
 life_rating = 32	
+colonial = 0	
 add_core = GNG
+add_core = CHI
 fort = 0	
