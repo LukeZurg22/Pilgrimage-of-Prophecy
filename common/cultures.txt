@@ -94,7 +94,7 @@ jewish_cultures = {
 		}
 	}
 	icelandic = { 
-		color = { 80 20 150}
+		color = { 90 20 30}
 		first_names = { Agnar Ásgeir Björn Eidur Einar Emil Geir Gudmund Gunnar Hannes
 		Hermann Jón Kristján Magnús Ólafur Pétur Sigurdur Stefán Sveinn Tryggvi }
 		

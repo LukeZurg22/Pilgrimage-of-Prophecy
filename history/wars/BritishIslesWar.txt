@@ -1,6 +1,6 @@
 name = "War In The Isles Over Scottish Dominance"
 
-1835.1.3 = {
+1880.1.3 = {
 	add_attacker = ENL
 	add_attacker = WHA
 	add_attacker = IRE

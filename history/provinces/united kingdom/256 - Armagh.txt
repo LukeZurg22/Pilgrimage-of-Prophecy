@@ -1,7 +1,8 @@
-owner = SCO
-controller = SCO
+owner = IRE
+controller = IRE
 trade_goods = fruit
 life_rating = 35	
+colonial = 0	
 add_core = ENG
 add_core = IRE
 fort = 0	

@@ -1,0 +1,23 @@
+#Scotland - Whales
+vassal = {
+	first = IRE
+	second = WHA
+	start_date = 1815.1.1
+	end_date = 1857.1.1
+}
+
+#Scotland - England
+vassal = {
+	first = IRE
+	second = ENL
+	start_date = 1816.1.1
+	end_date = 1840.1.1
+}
+
+#Scotland - Ireland
+vassal = {
+	first = IRE
+	second = SCO
+	start_date = 1816.1.1
+	end_date = 1840.1.1
+}
