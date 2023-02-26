@@ -130,6 +130,9 @@ PRI_anarcho_liberal;Even-More-Anarcho Liberals;;;;;;;;;;;;;x
 PRI_communist;Anarcho Communes;;;;;;;;;;;;;x
 PRI_fascist;Anarcho Fascists;;;;;;;;;;;;;x
 PRI_reactionary;Reformists;;;;;;;;;;;;;x
-PHL_colonial_company;Las Filipinas;;;;;;;;;;;;;x
-SAF;Arktiesia;;;;;;;;;;;;;x;;;;
+SAF;Arktiesia;;;;;;;;;;;;x
 SAF_ADJ;Arktiesian;;;;;;;;;;;;x
+SAF_hms_government;The Union of Arktiesia;;;;;;;;;;;;;x
+SAF_colonial_company;The Arktiesian Colony;;;;;;;;;;;;;x
+SAF_dominon;The Arktiesian Colony;;;;;;;;;;;;;x
+PHL_colonial_company;Las Filipinas;;;;;;;;;;;;;x
