@@ -1,5 +1,5 @@
-owner = MGL
-controller = MGL
+owner = QNG
+controller = QNG
 trade_goods = grain
 life_rating = 35	
 colonial = 2	

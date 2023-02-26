@@ -1,6 +1,8 @@
-
-
-add_core = PHL
+owner = FJN
+controller = FJN
 trade_goods = iron
-life_rating = 35
-colonial = 2
+life_rating = 35	
+colonial = 2	
+add_core = PHL
+add_core = FJN
+fort = 0	

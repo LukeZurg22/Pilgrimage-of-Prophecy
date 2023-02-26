@@ -1,6 +1,7 @@
-
-
-add_core = PHL
+owner = FJN
+controller = FJN
 trade_goods = tobacco
-life_rating = 35
-colonial = 2
+life_rating = 35	
+colonial = 2	
+add_core = PHL
+fort = 0	
