@@ -1,7 +1,9 @@
-owner = PNB
-controller = PNB
+owner = URU
+controller = URU
 trade_goods = coffee
 life_rating = 40	
+colonial = 0	
 add_core = PNB
+add_core = URU
 terrain = saopaulo
 fort = 0	
