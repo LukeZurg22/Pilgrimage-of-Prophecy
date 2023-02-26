@@ -1,8 +1,9 @@
-
-
-add_core = BER
-add_core = HND
+owner = SIN
+controller = SIN
 trade_goods = tobacco
-life_rating = 32
-colonial = 2
-naval_base = 2
+life_rating = 32	
+colonial = 2	
+add_core = HND
+add_core = SIN
+naval_base = 2	
+fort = 0	

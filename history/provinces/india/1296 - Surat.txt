@@ -1,8 +1,8 @@
-
-
-add_core = HND
-add_core = BER
-add_core = MAH
+owner = IND
+controller = IND
 trade_goods = grain
-life_rating = 32
-colonial = 2
+life_rating = 32	
+colonial = 2	
+add_core = HND
+add_core = IND
+fort = 0	

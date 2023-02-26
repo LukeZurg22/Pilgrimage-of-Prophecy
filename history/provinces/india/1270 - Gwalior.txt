@@ -1,7 +1,7 @@
-
-
-add_core = GWA
-add_core = MUG
-add_core = HND
+owner = AWA
+controller = AWA
 trade_goods = dye
-life_rating = 32
+life_rating = 32	
+add_core = HND
+add_core = AWA
+fort = 0	

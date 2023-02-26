@@ -1,8 +1,7 @@
-
-
-add_core = REW
-add_core = BUN
-add_core = MUG
-add_core = HND
+owner = NAG
+controller = NAG
 trade_goods = cattle
-life_rating = 32
+life_rating = 32	
+add_core = HND
+add_core = NAG
+fort = 0	

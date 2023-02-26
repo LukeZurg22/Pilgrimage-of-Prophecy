@@ -1,10 +1,9 @@
-
-
-add_core = MUG
-add_core = AWA
-add_core = HND
+owner = MUG
+controller = MUG
 trade_goods = dye
-life_rating = 32
+life_rating = 32	
+colonial = 2	
+add_core = MUG
+add_core = HND
 terrain = agra
-colonial = 2
-fort = 1
+fort = 1	

@@ -1,6 +1,7 @@
-
-
-add_core = BER
-add_core = HND
+owner = SIN
+controller = SIN
 trade_goods = cotton
-life_rating = 32
+life_rating = 32	
+add_core = SIN
+add_core = HND
+fort = 0	

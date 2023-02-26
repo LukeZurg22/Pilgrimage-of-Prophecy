@@ -1,8 +1,8 @@
-
-
-add_core = BAS
-add_core = ORI
-add_core = HND
+owner = HYD
+controller = HYD
 trade_goods = tobacco
-life_rating = 32
-colonial = 2
+life_rating = 32	
+colonial = 2	
+add_core = HND
+add_core = HYD
+fort = 0	

@@ -1,8 +1,8 @@
-owner = BNG
-controller = BNG
+owner = NAG
+controller = NAG
 trade_goods = cattle
 life_rating = 32	
 colonial = 2	
 add_core = HND
-add_core = BNG
+add_core = NAG
 fort = 0	
