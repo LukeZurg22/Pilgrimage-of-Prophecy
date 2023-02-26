@@ -1,5 +1,6 @@
-
-
-add_core = VNZ
+owner = ECU
+controller = ECU
 trade_goods = fruit
-life_rating = 20
+life_rating = 20	
+add_core = ECU
+fort = 0	

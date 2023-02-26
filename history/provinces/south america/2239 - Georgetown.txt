@@ -1,9 +1,9 @@
-
-
-add_core = GUY
+owner = ECU
+controller = ECU
 trade_goods = fruit
+life_rating = 32	
+colonial = 2	
+add_core = ECU
 terrain = plains
-life_rating = 32
-colonial = 2
-naval_base = 1
-1861.1.1 = { railroad = 1 }
+naval_base = 1	
+fort = 0	

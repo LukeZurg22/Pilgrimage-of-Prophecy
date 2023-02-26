@@ -1,6 +1,7 @@
-
-
-add_core = ECU
+owner = ECU
+controller = ECU
 trade_goods = fruit
-life_rating = 35
+life_rating = 35	
+add_core = ECU
 terrain = quito
+fort = 0	

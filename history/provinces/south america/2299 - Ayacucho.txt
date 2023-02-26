@@ -1,6 +1,6 @@
+owner = ECU
+controller = ECU
 trade_goods = cattle
 life_rating = 35	
-colonial = 0	
-add_core = SPU
-add_core = PEU
+add_core = ECU
 fort = 0	

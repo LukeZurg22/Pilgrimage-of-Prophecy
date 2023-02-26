@@ -1,7 +1,8 @@
-
-
-add_core = GUY
-terrain = new_world_jungle
+owner = ECU
+controller = ECU
 trade_goods = tropical_wood
-life_rating = 15
-colonial = 2
+life_rating = 15	
+colonial = 2	
+add_core = ECU
+terrain = new_world_jungle
+fort = 0	

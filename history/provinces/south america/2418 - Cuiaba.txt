@@ -1,5 +1,6 @@
-
-
-add_core = BRZ
+owner = ECU
+controller = ECU
 trade_goods = fruit
-life_rating = 25
+life_rating = 25	
+add_core = ECU
+fort = 0	

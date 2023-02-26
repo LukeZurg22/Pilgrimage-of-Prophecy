@@ -1,5 +1,6 @@
-
-
-add_core = VNZ
+owner = ECU
+controller = ECU
 trade_goods = timber
-life_rating = 31
+life_rating = 31	
+add_core = ECU
+fort = 0	

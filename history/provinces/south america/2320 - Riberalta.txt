@@ -1,9 +1,6 @@
-
-
-add_core = BOL
+owner = ECU
+controller = ECU
 trade_goods = timber
-life_rating = 25
-1860.1.1 = {
-	owner = BOL
-	controller = BOL
-}
+life_rating = 25	
+add_core = ECU
+fort = 0	

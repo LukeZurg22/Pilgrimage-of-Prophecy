@@ -1,5 +1,6 @@
-
-
-add_core = ECU
+owner = ECU
+controller = ECU
 trade_goods = cattle
-life_rating = 32
+life_rating = 32	
+add_core = ECU
+fort = 0	

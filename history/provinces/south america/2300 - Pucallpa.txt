@@ -1,6 +1,7 @@
-
-
-add_core = PEU
+owner = ECU
+controller = ECU
 trade_goods = wool
+life_rating = 31	
+add_core = ECU
 terrain = jungle
-life_rating = 31
+fort = 0	
