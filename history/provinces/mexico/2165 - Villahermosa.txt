@@ -1,5 +1,5 @@
-owner = MMN
-controller = MMN
+owner = CHP
+controller = CHP
 trade_goods = coffee
 life_rating = 30	
 colonial = 0	

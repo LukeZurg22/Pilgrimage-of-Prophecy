@@ -130,7 +130,22 @@ PRI_anarcho_liberal;Even-More-Anarcho Liberals;;;;;;;;;;;;;x
 PRI_communist;Anarcho Communes;;;;;;;;;;;;;x
 PRI_fascist;Anarcho Fascists;;;;;;;;;;;;;x
 PRI_reactionary;Reformists;;;;;;;;;;;;;x
-SAF_hms_government;The Union of South Africa;;;;;;;;;;;;;x
-SAF_colonial_company;The Cape Colony;;;;;;;;;;;;;x
-SAF_dominon;The Cape Colony;;;;;;;;;;;;;x
 PHL_colonial_company;Las Filipinas;;;;;;;;;;;;;x
+SAF;Arktiesia;;;;;;;;;;;;;x;;;;
+SAF_ADJ;Arktiesian;;;;;;;;;;;;x
+SAF_democracy;Arktiesia;;;;;;;;;;;;;x;;
+SAF_bourgeois_dictatorship;Arktiesia;;;;;;;;;;;;;;
+SAF_absolute_monarchy;The Kingdom of Arktiesia;;;;;;;;;;;;x
+SAF_prussian_constitutionalism;The Kingdom of Arktiesia;;;;;;;;;;;;x
+SAF_hms_government;Arktiesia;;;;;;;;;;;;;x
+SAF_fascist_dictatorship;The Proto-Hyperborean Empire;;;;;;;;;;;;;x;
+SAF_socialist;The Socialists;;;;;;;;;;;;x
+SAF_communist;The Communists;;;;;;;;;;;;x
+SAF_conservative;The Traditionalists;;;;;;;;;;;;x
+SAF_reactionary;The Reactionaries;;;;;;;;;;;;x
+SAF_liberal;Mormon Reformists;;;;;;;;;;;;x
+SAF_fascist;Mormon Fundamentalists;;;;;;;;;;;;x
+SAF_anarcho_liberal;The Arktiesian Anarchs;;;;;;;;;;;;x
+SAF_colonial_company;The Arktiesian Company;;;;;;;;;;;;;x
+SAF_dominon;The Arktiesian Dominion;;;;;;;;;;;;;x
+

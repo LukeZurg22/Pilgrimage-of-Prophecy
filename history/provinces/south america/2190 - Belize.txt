@@ -1,11 +1,9 @@
-
-
+owner = CHP
+controller = CHP
+trade_goods = fruit
+life_rating = 30	
+colonial = 2	
 add_core = BLZ
 add_core = UCA
 add_core = GUA
-trade_goods = fruit
-life_rating = 30
-colonial = 2
-1861.1.1 = {
-	remove_core = UCA
-}
+fort = 0	

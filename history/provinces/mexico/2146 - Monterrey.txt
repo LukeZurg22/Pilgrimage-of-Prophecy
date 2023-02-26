@@ -3,7 +3,6 @@ controller = PRI
 trade_goods = grain
 life_rating = 35	
 colonial = 0	
-add_core = USA
 add_core = PRI
 terrain = dc
 fort = 0	
