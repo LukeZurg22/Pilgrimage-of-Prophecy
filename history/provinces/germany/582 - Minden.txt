@@ -1,8 +1,10 @@
-owner = PRU
-controller = PRU
+owner = LIP
+controller = LIP
+trade_goods = cattle
+life_rating = 40	
+colonial = 0	
 add_core = PRU
 add_core = WES
 add_core = GER
-trade_goods = cattle
-life_rating = 40
-1861.1.1 = { railroad = 3 }
+add_core = LIP
+fort = 0	

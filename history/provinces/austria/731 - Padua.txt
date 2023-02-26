@@ -1,6 +1,8 @@
-owner = AUS
-controller = AUS
-add_core = VEN
+owner = FEM
+controller = FEM
 trade_goods = fruit
-life_rating = 40
-1861.1.1 = { railroad = 3 }
+life_rating = 40	
+colonial = 0	
+add_core = VEN
+add_core = FEM
+fort = 0	

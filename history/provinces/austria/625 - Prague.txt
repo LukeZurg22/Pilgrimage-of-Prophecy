@@ -1,26 +1,8 @@
-owner = AUS
-controller = AUS
-add_core = AUS
-add_core = BOH
-add_core = CZH
+owner = BOH
+controller = BOH
 trade_goods = coal
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = BOH
 terrain = prague
-#state_building = {
-#	level = 1
-#	building = steel_factory
-#	upgrade = yes
-#}
-1861.1.1 = { railroad = 3 }
-1861.1.1 = {
-	state_building = {
-		level = 1
-		building = steel_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = fabric_factory
-		upgrade = yes
-	}
-}
+fort = 0	

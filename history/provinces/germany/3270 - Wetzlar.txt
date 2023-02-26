@@ -1,8 +1,10 @@
-owner = PRU
-controller = PRU
+owner = NAS
+controller = NAS
+trade_goods = fruit
+life_rating = 40	
+colonial = 0	
 add_core = PRU
 add_core = GER
-trade_goods = fruit
-life_rating = 40
+add_core = NAS
 terrain = farmlands
-1861.1.1 = { railroad = 3 }
+fort = 0	
