@@ -1,9 +1,10 @@
-owner = CPH
-controller = CPH
+owner = ION
+controller = ION
 trade_goods = fish
 life_rating = 20	
 colonial = 0	
 add_core = COL
 add_core = USA
 add_core = CPH
+add_core = ION
 fort = 0	

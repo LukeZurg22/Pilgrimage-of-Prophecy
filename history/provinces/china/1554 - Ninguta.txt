@@ -6,4 +6,5 @@ colonial = 0
 add_core = QNG
 add_core = CHI
 add_core = KOR
+add_core = YAK
 fort = 0	

@@ -12,3 +12,19 @@ alliance = {
 	start_date = 1836.1.1
 	end_date = 1850.1.1
 }
+
+# Aztec-Caliphornia
+alliance = {
+	first = CHP
+	second = CPH
+	start_date = 1836.1.1
+	end_date = 1850.1.1
+}
+
+# Mormons-Louisiana
+alliance = {
+	first = ULA
+	second = MMN
+	start_date = 1836.1.1
+	end_date = 1850.1.1
+}

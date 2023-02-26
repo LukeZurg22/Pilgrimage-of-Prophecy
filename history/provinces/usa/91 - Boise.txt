@@ -1,8 +1,9 @@
-owner = CPH
-controller = CPH
+owner = ION
+controller = ION
 trade_goods = wool
 life_rating = 35	
 colonial = 0	
 add_core = COL
 add_core = CPH
+add_core = ION
 fort = 0	

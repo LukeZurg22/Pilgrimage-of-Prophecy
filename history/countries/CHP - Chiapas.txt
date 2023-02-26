@@ -1,5 +1,5 @@
 capital = 2181
-primary_culture = mexican
+primary_culture = nahua
 religion = catholic
 government = democracy
 plurality = 0.0
