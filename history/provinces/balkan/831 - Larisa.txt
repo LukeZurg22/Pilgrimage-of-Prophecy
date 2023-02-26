@@ -1,6 +1,8 @@
-owner = TUR
-controller = TUR
+owner = GRE
+controller = GRE
+trade_goods = fruit
+life_rating = 35	
+colonial = 0	
 add_core = BYZ
 add_core = GRE
-trade_goods = fruit
-life_rating = 35
+fort = 0	

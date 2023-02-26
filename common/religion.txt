@@ -110,7 +110,7 @@ pagan = {
 		pagan = yes
 	}
 	anarchy = {
-		icon = 18
+		icon = 19
 		color = { 0.2 0.2 0.2 }
 	}
 }
