@@ -1,6 +1,8 @@
-
-
-add_core = ALD
+owner = TUN
+controller = TUN
 trade_goods = grain
-life_rating = 35
-colonial = 2
+life_rating = 35	
+colonial = 2	
+add_core = ALD
+add_core = TUN
+fort = 0	
