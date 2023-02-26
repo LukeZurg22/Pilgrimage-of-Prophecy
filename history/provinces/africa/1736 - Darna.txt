@@ -1,7 +1,9 @@
-
-
-add_core = CYR
+owner = TUN
+controller = TUN
 trade_goods = fish
-life_rating = 35
+life_rating = 35	
+colonial = 2	
+add_core = CYR
+add_core = TUN
 terrain = plains
-colonial = 2
+fort = 0	

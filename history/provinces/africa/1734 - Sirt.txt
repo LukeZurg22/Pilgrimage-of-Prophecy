@@ -1,7 +1,8 @@
-
-
-add_core = TRI
+owner = TUN
+controller = TUN
 trade_goods = wool
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = TUN
 terrain = semidesert
-#terrain = coastal_desert
+fort = 0	

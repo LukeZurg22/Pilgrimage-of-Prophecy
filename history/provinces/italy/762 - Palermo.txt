@@ -1,13 +1,11 @@
-
-
+owner = TUN
+controller = TUN
+trade_goods = fish
+life_rating = 35	
+colonial = 0	
 add_core = SIC
 add_core = SYC
 add_core = ITA
-trade_goods = fish
-life_rating = 35
+add_core = TUN
 terrain = palermo
-1861.1.1 = {
-	controller = ITA
-	owner = ITA
-	naval_base = 1
-}
+fort = 0	

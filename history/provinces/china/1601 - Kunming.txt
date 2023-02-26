@@ -5,4 +5,5 @@ life_rating = 32
 colonial = 0	
 add_core = CHI
 add_core = GXI
+add_core = QNG
 fort = 0	

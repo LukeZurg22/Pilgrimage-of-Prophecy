@@ -1,8 +1,8 @@
-
-
-add_core = CYR
+owner = TUN
+controller = TUN
 trade_goods = grain
-life_rating = 32
+life_rating = 32	
+colonial = 0	
+add_core = TUN
 terrain = semidesert
-#terrain = coastal_desert
-colonial = 2
+fort = 0	
