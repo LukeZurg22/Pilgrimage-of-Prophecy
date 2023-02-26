@@ -1,7 +1,4 @@
-color = { 20 50 210 }
-proletarian_dictatorship = { 229 13 44 }
-fascist_dictatorship = { 12 0 45 }
-presidential_dictatorship = { 5 20 64 }
+color = { 50 150 50 }
 graphical_culture = FrenchGC
 
 party = {
@@ -23,9 +20,7 @@ party = {
 	name = "FRA_reactionary_2" #Droite nationaliste
 	start_date = 1883.1.1
 	end_date = 2000.1.1
-
 	ideology = reactionary
-
 	social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism

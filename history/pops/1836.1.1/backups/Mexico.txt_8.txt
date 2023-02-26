@@ -317,84 +317,42 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 12
+        size = 120
         militancy = 5
     }
 
     bureaucrats = {
         culture = mormon
         religion = mormon
-        size = 2
+        size = 18
         militancy = 5
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
         militancy = 5
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 27
+        size = 275
         militancy = 5
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 6
+        size = 63
         militancy = 5
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 496
-        militancy = 5
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 108
-        militancy = 5
-    }
-
-    bureaucrats = {
-        culture = mexican
-        religion = mormon
-        size = 16
-        militancy = 5
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 45
-        militancy = 5
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 248
-        militancy = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 57
-        militancy = 5
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 4467
+        size = 4963
         militancy = 5
     }
 }
@@ -753,70 +711,35 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 1
+        size = 13
         militancy = 4
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 1
+        size = 10
         militancy = 4
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 2
+        size = 25
         militancy = 4
     }
 
     soldiers = {
         culture = mormon
-        religion = mormon
-        size = 0
-        militancy = 4
-    }
-
-    farmers = {
-        culture = mormon
-        religion = mormon
-        size = 45
-        militancy = 4
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 12
-        militancy = 4
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 9
-        militancy = 4
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 23
-        militancy = 4
-    }
-
-    soldiers = {
-        culture = mexican
         religion = mormon
         size = 5
         militancy = 4
     }
 
     farmers = {
-        culture = mexican
+        culture = mormon
         religion = mormon
-        size = 403
+        size = 448
         militancy = 4
     }
 }
@@ -1130,70 +1053,35 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 12
+        size = 125
         militancy = 4
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
         militancy = 5
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 25
+        size = 250
         militancy = 4
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
         militancy = 7
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 452
-        militancy = 5
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 113
-        militancy = 4
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 45
-        militancy = 5
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 225
-        militancy = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 45
-        militancy = 7
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 4073
+        size = 4525
         militancy = 5
     }
 }
@@ -1451,63 +1339,32 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 1
+        size = 13
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
         militancy = 9
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 10
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 12
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 45
-        militancy = 9
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 88
+        size = 98
     }
 }
 #Rosarito (16000/4000 POPS)
@@ -1816,62 +1673,31 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 3
+        size = 35
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 2
+        size = 25
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 1
+        size = 13
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 87
-        militancy = 9
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 32
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 23
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 12
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 788
+        size = 875
         militancy = 9
     }
 }
@@ -2204,87 +2030,44 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 22
+        size = 220
     }
 
     bureaucrats = {
         culture = mormon
         religion = mormon
-        size = 2
+        size = 25
     }
 
     officers = {
         culture = mormon
         religion = mormon
-        size = 1
+        size = 8
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 11
+        size = 113
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 55
+        size = 550
         militancy = 9
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 11
+        size = 113
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 997
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 198
-    }
-
-    bureaucrats = {
-        culture = mexican
-        religion = mormon
-        size = 23
-    }
-
-    officers = {
-        culture = mexican
-        religion = mormon
-        size = 7
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 102
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 495
-        militancy = 9
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 102
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 8976
+        size = 9973
     }
 }
 #Paso del Norte (12000/3000 POPS)
@@ -2538,61 +2321,31 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 4
+        size = 38
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 7
+        size = 75
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 35
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 34
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 68
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 315
+        size = 350
     }
 }
 #Delicias (8000/2000 POPS)
@@ -2847,62 +2600,31 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 4
+        size = 38
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 37
-        militancy = 9
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 34
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 338
+        size = 375
         militancy = 9
     }
 }
@@ -2972,61 +2694,31 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 1
+        size = 13
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 1
+        size = 10
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 2
+        size = 25
     }
 
     soldiers = {
         culture = mormon
-        religion = mormon
-        size = 0
-    }
-
-    farmers = {
-        culture = mormon
-        religion = mormon
-        size = 45
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 12
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 9
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 23
-    }
-
-    soldiers = {
-        culture = mexican
         religion = mormon
         size = 5
     }
 
     farmers = {
-        culture = mexican
+        culture = mormon
         religion = mormon
-        size = 403
+        size = 448
     }
 }
 #Coahuila Region (160000)
@@ -3282,61 +2974,31 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 4
+        size = 38
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 7
+        size = 75
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 35
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 34
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 68
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 315
+        size = 350
     }
 }
 #Saltillo (44000/11000 POPS)
@@ -3611,85 +3273,43 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 12
+        size = 125
     }
 
     bureaucrats = {
         culture = mormon
         religion = mormon
-        size = 3
+        size = 35
     }
 
     officers = {
         culture = mormon
         religion = mormon
-        size = 1
+        size = 8
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 4
+        size = 38
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 20
+        size = 200
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 4
+        size = 38
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 356
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 113
-    }
-
-    bureaucrats = {
-        culture = mexican
-        religion = mormon
-        size = 32
-    }
-
-    officers = {
-        culture = mexican
-        religion = mormon
-        size = 7
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 34
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 180
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 34
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 3202
+        size = 3558
     }
 }
 #Monclova (48000/12000 POPS)
@@ -3944,63 +3564,32 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 14
+        size = 138
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 30
+        size = 300
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 6
+        size = 63
         militancy = 9
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 294
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 124
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 270
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 57
-        militancy = 9
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 2644
+        size = 2938
     }
 }
 #Torreon (56000/14000 POPS)
@@ -4062,61 +3651,31 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 15
+        size = 150
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 27
+        size = 275
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 6
+        size = 63
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 496
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 135
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 248
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 57
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 4467
+        size = 4963
     }
 }
 #Nuevo Leon-Tamaulipas Region (172000)
@@ -4674,61 +4233,31 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 14
+        size = 138
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 27
+        size = 275
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 6
+        size = 63
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 195
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 124
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 248
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 57
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 1755
+        size = 1950
     }
 }
 #Ciudad Victoria (24000/6000 POPS)
@@ -5036,96 +4565,48 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 35
+        size = 350
     }
 
     bureaucrats = {
         culture = mormon
         religion = mormon
-        size = 4
+        size = 38
         militancy = 9
     }
 
     officers = {
         culture = mormon
         religion = mormon
-        size = 1
+        size = 13
         militancy = 9
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 12
+        size = 125
         militancy = 4
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 62
+        size = 625
         militancy = 4
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 12
+        size = 125
         militancy = 4
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 1122
-        militancy = 6
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 315
-    }
-
-    bureaucrats = {
-        culture = mexican
-        religion = mormon
-        size = 34
-        militancy = 9
-    }
-
-    officers = {
-        culture = mexican
-        religion = mormon
-        size = 12
-        militancy = 9
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 113
-        militancy = 4
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 563
-        militancy = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 113
-        militancy = 4
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 10103
+        size = 11225
         militancy = 6
     }
 }
@@ -5196,61 +4677,31 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 17
+        size = 175
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 35
+        size = 350
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 7
+        size = 75
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 632
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 158
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 315
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 68
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 5693
+        size = 6325
     }
 }
 #Santa Maria del Oro (44000/11000 POPS)
@@ -5318,61 +4769,31 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 11
+        size = 113
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 22
+        size = 225
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 412
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 102
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 203
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 3713
+        size = 4125
     }
 }
 #Mazatlan (116000/29000 POPS)
@@ -5422,85 +4843,43 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 32
+        size = 325
     }
 
     bureaucrats = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     officers = {
         culture = mormon
         religion = mormon
-        size = 1
+        size = 13
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 14
+        size = 138
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 72
+        size = 725
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 15
+        size = 150
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 1310
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 293
-    }
-
-    bureaucrats = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    officers = {
-        culture = mexican
-        religion = mormon
-        size = 12
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 124
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 653
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 135
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 11790
+        size = 13100
     }
 }
 #Culiacan (28000/7000 POPS)
@@ -5562,61 +4941,31 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 9
+        size = 88
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 17
+        size = 175
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 151
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 79
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 158
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 1362
+        size = 1513
     }
 }
 #Zacatecas-Aguascalientes Region (568000)
@@ -5703,98 +5052,49 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 86
+        size = 863
         militancy = 9
     }
 
     bureaucrats = {
         culture = mormon
         religion = mormon
-        size = 16
+        size = 163
         militancy = 9
     }
 
     officers = {
         culture = mormon
         religion = mormon
-        size = 4
+        size = 38
         militancy = 9
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 21
+        size = 213
         militancy = 9
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 192
+        size = 1925
         militancy = 9
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 21
+        size = 213
         militancy = 9
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 1759
-        militancy = 9
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 777
-        militancy = 9
-    }
-
-    bureaucrats = {
-        culture = mexican
-        religion = mormon
-        size = 147
-        militancy = 9
-    }
-
-    officers = {
-        culture = mexican
-        religion = mormon
-        size = 34
-        militancy = 9
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 192
-        militancy = 9
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 1733
-        militancy = 9
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 192
-        militancy = 9
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 15829
+        size = 17588
         militancy = 9
     }
 }
@@ -5857,61 +5157,31 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 42
+        size = 425
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 9
+        size = 88
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 76
+        size = 763
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 20
+        size = 200
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 742
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 383
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 79
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 687
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 180
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 6683
+        size = 7425
     }
 }
 #Tepic (76000/19000 POPS)
@@ -5973,61 +5243,31 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 21
+        size = 213
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 37
+        size = 375
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 7
+        size = 75
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 759
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 192
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 338
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 68
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 6829
+        size = 7588
     }
 }
 #Potosi-Guanajuato Region (1356000)
@@ -6094,64 +5334,32 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 81
+        size = 813
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 24
+        size = 238
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 120
+        size = 1200
         militancy = 9
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 50
+        size = 500
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 2350
-        militancy = 9
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 732
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 214
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 1080
-        militancy = 9
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 450
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 21150
+        size = 23500
         militancy = 9
     }
 }
@@ -6456,61 +5664,31 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 21
+        size = 213
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 7
+        size = 75
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 5
+        size = 50
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 1
+        size = 13
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 65
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 192
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 68
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 45
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 12
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 585
+        size = 650
     }
 }
 #Minatitlan (48000/12000 POPS)
@@ -6713,112 +5891,56 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 77
+        size = 775
         militancy = 5
     }
 
     bureaucrats = {
         culture = mormon
         religion = mormon
-        size = 12
+        size = 125
         militancy = 5
     }
 
     officers = {
         culture = mormon
         religion = mormon
-        size = 4
+        size = 38
         militancy = 5
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 17
+        size = 175
         militancy = 5
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 500
+        size = 5000
         militancy = 5
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 97
+        size = 975
         militancy = 5
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 32
+        size = 325
         militancy = 5
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 2444
-        militancy = 5
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 698
-        militancy = 5
-    }
-
-    bureaucrats = {
-        culture = mexican
-        religion = mormon
-        size = 113
-        militancy = 5
-    }
-
-    officers = {
-        culture = mexican
-        religion = mormon
-        size = 34
-        militancy = 5
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 158
-        militancy = 5
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 4500
-        militancy = 5
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 878
-        militancy = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 293
-        militancy = 5
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 21994
+        size = 24438
         militancy = 5
     }
 }

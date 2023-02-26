@@ -565,51 +565,75 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 6
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 78
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 6
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 27
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 3
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 381
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    farmers = {
         culture = bedouin
         religion = sunni
         size = 9
     }
 
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 117
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 40
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 571
-    }
-
     aristocrats = {
         culture = bedouin
         religion = sunni
@@ -631,127 +655,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 13
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 94
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 117
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 41
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 572
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 14
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 95
+        size = 63
     }
 }
 #Baker City (4000/1000 POPS)
@@ -807,127 +711,31 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 40
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 193
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
         size = 27
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 6
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 41
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 194
+        size = 129
     }
 
     aristocrats = {
@@ -975,7 +783,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
+        size = 18
     }
 }
 #Klamath Falls (4000/1000 POPS)
@@ -1031,127 +839,31 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 40
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 193
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
         size = 27
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 6
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 41
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 194
+        size = 129
     }
 
     aristocrats = {
@@ -1199,7 +911,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
+        size = 18
     }
 }
 #California Region (64000)
@@ -1209,25 +921,25 @@
     aristocrats = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 10
     }
 
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 10
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 10
     }
 
     farmers = {
         culture = mexican
         religion = catholic
-        size = 87
+        size = 350
     }
 
     farmers = {
@@ -1282,78 +994,6 @@
         culture = native_american_minor
         religion = animist
         size = 1800
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 175
-    }
-
-    aristocrats = {
-        culture = mormon
-        religion = mormon
-        size = 0
-    }
-
-    clergymen = {
-        culture = mormon
-        religion = mormon
-        size = 0
-    }
-
-    soldiers = {
-        culture = mormon
-        religion = mormon
-        size = 0
-    }
-
-    farmers = {
-        culture = mormon
-        religion = mormon
-        size = 9
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 3
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 3
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 79
     }
 }
 #Eureka (4000/1000 POPS)
@@ -1429,13 +1069,13 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     soldiers = {
@@ -1447,33 +1087,57 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 72
+        size = 48
     }
 
     aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 6
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 12
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 3
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 240
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    farmers = {
         culture = bedouin
         religion = sunni
         size = 9
     }
 
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 18
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 360
-    }
-
     aristocrats = {
         culture = bedouin
         religion = sunni
@@ -1495,127 +1159,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 13
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 72
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 18
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 360
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 14
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
+        size = 36
     }
 }
 #Monterey (6400/1600 POPS)
@@ -1623,31 +1167,31 @@
     aristocrats = {
         culture = mexican
         religion = catholic
-        size = 3
+        size = 12
     }
 
     bureaucrats = {
         culture = mexican
         religion = catholic
-        size = 0
+        size = 3
     }
 
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 3
+        size = 15
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 10
     }
 
     farmers = {
         culture = mexican
         religion = catholic
-        size = 131
+        size = 525
     }
 
     farmers = {
@@ -1685,96 +1229,6 @@
         religion = animist
         size = 900
     }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 6
-    }
-
-    bureaucrats = {
-        culture = bedouin
-        religion = sunni
-        size = 2
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 8
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 263
-    }
-
-    aristocrats = {
-        culture = mormon
-        religion = mormon
-        size = 0
-    }
-
-    bureaucrats = {
-        culture = mormon
-        religion = mormon
-        size = 0
-    }
-
-    clergymen = {
-        culture = mormon
-        religion = mormon
-        size = 0
-    }
-
-    soldiers = {
-        culture = mormon
-        religion = mormon
-        size = 0
-    }
-
-    farmers = {
-        culture = mormon
-        religion = mormon
-        size = 13
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 3
-    }
-
-    bureaucrats = {
-        culture = mexican
-        religion = mormon
-        size = 1
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 3
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 118
-    }
 }
 #Mariposa (8000/2000 POPS)
 88 = {
@@ -1811,7 +1265,7 @@
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     soldiers = {
@@ -1823,33 +1277,57 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 76
+        size = 51
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 6
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 3
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 255
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    farmers = {
         culture = bedouin
         religion = sunni
         size = 9
     }
 
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 382
-    }
-
     aristocrats = {
         culture = bedouin
         religion = sunni
@@ -1871,127 +1349,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 13
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 77
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 383
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 14
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
+        size = 36
     }
 }
 #Los Angeles (12000/3000 POPS)
@@ -2005,19 +1363,19 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 6
+        size = 25
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 3
+        size = 15
     }
 
     farmers = {
         culture = mexican
         religion = catholic
-        size = 225
+        size = 900
     }
 
     aristocrats = {
@@ -2079,79 +1437,25 @@
         religion = protestant
         size = 25
     }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 13
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 8
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 450
-    }
-
-    clergymen = {
-        culture = mormon
-        religion = mormon
-        size = 1
-    }
-
-    soldiers = {
-        culture = mormon
-        religion = mormon
-        size = 0
-    }
-
-    farmers = {
-        culture = mormon
-        religion = mormon
-        size = 22
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 4
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 203
-    }
 }
 #San Diego (12000/3000 POPS)
 90 = {
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 12
+        size = 25
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 7
+        size = 15
     }
 
     farmers = {
         culture = mexican
         religion = catholic
-        size = 450
+        size = 900
     }
 
     clergymen = {
@@ -2217,97 +1521,25 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 36
+        size = 24
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 171
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 27
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 36
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 171
+        size = 114
     }
 
     clergymen = {
@@ -2343,43 +1575,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
-    }
-
-    clergymen = {
-        culture = mormon
-        religion = mormon
-        size = 1
-    }
-
-    soldiers = {
-        culture = mormon
-        religion = mormon
-        size = 1
-    }
-
-    farmers = {
-        culture = mormon
-        religion = mormon
-        size = 45
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 12
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 7
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 405
+        size = 18
     }
 }
 #Idaho Region (24000)
@@ -2419,7 +1615,7 @@
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     soldiers = {
@@ -2431,33 +1627,57 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 76
+        size = 51
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 6
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 3
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 255
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    farmers = {
         culture = bedouin
         religion = sunni
         size = 9
     }
 
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 382
-    }
-
     aristocrats = {
         culture = bedouin
         religion = sunni
@@ -2479,127 +1699,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 13
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 77
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 383
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 14
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
+        size = 36
     }
 }
 #Coeur d'Alene (4000/1000 POPS)
@@ -2681,37 +1781,25 @@
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 117
+        size = 78
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 22
+        size = 15
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 571
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
+        size = 381
     }
 
     soldiers = {
@@ -2723,31 +1811,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 94
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 117
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 572
+        size = 9
     }
 
     soldiers = {
@@ -2759,19 +1823,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 14
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 95
+        size = 63
     }
 }
 #Nevada Region (12000)
@@ -2823,127 +1875,31 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 40
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 193
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
         size = 27
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 41
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 194
+        size = 129
     }
 
     aristocrats = {
@@ -2991,7 +1947,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
+        size = 18
     }
 }
 #Elko (4000/1000 POPS)
@@ -3041,127 +1997,31 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 40
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 193
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
         size = 27
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 41
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 194
+        size = 129
     }
 
     aristocrats = {
@@ -3209,7 +2069,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
+        size = 18
     }
 }
 #Las Vegas (4000/1000 POPS)
@@ -3259,127 +2119,31 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 40
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 193
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
         size = 27
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 41
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 194
+        size = 129
     }
 
     aristocrats = {
@@ -3427,7 +2191,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
+        size = 18
     }
 }
 #Utah Region (16000)
@@ -3473,13 +2237,13 @@
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     soldiers = {
@@ -3491,39 +2255,69 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 76
+        size = 51
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 6
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 15
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 3
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 255
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    farmers = {
         culture = bedouin
         religion = sunni
         size = 9
     }
 
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 22
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 382
-    }
-
     aristocrats = {
         culture = bedouin
         religion = sunni
@@ -3551,157 +2345,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 13
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 77
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 383
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 14
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
+        size = 36
     }
 }
 #Loa (4000/1000 POPS)
@@ -3751,127 +2395,31 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 40
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 193
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
         size = 27
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 41
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 194
+        size = 129
     }
 
     aristocrats = {
@@ -3919,7 +2467,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
+        size = 18
     }
 }
 #Moab (4000/1000 POPS)
@@ -3969,127 +2517,31 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 40
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 193
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
         size = 27
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 41
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 194
+        size = 129
     }
 
     aristocrats = {
@@ -4137,7 +2589,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
+        size = 18
     }
 }
 #Arizona Region (37000)
@@ -4183,63 +2635,93 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 6
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 57
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 6
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 12
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 21
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 3
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 282
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    farmers = {
         culture = bedouin
         religion = sunni
         size = 9
     }
 
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 85
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 18
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 31
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 423
-    }
-
     aristocrats = {
         culture = bedouin
         religion = sunni
@@ -4267,157 +2749,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 13
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 67
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 86
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 18
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 32
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 423
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 14
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 68
+        size = 45
     }
 }
 #Flagstaff (12000/3000 POPS)
@@ -4491,13 +2823,13 @@
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     soldiers = {
@@ -4509,39 +2841,69 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 63
+        size = 42
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 6
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 15
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 3
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 210
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    farmers = {
         culture = bedouin
         religion = sunni
         size = 9
     }
 
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 22
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 315
-    }
-
     aristocrats = {
         culture = bedouin
         religion = sunni
@@ -4569,157 +2931,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 13
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 63
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 315
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 14
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
+        size = 36
     }
 }
 #ruled by Mexico 1836
@@ -4752,43 +2964,43 @@
     aristocrats = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 2
     }
 
     bureaucrats = {
         culture = mexican
         religion = catholic
-        size = 0
+        size = 1
     }
 
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 5
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 5
     }
 
     farmers = {
         culture = mexican
         religion = catholic
-        size = 112
+        size = 225
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     soldiers = {
@@ -4800,33 +3012,57 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 117
+        size = 78
     }
 
     aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 6
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 12
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 3
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 381
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    farmers = {
         culture = bedouin
         religion = sunni
         size = 9
     }
 
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 18
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 571
-    }
-
     aristocrats = {
         culture = bedouin
         religion = sunni
@@ -4848,187 +3084,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 13
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 94
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 117
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 18
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 572
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 14
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 95
-    }
-
-    aristocrats = {
-        culture = mormon
-        religion = mormon
-        size = 0
-    }
-
-    bureaucrats = {
-        culture = mormon
-        religion = mormon
-        size = 0
-    }
-
-    clergymen = {
-        culture = mormon
-        religion = mormon
-        size = 0
-    }
-
-    soldiers = {
-        culture = mormon
-        religion = mormon
-        size = 0
-    }
-
-    farmers = {
-        culture = mormon
-        religion = mormon
-        size = 11
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 1
-    }
-
-    bureaucrats = {
-        culture = mexican
-        religion = mormon
-        size = 1
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 3
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 102
+        size = 63
     }
 }
 #New Mexico Region (56000)
@@ -5080,97 +3136,7 @@
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 4
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 40
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 193
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
+        size = 3
     }
 
     soldiers = {
@@ -5188,61 +3154,31 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 5
+        size = 6
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 41
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 194
+        size = 129
     }
 
     aristocrats = {
@@ -5302,7 +3238,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
+        size = 18
     }
 }
 #San Francisco (20000/5000 POPS)
@@ -5378,25 +3314,25 @@
     aristocrats = {
         culture = mexican
         religion = catholic
-        size = 5
+        size = 10
     }
 
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 12
+        size = 25
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 7
+        size = 15
     }
 
     farmers = {
         culture = mexican
         religion = catholic
-        size = 425
+        size = 850
     }
 
     farmers = {
@@ -5414,37 +3350,13 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 36
+        size = 24
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 157
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 27
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 36
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 158
+        size = 105
     }
 
     farmers = {
@@ -5456,55 +3368,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
-    }
-
-    aristocrats = {
-        culture = mormon
-        religion = mormon
-        size = 0
-    }
-
-    clergymen = {
-        culture = mormon
-        religion = mormon
-        size = 1
-    }
-
-    soldiers = {
-        culture = mormon
-        religion = mormon
-        size = 1
-    }
-
-    farmers = {
-        culture = mormon
-        religion = mormon
-        size = 42
-    }
-
-    aristocrats = {
-        culture = mexican
-        religion = mormon
-        size = 5
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
-        size = 12
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 7
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 383
+        size = 18
     }
 }
 #Colorado Region (20000)
@@ -5568,55 +3432,37 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 85
+        size = 57
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 22
+        size = 15
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 22
+        size = 15
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 414
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
+        size = 276
     }
 
     aristocrats = {
@@ -5634,43 +3480,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 67
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 86
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 414
+        size = 9
     }
 
     aristocrats = {
@@ -5688,25 +3498,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 14
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 68
+        size = 45
     }
 }
 #Grand Junction (4000/1000 POPS)
@@ -5756,55 +3548,31 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 9
+        size = 6
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 40
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
+        size = 27
     }
 
     aristocrats = {
@@ -5828,7 +3596,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 13
+        size = 0
     }
 
     aristocrats = {
@@ -5853,78 +3621,6 @@
         culture = bedouin
         religion = sunni
         size = 9
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 41
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 14
     }
 }
 #Alamosa (4000/1000 POPS)
@@ -5974,127 +3670,31 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 40
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 193
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
         size = 27
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 41
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 194
+        size = 129
     }
 
     aristocrats = {
@@ -6142,7 +3742,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
+        size = 18
     }
 }
 #Pueblo (4000/1000 POPS)
@@ -6192,97 +3792,7 @@
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 4
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 40
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 193
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
+        size = 3
     }
 
     soldiers = {
@@ -6300,61 +3810,31 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 5
+        size = 6
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 41
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 194
+        size = 129
     }
 
     aristocrats = {
@@ -6414,7 +3894,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
+        size = 18
     }
 }
 #Wyoming Region (28000)
@@ -6460,13 +3940,13 @@
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     soldiers = {
@@ -6478,39 +3958,69 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 76
+        size = 51
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 6
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 15
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 3
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 255
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    farmers = {
         culture = bedouin
         religion = sunni
         size = 9
     }
 
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 22
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 382
-    }
-
     aristocrats = {
         culture = bedouin
         religion = sunni
@@ -6538,157 +4048,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 13
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 77
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 383
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 14
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
+        size = 36
     }
 }
 #Cody (12000/3000 POPS)
@@ -6738,39 +4098,57 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 126
+        size = 84
     }
 
     aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 6
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 15
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 411
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    farmers = {
         culture = bedouin
         religion = sunni
         size = 9
     }
 
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 22
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 616
-    }
-
     aristocrats = {
         culture = bedouin
         religion = sunni
@@ -6786,97 +4164,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 13
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 94
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 126
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 617
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 14
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 95
+        size = 63
     }
 }
 #Casper (8000/2000 POPS)
@@ -6938,55 +4226,37 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 85
+        size = 57
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 22
+        size = 15
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 22
+        size = 15
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 414
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
+        size = 276
     }
 
     aristocrats = {
@@ -7004,43 +4274,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 67
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 86
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 414
+        size = 9
     }
 
     aristocrats = {
@@ -7058,25 +4292,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 14
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 68
+        size = 45
     }
 }
 #Montana Region (32000)
@@ -7146,55 +4362,37 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 9
+        size = 6
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 76
+        size = 51
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 31
+        size = 21
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 22
+        size = 15
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 382
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
+        size = 255
     }
 
     aristocrats = {
@@ -7210,47 +4408,11 @@
     }
 
     farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
-    }
-
-    aristocrats = {
         culture = bedouin
         religion = sunni
         size = 9
     }
 
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 77
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 32
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 383
-    }
-
     aristocrats = {
         culture = bedouin
         religion = sunni
@@ -7266,25 +4428,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 14
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
+        size = 36
     }
 }
 #Missoula (4000/1000 POPS)
@@ -7428,73 +4572,25 @@
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 9
+        size = 6
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 76
+        size = 51
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 40
+        size = 27
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 382
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 77
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 41
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 383
+        size = 255
     }
 
     soldiers = {
@@ -7506,19 +4602,19 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 14
+        size = 9
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 14
+        size = 9
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 54
+        size = 36
     }
 }
 #North Dakota Region (24000)
@@ -7700,43 +4796,7 @@
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 40
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 22
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 193
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
+        size = 3
     }
 
     farmers = {
@@ -7748,25 +4808,13 @@
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 5
+        size = 15
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 41
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 194
+        size = 129
     }
 
     soldiers = {
@@ -7790,7 +4838,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
+        size = 18
     }
 }
 #South Dakota Region (24000)
@@ -7960,43 +5008,7 @@
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 40
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 22
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 193
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
+        size = 3
     }
 
     farmers = {
@@ -8008,25 +5020,13 @@
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 5
+        size = 15
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 41
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 194
+        size = 129
     }
 
     soldiers = {
@@ -8050,7 +5050,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
+        size = 18
     }
 }
 #Nebraska Region (20000)
@@ -8170,43 +5170,7 @@
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 40
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 22
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 193
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
+        size = 3
     }
 
     farmers = {
@@ -8218,25 +5182,13 @@
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 5
+        size = 15
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 41
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 194
+        size = 129
     }
 
     soldiers = {
@@ -8260,7 +5212,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
+        size = 18
     }
 }
 #North Platte (8000/2000 POPS)
@@ -8304,73 +5256,25 @@
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 9
+        size = 6
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 76
+        size = 51
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 40
+        size = 27
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 382
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 77
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 41
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 383
+        size = 255
     }
 
     soldiers = {
@@ -8382,19 +5286,19 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 14
+        size = 9
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 14
+        size = 9
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 54
+        size = 36
     }
 }
 #Kansas Region (24000)
@@ -8496,73 +5400,25 @@
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 9
+        size = 6
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 76
+        size = 51
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 40
+        size = 27
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 382
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 77
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 41
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 383
+        size = 255
     }
 
     soldiers = {
@@ -8574,19 +5430,19 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 14
+        size = 9
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 14
+        size = 9
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 54
+        size = 36
     }
 }
 #Wichita (8000/2000 POPS)
@@ -8648,7 +5504,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 18
+        size = 12
     }
 
     aristocrats = {
@@ -8660,13 +5516,13 @@
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     soldiers = {
@@ -8678,127 +5534,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 76
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 18
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 77
+        size = 51
     }
 
     aristocrats = {
@@ -8858,7 +5594,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 14
+        size = 9
     }
 }
 #Oklahoma Region (32000)
@@ -8922,7 +5658,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 13
+        size = 9
     }
 
     aristocrats = {
@@ -8940,7 +5676,7 @@
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     soldiers = {
@@ -8952,127 +5688,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 63
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 14
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 63
+        size = 42
     }
 
     aristocrats = {
@@ -9132,7 +5748,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 14
+        size = 9
     }
 }
 #Tahlequah (12000/3000 POPS)
@@ -9274,55 +5890,37 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 76
+        size = 51
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 22
+        size = 15
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 22
+        size = 15
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 382
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
+        size = 255
     }
 
     aristocrats = {
@@ -9340,43 +5938,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 54
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 77
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 383
+        size = 9
     }
 
     aristocrats = {
@@ -9394,25 +5956,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 14
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
+        size = 36
     }
 }
 #Texas Region (67400)
@@ -9696,43 +6240,7 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 40
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 22
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 193
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
+        size = 3
     }
 
     farmers = {
@@ -9744,25 +6252,13 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 5
+        size = 15
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 41
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 194
+        size = 129
     }
 
     aristocrats = {
@@ -9786,7 +6282,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
+        size = 18
     }
 }
 #San Antonio (10000/2500 POPS)
@@ -9860,13 +6356,13 @@
     artisans = {
         culture = mexican
         religion = catholic
-        size = 250
+        size = 500
     }
 
     farmers = {
         culture = mexican
         religion = catholic
-        size = 1250
+        size = 2500
     }
 
     artisans = {
@@ -9896,103 +6392,13 @@
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 22
+        size = 15
     }
 
     soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 40
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    clergymen = {
         culture = bedouin
         religion = sunni
         size = 9
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 108
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 63
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 193
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 13
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
     }
 
     farmers = {
@@ -10004,6 +6410,36 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
+        size = 3
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 6
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 72
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 42
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 129
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
         size = 0
     }
 
@@ -10016,133 +6452,49 @@
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 23
+        size = 0
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 14
+        size = 0
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 41
+        size = 0
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 5
+        size = 0
     }
 
     clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    artisans = {
         culture = bedouin
         religion = sunni
         size = 9
     }
 
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 108
-    }
-
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 63
+        size = 9
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 194
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    clergymen = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 14
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 14
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 27
-    }
-
-    artisans = {
-        culture = mormon
-        religion = mormon
-        size = 25
-    }
-
-    farmers = {
-        culture = mormon
-        religion = mormon
-        size = 125
-    }
-
-    artisans = {
-        culture = mexican
-        religion = mormon
-        size = 225
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 1125
+        size = 18
     }
 }
 #Laredo (6000/1500 POPS)
@@ -10195,7 +6547,7 @@
     farmers = {
         culture = mexican
         religion = catholic
-        size = 500
+        size = 1000
         militancy = 9
     }
 
@@ -10209,70 +6561,7 @@
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 4
-        militancy = 9
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 40
-        militancy = 9
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-        militancy = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 22
-        militancy = 9
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 193
-        militancy = 9
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-        militancy = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-        militancy = 9
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-        militancy = 9
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-        militancy = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
+        size = 3
         militancy = 9
     }
 
@@ -10286,42 +6575,21 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 0
+        size = 3
         militancy = 9
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 5
+        size = 15
         militancy = 9
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 41
-        militancy = 9
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-        militancy = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-        militancy = 9
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 194
+        size = 129
         militancy = 9
     }
 
@@ -10363,21 +6631,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
-        militancy = 9
-    }
-
-    farmers = {
-        culture = mormon
-        religion = mormon
-        size = 50
-        militancy = 9
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 450
+        size = 18
         militancy = 9
     }
 }
@@ -10429,43 +6683,7 @@
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 9
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 40
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 31
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 193
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
+        size = 6
     }
 
     farmers = {
@@ -10477,25 +6695,13 @@
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 9
+        size = 21
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 41
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 32
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 194
+        size = 129
     }
 
     soldiers = {
@@ -10519,7 +6725,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 27
+        size = 18
     }
 }
 #Lubbock (8000/2000 POPS)
@@ -10575,103 +6781,31 @@
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 22
+        size = 15
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 126
+        size = 84
     }
 
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 4
+        size = 3
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 108
+        size = 72
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 603
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 94
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 23
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 126
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 108
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 603
+        size = 402
     }
 
     aristocrats = {
@@ -10689,7 +6823,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 14
+        size = 9
     }
 
     aristocrats = {
@@ -10701,13 +6835,13 @@
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 14
+        size = 9
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 95
+        size = 63
     }
 }
 #El Paso (9000/2250 POPS)
@@ -10760,7 +6894,7 @@
     farmers = {
         culture = mexican
         religion = catholic
-        size = 300
+        size = 600
         militancy = 9
     }
 
@@ -10772,40 +6906,61 @@
     }
 
     soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 6
+        militancy = 9
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 51
+        militancy = 9
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 3
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 27
+        militancy = 9
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 255
+        militancy = 9
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+        militancy = 9
+    }
+
+    farmers = {
         culture = bedouin
         religion = sunni
         size = 9
         militancy = 9
     }
 
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 76
-        militancy = 9
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-        militancy = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 40
-        militancy = 9
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 382
-        militancy = 9
-    }
-
     aristocrats = {
         culture = bedouin
         religion = sunni
@@ -10823,126 +6978,7 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 13
-        militancy = 9
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-        militancy = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-        militancy = 9
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
-        militancy = 9
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-        militancy = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 9
-        militancy = 9
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 77
-        militancy = 9
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-        militancy = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 41
-        militancy = 9
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 383
-        militancy = 9
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-        militancy = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-        militancy = 9
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 14
-        militancy = 9
-    }
-
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-        militancy = 9
-    }
-
-    soldiers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-        militancy = 9
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 54
-        militancy = 9
-    }
-
-    farmers = {
-        culture = mormon
-        religion = mormon
-        size = 30
-        militancy = 9
-    }
-
-    farmers = {
-        culture = mexican
-        religion = mormon
-        size = 270
+        size = 36
         militancy = 9
     }
 }
@@ -33241,7 +29277,7 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 12
+        size = 25
     }
 
     artisans = {
@@ -33253,13 +29289,13 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 12
+        size = 25
     }
 
     farmers = {
         culture = mexican
         religion = catholic
-        size = 25
+        size = 50
     }
 
     farmers = {
@@ -33277,126 +29313,42 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 18
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 4
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 85
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 13
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 18
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 5
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 86
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 0
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 14
-    }
-
-    clergymen = {
-        culture = mormon
-        religion = mormon
-        size = 1
-    }
-
-    soldiers = {
-        culture = mormon
-        religion = mormon
-        size = 1
-    }
-
-    farmers = {
-        culture = mormon
-        religion = mormon
-        size = 2
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = mormon
         size = 12
     }
 
-    soldiers = {
-        culture = mexican
-        religion = mormon
-        size = 12
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 3
     }
 
     farmers = {
-        culture = mexican
-        religion = mormon
-        size = 23
+        culture = bedouin
+        religion = sunni
+        size = 57
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 0
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 9
     }
 }
