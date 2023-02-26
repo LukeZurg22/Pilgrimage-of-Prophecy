@@ -7,5 +7,3 @@ add_core = CUB
 add_core = HQJ
 terrain = new_world_mountain
 fort = 0	
-
-add_core = SAF

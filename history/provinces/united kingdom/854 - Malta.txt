@@ -1,9 +1,12 @@
-owner = BYZ
-controller = BYZ
+owner = IRE
+controller = IRE
 trade_goods = fish
 life_rating = 32	
 colonial = 2	
 add_core = MLT
+add_core = IRE
+add_core = BYZ
+add_core = TUN
 terrain = malta
 naval_base = 1	
 fort = 0	
