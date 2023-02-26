@@ -1,12 +1,12 @@
 capital = 2247
 primary_culture = north_andean
 religion = catholic
-government = absolute_monarchy
+government = democracy
 plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.06
 non_state_culture_literacy = 0.01
-civilized = no
+civilized = yes
 prestige = 3
 
 # Political reforms
