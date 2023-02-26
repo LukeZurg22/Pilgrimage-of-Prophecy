@@ -1,7 +1,7 @@
-owner = ECU
-controller = ECU
+owner = BAH
+controller = BAH
 trade_goods = grain
 life_rating = 32	
 colonial = 2	
-add_core = ECU
+add_core = BAH
 fort = 0	

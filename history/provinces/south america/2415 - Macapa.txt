@@ -3,4 +3,5 @@ controller = ECU
 trade_goods = tropical_wood
 life_rating = 20	
 add_core = ECU
+add_core = BAH
 fort = 0	
