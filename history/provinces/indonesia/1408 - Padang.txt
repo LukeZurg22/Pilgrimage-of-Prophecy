@@ -1,6 +1,9 @@
-
-
+owner = NZI
+controller = NZI
+trade_goods = tobacco
+life_rating = 32	
+colonial = 0	
 add_core = ATJ
 add_core = SAK
-trade_goods = tobacco
-life_rating = 32
+add_core = NZI
+fort = 0	

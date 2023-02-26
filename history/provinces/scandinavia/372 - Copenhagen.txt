@@ -1,34 +1,9 @@
-
-
-add_core = DEN
+owner = DEN
+controller = DEN
 trade_goods = precious_goods
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = DEN
 terrain = copenhagen
-naval_base = 1
-fort = 1
-#state_building = {
-#	level = 1
-#	building = ammunition_factory
-#	upgrade = yes
-#}
-1861.1.1 = { 
-	railroad = 2 
-	naval_base = 3
-}
-1861.1.1 = {
-	state_building = {
-		level = 1
-		building = fertilizer_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = clipper_shipyard
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = liquor_distillery
-		upgrade = yes
-	}
-}
+naval_base = 1	
+fort = 1	

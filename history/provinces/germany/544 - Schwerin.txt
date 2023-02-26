@@ -4,4 +4,5 @@ trade_goods = grain
 life_rating = 40	
 colonial = 0	
 add_core = PML
+add_core = GER
 fort = 0	

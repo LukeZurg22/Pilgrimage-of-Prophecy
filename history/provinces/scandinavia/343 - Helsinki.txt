@@ -1,7 +1,11 @@
+owner = DEN
+controller = DEN
 trade_goods = grain
 life_rating = 35	
+colonial = 0	
 add_core = FIN
 add_core = SWE
+add_core = DEN
 terrain = helsinki
 naval_base = 1	
 fort = 0	

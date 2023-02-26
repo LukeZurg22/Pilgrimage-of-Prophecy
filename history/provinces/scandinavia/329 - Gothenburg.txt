@@ -1,16 +1,8 @@
-
-
-add_core = SWE
+owner = DEN
+controller = DEN
 trade_goods = timber
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = DEN
 terrain = goteborg
-#state_building = {
-#	level = 1
-#	building = canned_food_factory
-#	upgrade = yes
-#}
-#state_building = {
-#	level = 1
-#	building = paper_mill
-#	upgrade = yes
-#}
+fort = 0	

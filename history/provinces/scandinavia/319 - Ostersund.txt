@@ -1,6 +1,9 @@
-
-
-add_core = SWE
+owner = NOR
+controller = NOR
 trade_goods = iron
+life_rating = 20	
+colonial = 0	
+add_core = SWE
+add_core = NOR
 terrain = montane_tundra
-life_rating = 20
+fort = 0	

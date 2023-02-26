@@ -2,4 +2,5 @@ owner = PML
 controller = PML
 colonial = 0	
 add_core = PML
+add_core = GER
 fort = 0	
