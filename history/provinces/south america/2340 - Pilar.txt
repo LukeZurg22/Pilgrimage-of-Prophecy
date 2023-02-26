@@ -1,5 +1,6 @@
-
-
-add_core = PRG
+owner = URU
+controller = URU
 trade_goods = grain
-life_rating = 31
+life_rating = 31	
+add_core = URU
+fort = 0	

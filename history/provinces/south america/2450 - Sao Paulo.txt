@@ -1,6 +1,7 @@
-
-
-add_core = BRZ
+owner = PNB
+controller = PNB
 trade_goods = coffee
-life_rating = 40
+life_rating = 40	
+add_core = PNB
 terrain = saopaulo
+fort = 0	

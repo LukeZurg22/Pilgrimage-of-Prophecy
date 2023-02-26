@@ -1,6 +1,7 @@
-
-
-add_core = BRZ
+owner = PNB
+controller = PNB
 trade_goods = cattle
+life_rating = 25	
+add_core = PNB
 terrain = savanna
-life_rating = 25
+fort = 0	

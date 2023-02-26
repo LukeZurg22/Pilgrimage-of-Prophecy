@@ -1,6 +1,7 @@
-
-
-add_core = BRZ
+owner = BRZ
+controller = BRZ
 trade_goods = cotton
+life_rating = 25	
+add_core = BRZ
 terrain = new_world_semidesert
-life_rating = 25
+fort = 0	

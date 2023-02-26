@@ -1,5 +1,6 @@
-
-
-add_core = BRZ
+owner = BRZ
+controller = BRZ
 trade_goods = fruit
-life_rating = 25
+life_rating = 25	
+add_core = BRZ
+fort = 0	
