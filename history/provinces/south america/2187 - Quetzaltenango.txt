@@ -1,10 +1,10 @@
-owner = MMN
-controller = MMN
+owner = CHP
+controller = CHP
 trade_goods = iron
 life_rating = 31	
 colonial = 0	
 add_core = UCA
 add_core = GUA
 add_core = LOS
-add_core = MMN
+add_core = CHP
 fort = 0	

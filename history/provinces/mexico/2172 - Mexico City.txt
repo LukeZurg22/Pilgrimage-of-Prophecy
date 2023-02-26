@@ -1,9 +1,9 @@
-owner = MMN
-controller = MMN
+owner = CHP
+controller = CHP
 trade_goods = grain
 life_rating = 40	
 colonial = 0	
 add_core = MEX
-add_core = MMN
+add_core = CHP
 terrain = mexicocity
 fort = 1	

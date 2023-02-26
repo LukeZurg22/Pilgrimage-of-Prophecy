@@ -132,7 +132,19 @@ PRI_fascist;Anarcho Fascists;;;;;;;;;;;;;x
 PRI_reactionary;Reformists;;;;;;;;;;;;;x
 SAF;Arktiesia;;;;;;;;;;;;x
 SAF_ADJ;Arktiesian;;;;;;;;;;;;x
-SAF_hms_government;The Union of Arktiesia;;;;;;;;;;;;;x
+SAF_democracy;Arktiesia;;;;;;;;;;;;;x;;
+SAF_bourgeois_dictatorship;Arktiesia;;;;;;;;;;;;;;
+SAF_absolute_monarchy;The Kingdom of Arktiesia;;;;;;;;;;;;x
+SAF_prussian_constitutionalism;The Kingdom of Arktiesia;;;;;;;;;;;;x
+SAF_hms_government;The Kingdom of Arktiesia;;;;;;;;;;;;x
+SAF_fascist_dictatorship;The Pro-Arktiesian Hyperborean Empire;;;;;;;;;;;;;x;
+SAF_socialist;The Socialists;;;;;;;;;;;;x
+SAF_communist;The Communists;;;;;;;;;;;;x
+SAF_conservative;The Traditionalists;;;;;;;;;;;;x
+SAF_reactionary;The Reactionaries;;;;;;;;;;;;x
+SAF_liberal;Arktiesian Reformists;;;;;;;;;;;;x
+SAF_fascist;Hyperborean Revanchists;;;;;;;;;;;;x
+SAF_anarcho_liberal;The Arktiesian Anarchs;;;;;;;;;;;;x
 SAF_colonial_company;The Arktiesian Colony;;;;;;;;;;;;;x
 SAF_dominon;The Arktiesian Colony;;;;;;;;;;;;;x
 PHL_colonial_company;Las Filipinas;;;;;;;;;;;;;x

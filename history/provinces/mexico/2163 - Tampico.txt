@@ -1,9 +1,9 @@
-owner = CPH
-controller = CPH
+owner = CHP
+controller = CHP
 trade_goods = fish
 life_rating = 35	
 colonial = 0	
 add_core = MEX
-add_core = MMN
-add_core = CPH
+add_core = CHP
+add_core = CHP
 fort = 0	
