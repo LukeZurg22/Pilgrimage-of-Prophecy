@@ -1,7 +1,7 @@
-owner = CHL
-controller = CHL
+owner = CLM
+controller = CLM
 trade_goods = fish
 life_rating = 31	
-colonial = 0	
 add_core = CLM
+add_core = VNZ
 fort = 0	
