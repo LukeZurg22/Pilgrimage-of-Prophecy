@@ -1,5 +1,7 @@
-
-
-add_core = VNZ
+owner = VNZ
+controller = VNZ
 trade_goods = grain
-life_rating = 31
+life_rating = 31	
+add_core = VNZ
+add_core = CLM
+fort = 0	

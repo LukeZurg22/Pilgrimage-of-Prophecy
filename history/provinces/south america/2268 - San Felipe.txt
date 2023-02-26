@@ -1,5 +1,7 @@
-
-
-add_core = VNZ
+owner = VNZ
+controller = VNZ
 trade_goods = wool
-life_rating = 35
+life_rating = 35	
+add_core = VNZ
+add_core = CLM
+fort = 0	

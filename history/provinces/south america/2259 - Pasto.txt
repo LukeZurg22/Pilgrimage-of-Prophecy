@@ -3,5 +3,6 @@ controller = CLM
 trade_goods = cattle
 life_rating = 32	
 add_core = CLM
+add_core = VNZ
 terrain = montane_forest
 fort = 0	

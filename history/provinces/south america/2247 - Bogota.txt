@@ -3,5 +3,6 @@ controller = CLM
 trade_goods = cattle
 life_rating = 35	
 add_core = CLM
+add_core = VNZ
 terrain = bogota
 fort = 0	

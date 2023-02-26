@@ -1,3 +1,7 @@
+owner = ARC
+controller = ARC
 trade_goods = timber
+life_rating = 15	
+add_core = ARC
 terrain = savanna
-life_rating = 15
+fort = 0	

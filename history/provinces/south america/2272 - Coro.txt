@@ -1,5 +1,7 @@
-
-
-add_core = VNZ
+owner = VNZ
+controller = VNZ
 trade_goods = cattle
-life_rating = 32
+life_rating = 32	
+add_core = VNZ
+add_core = CLM
+fort = 0	

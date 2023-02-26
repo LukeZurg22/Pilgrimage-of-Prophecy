@@ -1,8 +1,8 @@
-owner = URU
-controller = URU
+owner = ARC
+controller = ARC
 trade_goods = cattle
 life_rating = 38	
-add_core = URU
+add_core = ARC
 terrain = montevideo
 naval_base = 1	
 fort = 0	

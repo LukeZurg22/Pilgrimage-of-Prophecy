@@ -1,4 +1,7 @@
+owner = ARC
+controller = ARC
 trade_goods = cattle
 life_rating = 15	
+add_core = ARC
 terrain = savanna
 fort = 0	
