@@ -1,6 +1,7 @@
-owner = CHL
-controller = CHL
+owner = BOL
+controller = BOL
 trade_goods = timber
 life_rating = 35	
 add_core = ECU
+add_core = BOL
 fort = 0	

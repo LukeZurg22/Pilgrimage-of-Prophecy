@@ -182,3 +182,20 @@ VNZ_fascist;Emerald Revanchists;;;;;;;;;;;;x
 VNZ_anarcho_liberal;Anprim Muzo Party;;;;;;;;;;;;x
 VNZ_colonial_company;The Muzo Colony;;;;;;;;;;;;;x
 VNZ_dominon;The Muzo Colony;;;;;;;;;;;;;x
+BOL;Mountain Nation;;;;;;;;;;;;x
+BOL_ADJ;Mountaineer;;;;;;;;;;;;x
+BOL_democracy;Mountain Republic;;;;;;;;;;;;;x;;
+BOL_bourgeois_dictatorship;Mountain Nation;;;;;;;;;;;;;;
+BOL_absolute_monarchy;Mountain Kingdom;;;;;;;;;;;;x
+BOL_prussian_constitutionalism;Mountain Kingdom;;;;;;;;;;;;x
+BOL_hms_government;Mountain Kingdom;;;;;;;;;;;;x
+BOL_fascist_dictatorship;Grand Mountain Empire;;;;;;;;;;;;;x;
+BOL_socialist;The Socialists;;;;;;;;;;;;x
+BOL_communist;The Communists;;;;;;;;;;;;x
+BOL_conservative;The Traditionalists;;;;;;;;;;;;x
+BOL_reactionary;The Reactionaries;;;;;;;;;;;;x
+BOL_liberal;Arktiesian Reformists;;;;;;;;;;;;x
+BOL_fascist;Hyperborean Revanchists;;;;;;;;;;;;x
+BOL_anarcho_liberal;Anprim Mountain Party;;;;;;;;;;;;x
+BOL_colonial_company;The Mountaineer Colony;;;;;;;;;;;;;x
+BOL_dominon;The Mountaineer Colony;;;;;;;;;;;;;x

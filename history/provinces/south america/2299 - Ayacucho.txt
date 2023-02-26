@@ -1,6 +1,7 @@
-owner = CHL
-controller = CHL
-trade_goods = cattle
+owner = BOL
+controller = BOL
+trade_goods = wool
 life_rating = 35	
 add_core = ECU
+add_core = BOL
 fort = 0	

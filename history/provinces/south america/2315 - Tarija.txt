@@ -1,10 +1,6 @@
-
-
-add_core = BOL
+owner = BOL
+controller = BOL
 trade_goods = wool
-life_rating = 35
-1861.1.1 = {
-	owner = BOL
-	controller = BOL
-	remove_core = ARC
-}
+life_rating = 35	
+add_core = BOL
+fort = 0	
