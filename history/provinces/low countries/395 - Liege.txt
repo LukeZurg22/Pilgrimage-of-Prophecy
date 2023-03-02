@@ -1,10 +1,11 @@
-
-
+owner = LUX
+controller = LUX
+trade_goods = iron
+life_rating = 35	
+colonial = 0	
 add_core = BEL
 add_core = NET
 add_core = WLL
-trade_goods = iron
-life_rating = 35
+add_core = LUX
 terrain = liege
-1861.1.1 = { railroad = 3 }
-1861.1.1 = { remove_core = NET }
+fort = 0	

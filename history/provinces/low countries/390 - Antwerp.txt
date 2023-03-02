@@ -1,12 +1,13 @@
-
-
+owner = LUX
+controller = LUX
+trade_goods = cattle
+life_rating = 35	
+colonial = 0	
 add_core = BEL
 add_core = NET
 add_core = FLA
-trade_goods = cattle
-life_rating = 35
-naval_base = 1
+add_core = LUX
 terrain = antwerp
-railroad = 1
-1861.1.1 = { railroad = 3 }
-1861.1.1 = { remove_core = NET }
+naval_base = 1	
+fort = 0	
+railroad = 1	

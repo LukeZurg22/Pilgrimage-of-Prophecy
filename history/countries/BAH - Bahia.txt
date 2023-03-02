@@ -1,9 +1,9 @@
 capital = 2436
-primary_culture = brazilian
-culture = afro_brazilian
+primary_culture = amazonian
+culture = afro_caribbean
 religion = catholic
 government = democracy
-plurality = 0.0
+plurality = 0.01
 nationalvalue = nv_liberty
 literacy = 0.08
 civilized = yes

@@ -2,6 +2,6 @@ owner = BOL
 controller = BOL
 trade_goods = cattle
 life_rating = 32	
-add_core = ECU
+colonial = 0	
 add_core = BOL
 fort = 0	

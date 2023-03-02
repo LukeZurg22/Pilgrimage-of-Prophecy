@@ -1,12 +1,15 @@
-
-
+owner = LUX
+controller = LUX
+trade_goods = sulphur
+life_rating = 35	
+colonial = 0	
 add_core = BEL
 add_core = NET
 add_core = FLA
-trade_goods = sulphur
-life_rating = 35
+add_core = LUX
 terrain = brussels
-railroad = 1
+fort = 0	
+railroad = 1	
 state_building = {
 	level = 2
 	building = fabric_factory
@@ -27,23 +30,3 @@ state_building = {
 	building = liquor_distillery
 	upgrade = yes
 }
-
-1861.1.1 = {
-	state_building = {
-		level = 2
-		building = fabric_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 2
-		building = canned_food_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 2
-		building = cement_factory
-		upgrade = yes
-	}
-}
-1861.1.1 = { railroad = 3 }
-1861.1.1 = { remove_core = NET }

@@ -7,3 +7,8 @@ add_core = ENG
 add_core = IRE
 naval_base = 2	
 fort = 0	
+state_building = {
+	level = 2
+	building = furniture_factory
+	upgrade = yes
+}

@@ -1,19 +1,9 @@
-
-
-add_core = FRA
+owner = FRA
+controller = FRA
 trade_goods = iron
-life_rating = 30
+life_rating = 30	
+colonial = 0	
+add_core = LUX
+add_core = FRA
 terrain = lille
-#state_building = {
-#	level = 1
-#	building = steel_factory
-#	upgrade = yes
-#}
-1861.1.1 = {
-	state_building = {
-		level = 1
-		building = canned_food_factory
-		upgrade = yes
-	}
-}
-1861.1.1 = { railroad = 3 }
+fort = 0	

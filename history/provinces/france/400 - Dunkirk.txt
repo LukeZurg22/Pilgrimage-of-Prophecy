@@ -1,8 +1,9 @@
-
-
-add_core = FRA
+owner = FRA
+controller = FRA
 trade_goods = fish
-life_rating = 30
+life_rating = 30	
+colonial = 0	
+add_core = FRA
+add_core = LUX
 terrain = dunkirk
-fort = 2
-1861.1.1 = { railroad = 3 }
+fort = 2	
