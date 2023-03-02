@@ -1,10 +1,9 @@
-
-
+owner = VEN
+controller = VEN
+trade_goods = coffee
+life_rating = 35	
+colonial = 0	
 add_core = HAI
 add_core = DOM
-trade_goods = coffee
-life_rating = 35
-1861.1.1 = {
-owner = DOM
-controller = DOM
-}
+add_core = VEN
+fort = 0	

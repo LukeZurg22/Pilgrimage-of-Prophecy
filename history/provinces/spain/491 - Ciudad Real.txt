@@ -1,6 +1,8 @@
-
-
-add_core = SPA
+owner = BSQ
+controller = BSQ
 trade_goods = grain
-life_rating = 35
-1861.1.1 = { railroad = 3 }
+life_rating = 35	
+colonial = 0	
+add_core = SPA
+add_core = BSQ
+fort = 0	

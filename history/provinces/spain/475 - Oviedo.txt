@@ -1,6 +1,8 @@
-
-
-add_core = SPA
+owner = POR
+controller = POR
 trade_goods = coal
-life_rating = 35
-1861.1.1 = { railroad = 3 }
+life_rating = 35	
+colonial = 0	
+add_core = SPA
+add_core = POR
+fort = 0	

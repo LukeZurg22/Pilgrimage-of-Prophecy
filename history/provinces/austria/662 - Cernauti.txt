@@ -1,8 +1,11 @@
-owner = AUS
-controller = AUS
+owner = SLV
+controller = SLV
+trade_goods = fruit
+life_rating = 35	
+colonial = 0	
 add_core = ROM
 add_core = RUT
 add_core = MOL
 add_core = BKV
-trade_goods = fruit
-life_rating = 35
+add_core = SLV
+fort = 0	

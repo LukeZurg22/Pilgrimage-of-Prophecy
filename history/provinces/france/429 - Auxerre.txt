@@ -1,5 +1,7 @@
-
-
-add_core = FRA
+owner = FRA
+controller = FRA
 trade_goods = iron
-life_rating = 30
+life_rating = 30	
+colonial = 0	
+add_core = FRA
+fort = 0	

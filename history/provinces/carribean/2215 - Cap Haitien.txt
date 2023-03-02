@@ -1,5 +1,8 @@
-
-
-add_core = HAI
+owner = VEN
+controller = VEN
 trade_goods = tobacco
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = HAI
+add_core = VEN
+fort = 0	

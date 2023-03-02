@@ -1,8 +1,11 @@
-owner = AUS
-controller = AUS
+owner = SLV
+controller = SLV
+trade_goods = coal
+life_rating = 35	
+colonial = 0	
 add_core = UKR
 add_core = POL
 add_core = RUT
 add_core = GLM
-trade_goods = coal
-life_rating = 35
+add_core = SLV
+fort = 0	

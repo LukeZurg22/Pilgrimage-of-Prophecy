@@ -95,3 +95,23 @@ TIM_anarcho_liberal;Bazaari Faction;;;;;;;;;;;;x
 TIM_socialist;Hizb-e Socialyist;;;;;;;;;;;;;x
 TIM_fascist;Sumka Fascists;;;;;;;;;;;;;x
 TIM_liberal;Constitutionalist Party;;;;;;;;;;;;;x
+FRA_proletarian_dictatorship;The Commune of Gaul;;;;;;;;;;;;;x
+FRA_presidential_dictatorship;The Gaul Republic;;;;;;;;;;;;;x
+FRA_bourgeois_dictatorship;The Gaul Republic;;;;;;;;;;;;;x
+FRA_fascist_dictatorship;Nova-Gaulia;;;;;;;;;;;;;x
+FRA_democracy;The Gaul Republic;;;;;;;;;;;;;x
+FRA_absolute_monarchy;Gaul;;;;;;;;;;;;;x
+FRA_prussian_constitutionalism;The Empire of Gaul;;;;;;;;;;;;;x
+FRA_hms_government;The Empire of Gaul;;;;;;;;;;;;;x
+FRA_french_bourbon;The Kingdom of Gaul;;;;;;;;;;;;;x
+FRA_ADJ;Gaul;;;;;;;;;;;;x
+SIE;Gypsyland;;;;;;;;;;;;;x		
+SIE_ADJ;Gypsy;;;;;;;;;;;;;x
+SPA;Andalusia;;;;;;;;;;;;;x		
+SPA_ADJ;Andalusian;;;;;;;;;;;;;x
+SPA_democracy;The Andalusian Republic;;;;;;;;;;;;;x
+SPA_proletarian_dictatorship;The Andalusian People's Republic;;;;;;;;;;;;;x
+SPA_presidential_dictatorship;The Andalusian State;;;;;;;;;;;;;x
+SPA_fascist_dictatorship;The Spanish State;;;;;;;;;;;;;x
+SPA_absolute_monarchy;Al-Andalus;;;;;;;;;;;;;x
+SPA_bourgeois_dictatorship;The Andalusian Republic;;;;;;;;;;;;;x

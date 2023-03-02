@@ -1,5 +1,7 @@
-
-
-add_core = POR
+owner = POR
+controller = POR
 trade_goods = grain
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = POR
+fort = 0	

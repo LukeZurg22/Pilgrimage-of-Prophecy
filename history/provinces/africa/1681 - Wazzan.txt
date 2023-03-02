@@ -1,5 +1,8 @@
-
-
-add_core = MOR
+owner = SPA
+controller = SPA
 trade_goods = grain
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = MOR
+add_core = SPA
+fort = 0	

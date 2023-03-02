@@ -1,25 +1,14 @@
-
-
-add_core = FRA
+owner = FRA
+controller = FRA
 trade_goods = iron
-life_rating = 30
+life_rating = 30	
+colonial = 0	
+add_core = FRA
 terrain = lyon
-railroad = 1
+fort = 0	
+railroad = 1	
 state_building = {
 	level = 1
 	building = winery
 	upgrade = yes
 }
-1861.1.1 = {
-	state_building = {
-		level = 1
-		building = furniture_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 2
-		building = luxury_clothes_factory
-		upgrade = yes
-	}
-}
-1861.1.1 = { railroad = 3 }

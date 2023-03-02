@@ -1,6 +1,9 @@
-
-
-add_core = MOR
+owner = SPA
+controller = SPA
 trade_goods = fish
-life_rating = 32
+life_rating = 32	
+colonial = 0	
+add_core = MOR
+add_core = SPA
 terrain = semidesert
+fort = 0	

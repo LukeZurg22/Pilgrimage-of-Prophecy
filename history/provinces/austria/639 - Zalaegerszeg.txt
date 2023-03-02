@@ -1,5 +1,8 @@
-owner = AUS
-controller = AUS
-add_core = HUN
+owner = SIE
+controller = SIE
 trade_goods = cattle
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = HUN
+add_core = SIE
+fort = 0	

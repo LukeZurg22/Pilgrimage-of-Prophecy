@@ -1,7 +1,10 @@
-owner = AUS
-controller = AUS
+owner = SIE
+controller = SIE
+trade_goods = grain
+life_rating = 35	
+colonial = 0	
 add_core = SLV
 add_core = HUN
 add_core = CZH
-trade_goods = grain
-life_rating = 35
+add_core = SIE
+fort = 0	
