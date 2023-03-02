@@ -1,8 +1,10 @@
-
-
+owner = BOS
+controller = BOS
+trade_goods = fish
+life_rating = 35	
+colonial = 2	
 add_core = SPA
 add_core = MOR
-trade_goods = fish
+add_core = BOS
 terrain = urban
-life_rating = 35
-colonial = 2
+fort = 0	

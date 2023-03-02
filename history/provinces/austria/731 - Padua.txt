@@ -1,8 +1,9 @@
-owner = FEM
-controller = FEM
+owner = LOM
+controller = LOM
 trade_goods = fruit
 life_rating = 40	
 colonial = 0	
 add_core = VEN
 add_core = FEM
+add_core = LOM
 fort = 0	

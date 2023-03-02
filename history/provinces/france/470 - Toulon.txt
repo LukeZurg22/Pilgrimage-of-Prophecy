@@ -1,11 +1,10 @@
-
-
-add_core = FRA
+owner = SAR
+controller = SAR
 trade_goods = silk
-life_rating = 30
-naval_base = 2
+life_rating = 30	
+colonial = 0	
+add_core = FRA
+add_core = SAR
 terrain = toulon
-1861.1.1 = { 
-	railroad = 3
-	naval_base = 3
-}
+naval_base = 2	
+fort = 0	

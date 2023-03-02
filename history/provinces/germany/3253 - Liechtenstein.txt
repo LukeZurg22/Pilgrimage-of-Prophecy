@@ -1,5 +1,8 @@
-owner = LIE
-controller = LIE
-add_core = LIE
+owner = SWI
+controller = SWI
 trade_goods = cattle
-life_rating = 30
+life_rating = 30	
+colonial = 0	
+add_core = LIE
+add_core = SWI
+fort = 0	

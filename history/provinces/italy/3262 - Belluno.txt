@@ -1,7 +1,9 @@
-owner = FEM
-controller = FEM
+owner = LOM
+controller = LOM
 trade_goods = iron
 life_rating = 35	
+colonial = 0	
 add_core = VEN
 add_core = FEM
+add_core = LOM
 fort = 0	

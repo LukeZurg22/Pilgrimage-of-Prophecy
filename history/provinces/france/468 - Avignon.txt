@@ -1,6 +1,8 @@
-
-
-add_core = FRA
+owner = SAR
+controller = SAR
 trade_goods = sulphur
-life_rating = 30
-1861.1.1 = { railroad = 3 }
+life_rating = 30	
+colonial = 0	
+add_core = FRA
+add_core = SAR
+fort = 0	
