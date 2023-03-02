@@ -199,3 +199,14 @@ BOL_fascist;Hyperborean Revanchists;;;;;;;;;;;;x
 BOL_anarcho_liberal;Anprim Mountain Party;;;;;;;;;;;;x
 BOL_colonial_company;The Mountaineer Colony;;;;;;;;;;;;;x
 BOL_dominon;The Mountaineer Colony;;;;;;;;;;;;;x
+CHP;Aztlan;;;;;;;;;;;;;x
+CHP_ADJ;Aztlan;;;;;;;;;;;;;x
+CHP_absolute_monarchy;Aztec Empire;;;;;;;;;;;;x
+CHP_fascist_dictatorship;Aztec Empire;;;;;;;;;;;;;x;
+CHP_liberal;Partido Liberal;Partido Liberal;Partido Liberal;;;;;;;;;;;x
+CHP_socialist;Partido Socialista;Partido Socialista;Partido Socialista;;;;;;;;;;;x
+CHP_conservative;Partido Estadista Republicano;Partido Estadista Republicano;Partido Estadista Republicano;;;;;;;;;;;x
+CHP_anarcho_liberal;Partido Anarchista;Partido Anarchista;Partido Anarchista;;;;;;;;;;;x
+CHP_communist;Partido Comunista;Partido Comunista;Partido Comunista;;;;;;;;;;;x
+CHP_fascist;Partido Nacionalista;Partido Nacionalista;Partido Nacionalista;;;;;;;;;;;x
+CHP_reactionary;Unión Republicana;Unión Republicana;Unión Republicana;;;;;;;;;;;x

@@ -169,10 +169,6 @@ SIA_fascist;Khana Ratsadon;;;;;;;;;;;;;x
 SIA_communist;Communist Party of Thailand;;;;;;;;;;;;;x
 SIA_conservative;Ratchawong Chakkri;;;;;;;;;;;;;x
 SIA_liberal;Ratchawong Chakkri;;;;;;;;;;;;;x
-SPA_democracy;The Spanish Republic;;;;;;;;;;;;;x
-SPA_proletarian_dictatorship;The Spanish Republic;;;;;;;;;;;;;x
-SPA_presidential_dictatorship;The Spanish State;;;;;;;;;;;;;x
-SPA_fascist_dictatorship;The Spanish State;;;;;;;;;;;;;x
 BOR;France;;;;;;;;;x;;;;;;;;
 BOR_absolute_monarchy;The Kingdom of France;;;;;;;;;x;;;;;;;;
 BOR_prussian_constitutionalism;The Kingdom of France;;;;;;;;;x;;;;;;;;
@@ -331,15 +327,6 @@ JAP_absolute_monarchy_ADJ;Nippon;Nippon;Nippon;;;;;;;;;;;x
 MEX_absolute_monarchy;The Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de México;;;;;;;;;x
 MEX_prussian_constitutionalism;The Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de México;;;;;;;;;x
 MEX_hms_government;The Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de México;;;;;;;;;x
-FRA_proletarian_dictatorship;The Commune of France;;;;;;;;;;;;;x
-FRA_presidential_dictatorship;The French Republic;;;;;;;;;;;;;x
-FRA_bourgeois_dictatorship;The French Republic;;;;;;;;;;;;;x
-FRA_fascist_dictatorship;The French State;;;;;;;;;;;;;x
-FRA_democracy;The French Republic;;;;;;;;;;;;;x
-FRA_absolute_monarchy;The French Empire;;;;;;;;;;;;;x
-FRA_prussian_constitutionalism;The French Empire;;;;;;;;;;;;;x
-FRA_hms_government;The French Empire;;;;;;;;;;;;;x
-FRA_french_bourbon;The Kingdom of France;;;;;;;;;;;;;x
 GER_absolute_monarchy;The German Empire;;;;;;;;;;;;;x
 GER_prussian_constitutionalism;The German Empire;;;;;;;;;;;;;x
 GER_hms_government;The German Empire;;;;;;;;;;;;;x
