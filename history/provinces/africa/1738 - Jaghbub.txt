@@ -1,3 +1,8 @@
-add_core = CYR
+owner = TUN
+controller = TUN
 trade_goods = grain
-life_rating = 10
+life_rating = 10	
+colonial = 0	
+add_core = CYR
+add_core = TUN
+fort = 0	

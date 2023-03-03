@@ -1,10 +1,8 @@
-
-
-add_core = BAL
+owner = JAV
+controller = JAV
 trade_goods = fish
-life_rating = 35
-1860.1.1 = {
-	owner = NET
-	controller = NET
-	colonial = 2
-}
+life_rating = 35	
+colonial = 0	
+add_core = BAL
+add_core = JAV
+fort = 0	

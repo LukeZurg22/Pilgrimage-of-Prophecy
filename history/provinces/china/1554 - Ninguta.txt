@@ -1,5 +1,5 @@
-owner = KOR
-controller = KOR
+owner = QNG
+controller = QNG
 trade_goods = coal
 life_rating = 32	
 colonial = 0	

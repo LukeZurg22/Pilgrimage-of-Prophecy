@@ -1,6 +1,7 @@
-
-
-add_core = JAV
+owner = IRE
+controller = IRE
 trade_goods = sulphur
-life_rating = 40
-colonial = 2
+life_rating = 40	
+colonial = 2	
+add_core = JAV
+fort = 0	

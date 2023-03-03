@@ -1,10 +1,8 @@
-
-
-add_core = TRI
+owner = TUN
+controller = TUN
 trade_goods = fruit
-life_rating = 32
-1861.1.1 = {
-	owner = TUR
-	controller = TUR
-	colonial = 2
-}
+life_rating = 32	
+colonial = 0	
+add_core = TRI
+add_core = TUN
+fort = 0	

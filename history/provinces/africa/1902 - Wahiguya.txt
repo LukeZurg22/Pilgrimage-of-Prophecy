@@ -1,7 +1,9 @@
-
-
+owner = MOS
+controller = MOS
+trade_goods = grain
+life_rating = 32	
+colonial = 0	
 add_core = MOS
 add_core = MAS
-trade_goods = grain
 terrain = semidesert
-life_rating = 32
+fort = 0	

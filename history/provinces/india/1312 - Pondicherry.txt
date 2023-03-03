@@ -1,9 +1,10 @@
-
-
+owner = BOS
+controller = BOS
+trade_goods = fish
+life_rating = 32	
+colonial = 2	
 add_core = HYD
 add_core = KRN
 add_core = HND
-trade_goods = fish
-life_rating = 32
 terrain = pondicherry
-colonial = 2
+fort = 0	

@@ -1,10 +1,9 @@
-
-
-add_core = BNG
+owner = FRA
+controller = FRA
 trade_goods = precious_goods
-life_rating = 35
+life_rating = 35	
+colonial = 2	
+add_core = BNG
 terrain = fort_william
-colonial = 2
-fort = 1
-naval_base = 2
-1861.1.1 = { railroad = 3 }
+naval_base = 2	
+fort = 1	

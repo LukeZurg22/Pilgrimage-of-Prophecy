@@ -2,6 +2,6 @@ owner = FJN
 controller = FJN
 trade_goods = tobacco
 life_rating = 35	
-colonial = 2	
+colonial = 0	
 add_core = PHL
 fort = 0	

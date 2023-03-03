@@ -1,5 +1,8 @@
-
-
-add_core = EGY
+owner = TUN
+controller = TUN
 trade_goods = grain
-life_rating = 10
+life_rating = 10	
+colonial = 0	
+add_core = EGY
+add_core = TUN
+fort = 0	

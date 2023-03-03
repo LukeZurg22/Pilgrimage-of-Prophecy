@@ -1,5 +1,7 @@
-
-
-add_core = DAH
+owner = DAH
+controller = DAH
 trade_goods = fish
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = DAH
+fort = 0	

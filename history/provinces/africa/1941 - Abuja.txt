@@ -1,5 +1,7 @@
-
-
-add_core = SOK
+owner = SOK
+controller = SOK
 trade_goods = cotton
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = SOK
+fort = 0	

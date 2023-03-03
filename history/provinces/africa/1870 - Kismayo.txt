@@ -1,7 +1,10 @@
+owner = MAJ
+controller = MAJ
+trade_goods = cattle
+life_rating = 10	
+colonial = 1	
 add_core = MAJ
 add_core = GEL
 add_core = WRL
-trade_goods = cattle
 terrain = savanna
-life_rating = 10
-colonial = 1
+fort = 0	

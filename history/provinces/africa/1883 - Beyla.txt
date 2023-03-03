@@ -1,5 +1,7 @@
-
-
-add_core = JAL
+owner = JAL
+controller = JAL
 trade_goods = timber
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = JAL
+fort = 0	

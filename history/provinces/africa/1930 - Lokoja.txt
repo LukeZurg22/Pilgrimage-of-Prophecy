@@ -1,6 +1,9 @@
-
-
+owner = OYO
+controller = OYO
+trade_goods = cattle
+life_rating = 35	
+colonial = 0	
 add_core = BEN
 add_core = ARO
-trade_goods = cattle
-life_rating = 35
+add_core = OYO
+fort = 0	

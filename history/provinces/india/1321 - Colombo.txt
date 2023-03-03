@@ -1,5 +1,5 @@
-owner = MYS
-controller = MYS
+owner = IRE
+controller = IRE
 trade_goods = fruit
 life_rating = 35	
 colonial = 2	

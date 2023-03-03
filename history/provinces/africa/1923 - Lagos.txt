@@ -1,10 +1,7 @@
-
-
-add_core = OYO
+owner = OYO
+controller = OYO
 trade_goods = fish
-life_rating = 35
-1861.1.1 = {
-	owner = ENL
-	controller = ENL
-	colonial = 2
-}
+life_rating = 35	
+colonial = 0	
+add_core = OYO
+fort = 0	

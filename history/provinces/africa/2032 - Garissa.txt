@@ -1,4 +1,9 @@
-add_core = HBY
+owner = MAJ
+controller = MAJ
 trade_goods = coffee
+life_rating = 10	
+colonial = 0	
+add_core = HBY
+add_core = MAJ
 terrain = savanna
-life_rating = 10
+fort = 0	

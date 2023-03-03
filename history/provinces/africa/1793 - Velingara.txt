@@ -1,6 +1,8 @@
-
-
+owner = GBU
+controller = GBU
+trade_goods = grain
+life_rating = 35	
+colonial = 0	
 add_core = GBU
 add_core = TOO
-trade_goods = grain
-life_rating = 35
+fort = 0	

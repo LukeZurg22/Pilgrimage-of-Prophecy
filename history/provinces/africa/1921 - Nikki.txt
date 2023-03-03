@@ -1,5 +1,7 @@
-
-
-add_core = DAH
+owner = DAH
+controller = DAH
 trade_goods = grain
-life_rating = 32
+life_rating = 32	
+colonial = 0	
+add_core = DAH
+fort = 0	

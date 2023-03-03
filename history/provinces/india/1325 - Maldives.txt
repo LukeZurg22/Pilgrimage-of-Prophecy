@@ -1,7 +1,8 @@
-
-
-add_core = MLD
+owner = BYZ
+controller = BYZ
 trade_goods = fish
-life_rating = 32
-colonial = 2
+life_rating = 32	
+colonial = 2	
+add_core = MLD
 terrain = small_island
+fort = 0	

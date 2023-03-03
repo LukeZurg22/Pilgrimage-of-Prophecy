@@ -1,4 +1,9 @@
+owner = MAJ
+controller = MAJ
+trade_goods = grain
+life_rating = 10	
+colonial = 0	
 add_core = SHW
 add_core = ETH
-trade_goods = grain
-life_rating = 10
+add_core = MAJ
+fort = 0	

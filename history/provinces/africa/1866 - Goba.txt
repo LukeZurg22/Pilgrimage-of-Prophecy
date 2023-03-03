@@ -1,5 +1,10 @@
+owner = MAJ
+controller = MAJ
+trade_goods = cattle
+life_rating = 10	
+colonial = 0	
 add_core = SHW
 add_core = ETH
+add_core = MAJ
 terrain = dryhills
-trade_goods = cattle
-life_rating = 10
+fort = 0	

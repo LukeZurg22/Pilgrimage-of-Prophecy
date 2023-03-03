@@ -1,6 +1,8 @@
-
-
-add_core = SOK
+owner = SOK
+controller = SOK
 trade_goods = fruit
+life_rating = 35	
+colonial = 0	
+add_core = SOK
 terrain = semidesert
-life_rating = 35
+fort = 0	

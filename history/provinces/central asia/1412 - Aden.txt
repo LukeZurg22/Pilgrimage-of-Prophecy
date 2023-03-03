@@ -1,15 +1,13 @@
-
-
+owner = ETH
+controller = ETH
+trade_goods = fish
+life_rating = 35	
+colonial = 0	
 add_core = KTH
 add_core = MHR
 add_core = FDL
 add_core = LHJ
 add_core = NYE
-trade_goods = fish
-life_rating = 35
+add_core = ETH
 terrain = aden
-1861.1.1 = { 
-	owner = ENL
-	controller = ENL
-	naval_base = 1 
-}
+fort = 0	

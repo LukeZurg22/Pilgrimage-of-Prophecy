@@ -1,6 +1,8 @@
-
-
-add_core = TRZ
+owner = TRZ
+controller = TRZ
 trade_goods = fish
+life_rating = 15	
+colonial = 0	
+add_core = TRZ
 terrain = desert
-life_rating = 15
+fort = 0	

@@ -1,6 +1,8 @@
-
-
+owner = IRE
+controller = IRE
+trade_goods = fruit
+life_rating = 32	
+colonial = 2	
 add_core = TRA
 add_core = HND
-trade_goods = fruit
-life_rating = 32
+fort = 0	

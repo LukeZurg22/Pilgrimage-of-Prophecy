@@ -1,6 +1,7 @@
-
-
-add_core = GBU
+owner = IRE
+controller = IRE
 trade_goods = grain
-life_rating = 35
-colonial = 2
+life_rating = 35	
+colonial = 2	
+add_core = GBU
+fort = 0	

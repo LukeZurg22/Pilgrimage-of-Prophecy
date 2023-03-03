@@ -1,6 +1,8 @@
-
-
+owner = SEG
+controller = SEG
+trade_goods = fruit
+life_rating = 32	
+colonial = 0	
 add_core = SEG
 add_core = MAS
-trade_goods = fruit
-life_rating = 32
+fort = 0	

@@ -1,6 +1,7 @@
-
-
-add_core = JAV
+owner = JAV
+controller = JAV
 trade_goods = sulphur
-life_rating = 40
-colonial = 2
+life_rating = 40	
+colonial = 0	
+add_core = JAV
+fort = 0	

@@ -1,6 +1,6 @@
 owner = NZI
 controller = NZI
-trade_goods = timber
+trade_goods = precious_metals
 life_rating = 35	
 colonial = 0	
 add_core = DJA

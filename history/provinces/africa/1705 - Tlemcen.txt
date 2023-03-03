@@ -1,8 +1,9 @@
-owner = SPA
-controller = SPA
+owner = TUN
+controller = TUN
 trade_goods = fruit
 life_rating = 35	
 colonial = 0	
 add_core = ALD
 add_core = SPA
+add_core = TUN
 fort = 0	

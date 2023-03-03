@@ -1,8 +1,11 @@
-
-
+owner = MAJ
+controller = MAJ
+trade_goods = grain
+life_rating = 31	
+colonial = 0	
 add_core = GEL
 add_core = WRL
 add_core = MAJ
-trade_goods = grain
+add_core = MAJ
 terrain = semidesert
-life_rating = 31
+fort = 0	
