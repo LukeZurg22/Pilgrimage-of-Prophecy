@@ -1,6 +1,5 @@
 capital = 657
-primary_culture = romanian
-culture = hungarian
+primary_culture = gypsy
 culture = siebenburger
 religion = orthodox
 government = absolute_monarchy

@@ -42,6 +42,7 @@ centralization = regionalism
 colonial_policy = settlement
 
 set_country_flag = orthodox_country
+set_country_flag = new_world_nation
 
 ruling_party = AMK_conservative
 last_election = 1832.5.3

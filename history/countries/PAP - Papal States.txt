@@ -96,6 +96,11 @@ oob = "PAP_oob.txt"
 	decision = the_case_of_edgardo_mortara 
 }
 
+govt_flag = {
+	government = theocracy
+	flag = democracy
+}
+
 1861.1.1 = {
 	plurality = 60
 # Technologies

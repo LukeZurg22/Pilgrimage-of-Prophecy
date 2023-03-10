@@ -1,12 +1,13 @@
 capital = 834
-primary_culture = greek
+primary_culture = anatolian
+culture = greek
 religion = orthodox
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.22
 civilized = yes
-prestige = 0
+prestige = 15
 
 # Political reforms
 slavery = no_slavery

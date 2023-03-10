@@ -6,4 +6,5 @@ colonial = 0
 add_core = BYZ
 add_core = MON
 add_core = BOS
+add_core = ALB
 fort = 0	

@@ -1,6 +1,9 @@
-
-
-add_core = ENG
+owner = FRA
+controller = FRA
 trade_goods = fish
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = ENL
+add_core = SYR
 terrain = small_island
+fort = 0	

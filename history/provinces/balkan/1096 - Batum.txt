@@ -1,6 +1,8 @@
-owner = TUR
-controller = TUR
+owner = BYZ
+controller = BYZ
+trade_goods = fish
+life_rating = 35	
+colonial = 0	
 add_core = BYZ
 add_core = GEO
-trade_goods = fish
-life_rating = 35
+fort = 0	

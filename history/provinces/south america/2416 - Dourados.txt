@@ -1,5 +1,5 @@
-
-
-add_core = BRZtrade_goods = fruit
+trade_goods = fruit
+life_rating = 25	
+colonial = 0	
 terrain = savanna
-life_rating = 25
+fort = 0	

@@ -39,6 +39,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = orthodox_country
+set_country_flag = new_world_nation
 
 ruling_party = ION_conservative_2
 upper_house = {

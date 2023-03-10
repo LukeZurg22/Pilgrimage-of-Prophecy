@@ -1,18 +1,20 @@
 capital = 2087
 primary_culture = boer
-culture = british
+culture = cree
 religion = protestant
 government = democracy
 plurality = 0.6
-nationalvalue = nv_productivity
+nationalvalue = nv_liberty
 literacy = 0.2
 civilized = yes
 is_releasable_vassal = yes
 
+prestige = 10
+
 # Political reforms
 slavery = no_slavery
 upper_house_composition = state_equal_weight
-vote_franschise = wealth_voting
+vote_franschise = universal_voting
 public_meetings = yes_meeting
 press_rights = free_press
 trade_unions = all_trade_unions
@@ -30,7 +32,7 @@ school_reforms = no_schools
 
 # New Reforms
 conscription = no_draft
-debt_law = debtors_prisons
+debt_law = bankruptcy
 penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = primary_culture_only
@@ -39,6 +41,7 @@ centralization = federalism
 colonial_policy = settlement
 
 set_country_flag = protestant_country
+set_country_flag = new_world_nation
 
 ruling_party = SAF_conservative_2
 upper_house = {
@@ -52,4 +55,3 @@ upper_house = {
 }
 
 schools = unciv_tech_school
-set_country_flag = post_colonial_country

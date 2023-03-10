@@ -1,6 +1,7 @@
-
-
+owner = TUS
+controller = TUS
 trade_goods = fish
-life_rating = 20
-colonial = 2
+life_rating = 20	
+colonial = 2	
 terrain = small_island
+fort = 0	
