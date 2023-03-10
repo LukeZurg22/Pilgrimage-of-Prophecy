@@ -105,9 +105,9 @@ FRA_prussian_constitutionalism;The Empire of Gaul;;;;;;;;;;;;;x
 FRA_hms_government;The Empire of Gaul;;;;;;;;;;;;;x
 FRA_french_bourbon;The Kingdom of Gaul;;;;;;;;;;;;;x
 FRA_ADJ;Gaul;;;;;;;;;;;;x
-SIE;Gypsyland;;;;;;;;;;;;;x		
+SIE;Gypsyland;;;;;;;;;;;;;x
 SIE_ADJ;Gypsy;;;;;;;;;;;;;x
-SPA;Andalusia;;;;;;;;;;;;;x		
+SPA;Andalusia;;;;;;;;;;;;;x
 SPA_ADJ;Andalusian;;;;;;;;;;;;;x
 SPA_democracy;The Andalusian Republic;;;;;;;;;;;;;x
 SPA_proletarian_dictatorship;The Andalusian People's Republic;;;;;;;;;;;;;x
@@ -115,3 +115,17 @@ SPA_presidential_dictatorship;The Andalusian State;;;;;;;;;;;;;x
 SPA_fascist_dictatorship;The Spanish State;;;;;;;;;;;;;x
 SPA_absolute_monarchy;Al-Andalus;;;;;;;;;;;;;x
 SPA_bourgeois_dictatorship;The Andalusian Republic;;;;;;;;;;;;;x
+BAV;Groﬂbaden;;;;;;;;;;;;;x;;;;
+BAV_ADJ;Groﬂbaden;;;;;;;;;;;;;x
+PAP_theocracy;Papal Roma;;;;;;;;;;;;;x
+PAP_ADJ_theocracy;Papal-Roman;;;;;;;;;;;;;x
+PAP_fascist_dictatorship;The Roman State;;;;;;;;;;;;;x
+PAP_democracy;The Papal Roman Republic;;;;;;;;;;;;;x
+PAP_dominion;The Papal Dominion;;;;;;;;;;;;;x
+BYZ;East Roma;;;;;;;;;;;;;;;;;;;;x,,
+BYZ_ADJ;Eastern Roman;;;;;;;;;;;;;;;;x,,
+BYZ_democracy;Republic of East Roma;;;;;;;;;;;;;x,,
+BYZ_absolute_monarchy;Empire of East Roma;;;;;;;;;;;;;x,,
+BYZ_presidential_dictatorship;The Eastern Roman Federation;;;;;;;;;;;;;x,,
+BYZ_bourgeois_dictatorship;The Eastern Roman Federation;;;;;;;;;;;;;x,,
+BYZ_proletarian_dictatorship;The Union of East Roma;;;;;;;;;;;;;x,,

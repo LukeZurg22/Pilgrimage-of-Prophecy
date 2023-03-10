@@ -1,9 +1,11 @@
-owner = SOR
-controller = SOR
+owner = REU
+controller = REU
 trade_goods = iron
 life_rating = 40	
+colonial = 0	
 add_core = SAX
 add_core = GER
 add_core = SOR
+add_core = REU
 terrain = chemnitz
 fort = 0	

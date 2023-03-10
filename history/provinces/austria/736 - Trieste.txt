@@ -1,7 +1,9 @@
-owner = FEM
-controller = FEM
+owner = PAP
+controller = PAP
 trade_goods = grain
 life_rating = 40	
+colonial = 0	
 add_core = FEM
+add_core = PAP
 terrain = trieste
 fort = 0	

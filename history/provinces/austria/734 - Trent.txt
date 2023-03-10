@@ -7,4 +7,5 @@ add_core = AUS
 add_core = TST
 add_core = FEM
 add_core = LOM
+add_core = ITA
 fort = 0	

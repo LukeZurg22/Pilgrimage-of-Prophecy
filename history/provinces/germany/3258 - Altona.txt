@@ -1,7 +1,10 @@
-owner = SWH
-controller = SWH
+owner = HAM
+controller = HAM
+trade_goods = fruit
+life_rating = 40	
+colonial = 0	
 add_core = SWH
 add_core = HOL
 add_core = GER
-trade_goods = fruit
-life_rating = 40
+add_core = HAM
+fort = 0	

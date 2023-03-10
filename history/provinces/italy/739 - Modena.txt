@@ -1,17 +1,8 @@
-
-
-add_core = MOD
-add_core = ITA
+owner = TUS
+controller = TUS
 trade_goods = iron
-life_rating = 35
-#state_building = {
-#	level = 1
-#	building = canned_food_factory
-#	upgrade = yes
-#}
-1861.1.1 = {
-	controller = ITA
-	owner = ITA
-	add_core = ITA
-}
-1861.1.1 = { railroad = 3 }
+life_rating = 35	
+colonial = 0	
+add_core = TUS
+add_core = ITA
+fort = 0	

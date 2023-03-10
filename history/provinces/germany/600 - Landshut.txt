@@ -1,6 +1,9 @@
-owner = BAV
-controller = BAV
+owner = SGM
+controller = SGM
+trade_goods = cattle
+life_rating = 40	
+colonial = 0	
 add_core = BAV
 add_core = GER
-trade_goods = cattle
-life_rating = 40
+add_core = SGM
+fort = 0	

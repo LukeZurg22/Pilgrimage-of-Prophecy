@@ -1,4 +1,7 @@
-color = { 229 150 87 }
+color = { 134 47 113 }
+absolute_monarchy = { 150 100 150 }
+fascist_dictatorship = { 229 150 87 }
+democracy = { 210 70 70 }
 graphical_culture = ItalianGC
 
 party = {

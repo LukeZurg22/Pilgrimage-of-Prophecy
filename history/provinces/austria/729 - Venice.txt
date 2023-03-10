@@ -1,8 +1,11 @@
-owner = FEM
-controller = FEM
+owner = LOM
+controller = LOM
 trade_goods = fish
 life_rating = 40	
+colonial = 0	
 add_core = FEM
+add_core = ITA
+add_core = LOM
 terrain = venice
 naval_base = 1	
 fort = 0	

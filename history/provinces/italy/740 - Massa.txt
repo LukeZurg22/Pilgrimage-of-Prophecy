@@ -1,12 +1,10 @@
-
-
+owner = TUS
+controller = TUS
+trade_goods = timber
+life_rating = 35	
+colonial = 0	
 add_core = MOD
 add_core = ITA
-trade_goods = timber
-life_rating = 35
-naval_base = 1
-1861.1.1 = {
-	controller = ITA
-	owner = ITA
-	add_core = ITA
-}
+add_core = TUS
+naval_base = 1	
+fort = 0	

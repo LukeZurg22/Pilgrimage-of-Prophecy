@@ -1,9 +1,11 @@
-owner = SOR
-controller = SOR
+owner = SLV
+controller = SLV
 trade_goods = coal
 life_rating = 40	
+colonial = 0	
 add_core = KRA
 add_core = POL
 add_core = SOR
+add_core = SLV
 terrain = krakow
 fort = 0	

@@ -1,22 +1,9 @@
-
-
-add_core = FRA
+owner = FRA
+controller = FRA
 trade_goods = cattle
-life_rating = 30
+life_rating = 30	
+colonial = 0	
+add_core = FRA
 terrain = caen
-naval_base = 2
-#state_building = {
-#	level = 1
-#	building = regular_clothes_factory
-#	upgrade = yes
-#}
-1861.1.1 = {
-	state_building = {
-		level = 1
-		building = ammunition_factory
-		upgrade = yes
-	}
-}
-1861.1.1 = { 
-	railroad = 3
-}
+naval_base = 2	
+fort = 0	

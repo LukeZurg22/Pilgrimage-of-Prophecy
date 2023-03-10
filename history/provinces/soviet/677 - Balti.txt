@@ -1,8 +1,11 @@
 owner = RUS
 controller = RUS
+trade_goods = fruit
+life_rating = 35	
+colonial = 0	
 add_core = RUS
 add_core = MOL
 add_core = MDV
 add_core = ROM
-trade_goods = fruit
-life_rating = 35
+add_core = WAL
+fort = 0	

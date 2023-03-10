@@ -1,7 +1,5 @@
-
-
-add_core = MNC
-#terrain = urban
-trade_goods = fruit
-life_rating = 35
-terrain = monaco
+owner = IRE
+controller = IRE
+colonial = 0	
+add_core = IRE
+fort = 0	

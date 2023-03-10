@@ -4,7 +4,6 @@ trade_goods = coal
 life_rating = 30	
 colonial = 0	
 add_core = SAR
-add_core = ITA
 add_core = SWI
 terrain = annecy
 fort = 0	

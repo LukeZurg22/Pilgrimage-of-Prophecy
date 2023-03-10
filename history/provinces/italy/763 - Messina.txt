@@ -1,17 +1,8 @@
-
-
-add_core = SIC
-add_core = SYC
-add_core = ITA
+owner = SIC
+controller = SIC
 trade_goods = sulphur
-life_rating = 40
-#state_building = {
-#	level = 1
-#	building = winery
-#	upgrade = yes
-#}
-1861.1.1 = {
-	controller = ITA
-	owner = ITA
-	add_core = ITA
-}
+life_rating = 40	
+colonial = 0	
+add_core = SIC
+add_core = ITA
+fort = 0	

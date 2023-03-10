@@ -1,8 +1,9 @@
-owner = FRA
-controller = FRA
+owner = ALS
+controller = ALS
 trade_goods = grain
 life_rating = 30	
 colonial = 0	
 add_core = FRA
 add_core = LUX
+add_core = ALS
 fort = 0	

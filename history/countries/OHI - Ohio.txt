@@ -1,6 +1,5 @@
 capital = 179
 primary_culture = yankee
-culture = dixie
 religion = catholic
 government = absolute_monarchy
 plurality = 100.0

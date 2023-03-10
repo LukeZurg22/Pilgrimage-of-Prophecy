@@ -4,6 +4,7 @@ trade_goods = fruit
 life_rating = 40	
 colonial = 0	
 add_core = SAR
+add_core = ITA
 terrain = turin
 fort = 0	
 state_building = {

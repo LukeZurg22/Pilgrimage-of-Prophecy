@@ -4,5 +4,6 @@ trade_goods = iron
 life_rating = 40	
 colonial = 0	
 add_core = LOM
+add_core = ITA
 terrain = milan
 fort = 1	

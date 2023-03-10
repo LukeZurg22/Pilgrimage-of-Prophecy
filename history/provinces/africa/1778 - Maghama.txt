@@ -1,6 +1,9 @@
-
-
-add_core = TRZ
+owner = TRZ
+controller = TRZ
 trade_goods = timber
-life_rating = 15
+life_rating = 15	
+colonial = 0	
+add_core = TRZ
+add_core = WOL
 terrain = semidesert
+fort = 0	
