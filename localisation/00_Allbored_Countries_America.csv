@@ -210,3 +210,14 @@ CHP_anarcho_liberal;Partido Anarchista;Partido Anarchista;Partido Anarchista;;;;
 CHP_communist;Partido Comunista;Partido Comunista;Partido Comunista;;;;;;;;;;;x
 CHP_fascist;Partido Nacionalista;Partido Nacionalista;Partido Nacionalista;;;;;;;;;;;x
 CHP_reactionary;Unión Republicana;Unión Republicana;Unión Republicana;;;;;;;;;;;x
+COL;Yellowstone;;;;;;;;;;;;;x;;;;
+COL_ADJ;Yellowstone;;;;;;;;;;;;;x;;;;
+COL_hms_government;The Yellowstone Confederacy;;;;;;;;;;;;;x
+COL_dominon;Columbia;;;;;;;;;;;;;x
+COL_liberal;Liberal Party;;;;;;;;;;;;;x;;;;
+COL_conservative;Conservative Party;Parti conservateur;Konservative Partei;;;;;;;;;;;x;;;;
+COL_socialist;Socialist Party;Parti socialiste;Sozialistische Partei;;Partido Socialista;;;;;;;;;x;;;;
+COL_reactionary;Nationalist Party;Parti nationaliste;Nationalistische Partei;;Partido Nacionalista;;;;;;;;;x;;;;
+COL_anarcho_liberal;Radical Party;Parti radical;Radikale Partei;;Partido Radical;;;;;;;;;x;;;;
+COL_communist;Communist Party;Parti communiste ;Kommunistische Partei;;Partido Comunista;;;;;;;;;x;;;;
+COL_fascist;Fascist Party;Parti fasciste;Faschistische Partei;;Partido Fascista;;;;;;;;;x;;;;

@@ -1,7 +1,8 @@
-capital = 13
-primary_culture = anglo_canadian
+capital = 24
+primary_culture = metis
+culture = native_american_minor
 religion = protestant
-government = colonial_company
+government = democracy
 plurality = 0.5
 nationalvalue = nv_liberty
 literacy = 0.6

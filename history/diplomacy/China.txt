@@ -1,0 +1,60 @@
+#Qing China's Substates
+substate = {
+	first = QNG
+	second = XBI
+	start_date = 1816.1.1
+	end_date = 1860.1.1
+}
+substate = {
+	first = QNG
+	second = MGL
+	start_date = 1816.1.1
+	end_date = 1860.1.1
+}
+substate = {
+	first = QNG
+	second = XIN
+	start_date = 1816.1.1
+	end_date = 1860.1.1
+}
+substate = {
+	first = QNG
+	second = TIB
+	start_date = 1816.1.1
+	end_date = 1860.1.1
+}
+
+substate = {
+	first = QNG
+	second = GNG
+	start_date = 1816.1.1
+	end_date = 1860.1.1
+}
+
+substate = {
+	first = QNG
+	second = GXI
+	start_date = 1816.1.1
+	end_date = 1860.1.1
+}
+
+substate = {
+	first = QNG
+	second = YNN
+	start_date = 1816.1.1
+	end_date = 1860.1.1
+}
+
+substate = {
+	first = QNG
+	second = GUI
+	start_date = 1816.1.1
+	end_date = 1860.1.1
+}
+
+substate = {
+	first = QNG
+	second = HUI
+	start_date = 1816.1.1
+	end_date = 1860.1.1
+}

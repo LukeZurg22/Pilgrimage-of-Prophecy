@@ -5,4 +5,5 @@ life_rating = 35
 colonial = 0	
 add_core = USA
 add_core = CPH
+add_core = COL
 fort = 0	

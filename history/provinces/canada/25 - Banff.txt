@@ -4,6 +4,6 @@ trade_goods = coal
 life_rating = 30	
 colonial = 0	
 add_core = RPL
-fort = 0	
-
 add_core = SAF
+add_core = COL
+fort = 0	

@@ -1797,6 +1797,13 @@ southeast_asian = {
 east_asian = {
 	leader = asian
 	unit = ChineseGC
+	hui = {
+		color = {250 200 200}
+		first_names = { Ma Deng Zhao Tong Guan Oboi Sonin Songgotu Suksaha Mingzhu Nalan Fu Hesehn Changlin
+		}
+		last_names = { Zhanshan Tiemei Shangzhi Linge Xiangying Xingde Kang'an
+		}
+	}
 	manchu = {
 		color = {245 255 160}
 		first_names = { Ma Deng Zhao Tong Guan Oboi Sonin Songgotu Suksaha Mingzhu Nalan Fu Hesehn Changlin
@@ -2104,9 +2111,9 @@ native_american = {
 	}
 	native_american_minor = {
 		color = {128 55 98}
-		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez Hi Ho Kenosabe Running Bright Scary
 		}
-		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet Silver Feathers Sky River
 		}
 	}
 }
