@@ -5,6 +5,5 @@ life_rating = 35
 colonial = 0	
 add_core = DEN
 add_core = SCH
-add_core = GER
 add_core = SWH
 fort = 0	

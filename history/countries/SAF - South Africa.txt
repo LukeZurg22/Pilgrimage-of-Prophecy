@@ -1,6 +1,7 @@
 capital = 2087
 primary_culture = boer
 culture = cree
+culture = inuit
 religion = protestant
 government = democracy
 plurality = 0.6

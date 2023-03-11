@@ -1,7 +1,9 @@
-owner = QNG
-controller = QNG
+owner = HUI
+controller = HUI
 trade_goods = timber
 life_rating = 32	
+colonial = 0	
 add_core = CHI
 add_core = QNG
+add_core = HUI
 fort = 0	

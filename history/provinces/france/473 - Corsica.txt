@@ -5,4 +5,5 @@ life_rating = 30
 colonial = 0	
 add_core = FRA
 add_core = CRS
+add_core = TUS
 fort = 0	

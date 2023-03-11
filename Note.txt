@@ -12,18 +12,3 @@ govt_flag = {
 	government = theocracy
 	flag = republic
 }
-
-
-#Localization
-PAP_theocracy;Papal Roma;;;;;;;;;;;;;x
-PAP_ADJ_theocracy;Papal-Roman;;;;;;;;;;;;;x
-PAP_fascist_dictatorship;The Roman State;;;;;;;;;;;;;x
-PAP_democracy;The Papal Roman Republic;;;;;;;;;;;;;x
-PAP_dominion;The Papal Dominion;;;;;;;;;;;;;x
-BYZ;East Roma;;;;;;;;;;;;;;;;;;;;x,,
-BYZ_ADJ;Eastern Roman;;;;;;;;;;;;;;;;x,,
-BYZ_democracy;Republic of East Roma;;;;;;;;;;;;;x,,
-BYZ_absolute_monarchy;Empire of East Roma;;;;;;;;;;;;;x,,
-BYZ_presidential_dictatorship;The Eastern Roman Federation;;;;;;;;;;;;;x,,
-BYZ_bourgeois_dictatorship;The Eastern Roman Federation;;;;;;;;;;;;;x,,
-BYZ_proletarian_dictatorship;The Union of East Roma;;;;;;;;;;;;;x,,

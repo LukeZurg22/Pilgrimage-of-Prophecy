@@ -1,5 +1,6 @@
 capital = 15
-primary_culture = south_german
+primary_culture = alaskan_german
+culture = south_german
 religion = catholic
 government = absolute_monarchy
 plurality = 0.0

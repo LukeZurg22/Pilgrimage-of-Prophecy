@@ -75,9 +75,9 @@
     }
 
     aristocrats = {
-        culture = alaskan_german
-        religion = protestant
-        size = 75
+        culture = native_american_minor
+        religion = animist
+        size = 50
     }
 
     aristocrats = {
@@ -87,9 +87,9 @@
     }
 
     farmers = {
-        culture = alaskan_german
-        religion = protestant
-        size = 2925
+        culture = native_american_minor
+        religion = animist
+        size = 1950
     }
 }
 #Juneau / Saint Dionysius (4000/1000 POPS)
@@ -143,9 +143,9 @@
     }
 
     farmers = {
-        culture = alaskan_german
-        religion = protestant
-        size = 1515
+        culture = native_american_minor
+        religion = animist
+        size = 1010
     }
 }
 #Kenai/Kasilof (2400/600 POPS)
@@ -205,9 +205,9 @@
     }
 
     farmers = {
-        culture = alaskan_german
-        religion = protestant
-        size = 150
+        culture = native_american_minor
+        religion = animist
+        size = 100
     }
 }
 #Cordova (2000/500 POPS)
@@ -323,9 +323,9 @@
     }
 
     farmers = {
-        culture = alaskan_german
-        religion = protestant
-        size = 375
+        culture = native_american_minor
+        religion = animist
+        size = 250
     }
 }
 #Fairbanks (2000/500 POPS)
@@ -333,13 +333,7 @@
     farmers = {
         culture = native_american_minor
         religion = animist
-        size = 272
-    }
-
-    farmers = {
-        culture = cree
-        religion = animist
-        size = 819
+        size = 545
     }
 }
 #Cordova (1600/360 POPS)
@@ -347,13 +341,7 @@
     farmers = {
         culture = native_american_minor
         religion = animist
-        size = 200
-    }
-
-    farmers = {
-        culture = cree
-        religion = animist
-        size = 600
+        size = 400
     }
 }
 #Unalakeet (3000/750 POPS)
@@ -413,9 +401,9 @@
     }
 
     farmers = {
-        culture = alaskan_german
-        religion = protestant
-        size = 375
+        culture = native_american_minor
+        religion = animist
+        size = 250
     }
 }
 #Washington Region (20000)
@@ -447,9 +435,9 @@
     }
 
     farmers = {
-        culture = alaskan_german
-        religion = protestant
-        size = 4665
+        culture = native_american_minor
+        religion = animist
+        size = 3110
     }
 }
 #Spokane (4000/1000 POPS)
@@ -19026,25 +19014,13 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 50
+        size = 100
     }
 
     farmers = {
         culture = native_american_minor
         religion = animist
-        size = 450
-    }
-
-    soldiers = {
-        culture = cree
-        religion = animist
-        size = 150
-    }
-
-    farmers = {
-        culture = cree
-        religion = animist
-        size = 1350
+        size = 900
     }
 }
 #Dickinson (8000/2000 POPS)
@@ -35133,25 +35109,13 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 75
+        size = 150
     }
 
     farmers = {
         culture = native_american_minor
         religion = animist
-        size = 450
-    }
-
-    soldiers = {
-        culture = cree
-        religion = animist
-        size = 225
-    }
-
-    farmers = {
-        culture = cree
-        religion = animist
-        size = 1350
+        size = 900
     }
 }
 #Duluth (8000/2000 POPS)
@@ -35183,13 +35147,7 @@
     farmers = {
         culture = native_american_minor
         religion = animist
-        size = 481
-    }
-
-    farmers = {
-        culture = cree
-        religion = animist
-        size = 1446
+        size = 963
     }
 }
 #Wisconsin Region (36000)

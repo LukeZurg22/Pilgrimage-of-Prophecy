@@ -6,4 +6,5 @@ colonial = 0
 add_core = AUS
 add_core = BOH
 add_core = CZH
+add_core = GER
 fort = 0	

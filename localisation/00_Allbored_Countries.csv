@@ -150,3 +150,20 @@ TUN_absolute_monarchy;Carthaginian Empire;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;
 TUN_prussian_constitutionalism;Carthage;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
 SAM;Sparta;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 SAM_ADJ;Spartan;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+LUX;The Benelux;;;;;;;;;;;;;x;;;;
+LUX_ADJ;Benelux;;;;;;;;;;;;;x;;;;
+LUX_proletarian_dictatorship;The Benelux Communes;;;;;;;;;;;;;x
+LUX_presidential_dictatorship;The Benelux;;;;;;;;;;;;;x
+LUX_bourgeois_dictatorship;The Benelux;;;;;;;;;;;;;x
+LUX_fascist_dictatorship;The Benelux Kingdom;;;;;;;;;;;;;x
+LUX_democracy;The Benelux Republic;;;;;;;;;;;;;x
+LUX_absolute_monarchy;Kingdom of The Benelux;;;;;;;;;;;;;x
+LUX_prussian_constitutionalism;The Benelux Kingdom;;;;;;;;;;;;;x
+LUX_hms_government;The Benelux Kingdom;;;;;;;;;;;;;x
+LUX_liberal;Liberale Fraktion;Liberale Fraktion;Liberale Fraktion;;Liberale Fraktion;;;;;;;;;x;;;;
+LUX_conservative;Konservative Fraktion;Konservative Fraktion;Konservative Fraktion;;Konservative Fraktion;;;;;;;;;x;;;;
+LUX_socialist;Sozialist Fraktion;Sozialist Fraktion;Sozialistische Fraktion;;Sozialist Fraktion;;;;;;;;;x;;;;
+LUX_reactionary;Nationalist Fraktion;Nationalist Fraktion;Nationalistische Fraktion;;Nationalist Fraktion;;;;;;;;;x;;;;
+LUX_anarcho_liberal;Radical Fraktion;Radical Fraktion;Radikale Fraktion;;Radical Fraktion;;;;;;;;;x;;;;
+LUX_communist;Communist Fraktion;Communist Fraktion;Kommunistische Fraktion;;Communist Fraktion;;;;;;;;;x;;;;
+LUX_fascist;Fascist Fraktion;Fascist Fraktion;Faschistische Fraktion;;Fascist Fraktion;;;;;;;;;x;;;;
