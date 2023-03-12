@@ -1,7 +1,8 @@
-
-
-add_core = AGC
+owner = AGC
+controller = AGC
 trade_goods = cotton
-life_rating = 35
-colonial = 2
-naval_base = 1
+life_rating = 35	
+colonial = 2	
+add_core = AGC
+naval_base = 1	
+fort = 0	

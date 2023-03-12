@@ -1,3 +1,7 @@
+owner = AGC
+controller = AGC
 trade_goods = tobacco
-life_rating = 10
-colonial = 1
+life_rating = 10	
+colonial = 1	
+add_core = AGC
+fort = 0	
