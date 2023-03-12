@@ -1,64 +1,4 @@
 ;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
-FEM_ADJ;Femboy;;;;;;;;;;;;;;
-FEM;Femboys United;;;;;;;;;;;;;;
-FEM_bourgeois_dictatorship;Regular Women's Dungeoneers;;;;;;;;;;;;;;
-FEM_absolute_monarchy;The Slovene Femboy Empire;;;;;;;;;;;;x
-FEM_prussian_constitutionalism;The Femboy Empire;;;;;;;;;;;;x
-FEM_hms_government;United Femboy Kingdom;;;;;;;;;;;;x
-FEM_proletarian_dictatorship;Regular Men's Unions;;;;;;;;;;;;x
-FEM_socialist;Undecided Men's Party;;;;;;;;;;;;x
-FEM_communist;Regular Men;;;;;;;;;;;;x
-FEM_fascist;Regular Women;;;;;;;;;;;;x
-FEM_liberal;The Bird's Party;;;;;;;;;;;;x
-FEM_anarcho_liberal;The Crusadar's Faction;;;;;;;;;;;;x
-FEM_reactionary;The Slovene Nationalists;;;;;;;;;;;;x
-FEM_conservative;The Rusty Coders;;;;;;;;;;;;x
-ZUR_ADJ;Zyrgi;Zyrgi;Zyrgi;;;;;;;;;;;x;
-ZUR;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
-ZUR_proletarian_dictatorship;Zyrgiyatland;Zyrgiyatland;Zyrgiyatland;;;;;;;;;;;x;
-ZUR_presidential_dictatorship;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
-ZUR_colonial_company;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
-ZUR_dominion;Zyrglyndia;Zyrglyndia;Zyrglyndia;;;;;;;;;;;x;
-ZUR_bourgeois_dictatorship;Zyrgatlynd;Zyrgatlynd;Zyrgatlynd;;;;;;;;;;;x;
-ZUR_fascist_dictatorship;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
-ZUR_absolute_monarchy;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
-ZUR_prussian_constitutionalism;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
-ZUR_hms_government;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
-ZUR_democracy;Zurgat Republik;Zurgat Republik;Zurgat Republik;;;;;;;;;;;x;
-ZUR_federal_democracy;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
-ZUR_theocracy;The Holy Zurgat;The Holy Zurgat;The Holy Zurgat;;;;;;;;;;;x;
-ZUR_french_bourbon;Zurgatol;Zurgatol;Zurgatol;;;;;;;;;;;x;
-ZUR_conservative_89;Zurgat Council;Zurgat Council;Zurgat Council;;;;;;;;;;;x;
-ZUR_liberal_88;Opposition Group;Opposition Group;Opposition Group;;;;;;;;;;;x;
-ZUR_socialist_94;Zurgatollanska;Zurgatollanska;Zurgatollanska;;;;;;;;;;;x;
-ZUR_reactionary_77;Zurg Dynasty;Zurg Dynasty;Zurg Dynasty;;;;;;;;;;;x;
-ZUR_anarcho_liberal_89;Radical Opposition;Radical Opposition;Radical Opposition;;;;;;;;;;;x;
-ZUR_communist_88;Zyrgi Unions;Zyrgi Unions;Zyrgi Unions;;;;;;;;;;;x;
-ZUR_fascist_81;Order of Borscjt;Order of Borscjt;Order of Borscjt;;;;;;;;;;;x;
-BOS;Holy Bosnian Empire;;;;;;;;;;;;;x;
-BOS_ADJ;Bosnian;;;;;;;;;;;;;x;
-BOS_proletarian_dictatorship;The Great Bosnian People's Republic;;;;;;;;;;;;;x;
-BOS_theocracy;The Holy Bosnian Empire;;;;;;;;;;;;;x;
-BOS_fascist_dictatorship;Holy Bosnian Empire;;;;;;;;;;;;;x;
-SOR;Sorbia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SOR_ADJ;Sorbian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SOR_absolute_monarchy;Sorbia;;;;;;;;;;;;x
-SOR_prussian_constitutionalism;Sorbia;;;;;;;;;;;;x
-SOR_democracy;Sorb Republic;;;;;;;;;;;;;x;
-SOR_hms_government;Sorbia;;;;;;;;;;;;x
-SOR_conservative;Conservative Party;;;;;;;;;;;;x
-SOR_reactionary;Reactionary Party;;;;;;;;;;;;x
-SOR_liberal;Liberal Party;;;;;;;;;;;;x
-SOR_anarcho_liberal;Sorbian Anarchs;;;;;;;;;;;;x
-SOR_fascist;Sorbian Fascist Party;;;;;;;;;;;;x
-SOR_communist;Sorbian Communist Party;;;;;;;;;;;;x
-FIN;Proto-Finlandia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-FIN_ADJ;Finnish;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-FIN_absolute_monarchy;Proto-Finnic Holy Roman Khaganate;;;;;;;;;;;;x
-FIN_prussian_constitutionalism;Proto-Finnic Holy Khaganate;;;;;;;;;;;;x
-FIN_hms_government;Proto-Finnic Holy Khaganate;;;;;;;;;;;;x
-FIN_fascist_dictatorship;The Great Proto-Finnic Khaganate;;;;;;;;;;;;;x;
-FIN_democracy;Proto-Finnic Roman Republic;;;;;;;;;;;;;x;
 GUN;Gunai;;;;;;;;;;;;;;
 GUN_ADJ;Gunai;;;;;;;;;;;;;;
 GUN_bourgeois_dictatorship;State of Gunai;;;;;;;;;;;;;;
@@ -74,12 +14,6 @@ GUN_conservative;Chieftain's Supporters;;;;;;;;;;;;x
 GUN_liberal;Gunai Republic Loyalists;;;;;;;;;;;;x
 GUN_anarcho_liberal;Crazy Anarchists;;;;;;;;;;;;x
 GUN_reactionary;Imperialists;;;;;;;;;;;;x
-PML;Pomerelia;;;;;;;;;;;;x
-PML_ADJ;Pomerelian;;;;;;;;;;;;x
-PML_colonial_company;Zyrgrelia;;;;;;;;;;;;;x
-PML_dominion;Zyrgrelia;;;;;;;;;;;;;x
-ICL;Old Israel;;;;;;;;;;;;x
-ICL_ADJ;Israeli;;;;;;;;;;;;x
 TIM;Timurids;;;;;;;;;;;;;x
 TIM_ADJ;Timurid;;;;;;;;;;;;;x
 TIM_absolute_monarchy;Timurid Empire;;;;;;;;;;;;;x
@@ -95,33 +29,6 @@ TIM_anarcho_liberal;Bazaari Faction;;;;;;;;;;;;x
 TIM_socialist;Hizb-e Socialyist;;;;;;;;;;;;;x
 TIM_fascist;Sumka Fascists;;;;;;;;;;;;;x
 TIM_liberal;Constitutionalist Party;;;;;;;;;;;;;x
-FRA_proletarian_dictatorship;The Commune of Gaul;;;;;;;;;;;;;x
-FRA_presidential_dictatorship;The Gaul Republic;;;;;;;;;;;;;x
-FRA_bourgeois_dictatorship;The Gaul Republic;;;;;;;;;;;;;x
-FRA_fascist_dictatorship;Nova-Gaulia;;;;;;;;;;;;;x
-FRA_democracy;The Gaul Republic;;;;;;;;;;;;;x
-FRA_absolute_monarchy;Gaul;;;;;;;;;;;;;x
-FRA_prussian_constitutionalism;The Empire of Gaul;;;;;;;;;;;;;x
-FRA_hms_government;The Empire of Gaul;;;;;;;;;;;;;x
-FRA_french_bourbon;The Kingdom of Gaul;;;;;;;;;;;;;x
-FRA_ADJ;Gaul;;;;;;;;;;;;x
-SIE;Gypsyland;;;;;;;;;;;;;x
-SIE_ADJ;Gypsy;;;;;;;;;;;;;x
-SPA;Andalusia;;;;;;;;;;;;;x
-SPA_ADJ;Andalusian;;;;;;;;;;;;;x
-SPA_democracy;The Andalusian Republic;;;;;;;;;;;;;x
-SPA_proletarian_dictatorship;The Andalusian People's Republic;;;;;;;;;;;;;x
-SPA_presidential_dictatorship;The Andalusian State;;;;;;;;;;;;;x
-SPA_fascist_dictatorship;The Spanish State;;;;;;;;;;;;;x
-SPA_absolute_monarchy;Al-Andalus;;;;;;;;;;;;;x
-SPA_bourgeois_dictatorship;The Andalusian Republic;;;;;;;;;;;;;x
-BAV;Groﬂbaden;;;;;;;;;;;;;x;;;;
-BAV_ADJ;Groﬂbaden;;;;;;;;;;;;;x
-PAP_theocracy;Papal Roma;;;;;;;;;;;;;x
-PAP_ADJ_theocracy;Papal-Roman;;;;;;;;;;;;;x
-PAP_fascist_dictatorship;The Roman State;;;;;;;;;;;;;x
-PAP_democracy;The Papal Roman Republic;;;;;;;;;;;;;x
-PAP_dominion;The Papal Dominion;;;;;;;;;;;;;x
 BYZ;East Roma;;;;;;;;;;;;;;;;;;;;x,,
 BYZ_ADJ;Eastern Roman;;;;;;;;;;;;;;;;x,,
 BYZ_democracy;Republic of East Roma;;;;;;;;;;;;;x,,
@@ -129,51 +36,17 @@ BYZ_absolute_monarchy;Empire of East Roma;;;;;;;;;;;;;x,,
 BYZ_presidential_dictatorship;The Eastern Roman Federation;;;;;;;;;;;;;x,,
 BYZ_bourgeois_dictatorship;The Eastern Roman Federation;;;;;;;;;;;;;x,,
 BYZ_proletarian_dictatorship;The Union of East Roma;;;;;;;;;;;;;x,,
-ROM_fascist_dictatorship;Empire of Fort;;;;;;;;;;;;;x
-ROM_reactionary;Partidul National Roman;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-ROM_reactionary_2;Partidul Nationalist-Democrat;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-ROM_reactionary_3;Partidul Poporului;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-ROM_conservative;Partidul Conservator;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-ROM_conservative_2;Partidul Taranesc;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-ROM_conservative_3;Partidul National Taranesc;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-ROM_liberal;Fractionistii;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-ROM_liberal_2;Partidul National Liberal;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-ROM_anarcho_liberal;Partidul din Drepturile Omulu;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-ROM_socialist;Partidul Social-Democrat;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-ROM_communist;Partidul Comunist;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-ROM_fascist;The Fort Party;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-SIE_fascist;The Fort Party;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-SIE_fascist_dictatorship;The Fort Empire;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
 TUN;Carthage;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
 TUN_ADJ;Carthaginian;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
 TUN_absolute_monarchy;Carthaginian Empire;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
 TUN_prussian_constitutionalism;Carthage;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-SAM;Sparta;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-SAM_ADJ;Spartan;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-LUX;The Benelux;;;;;;;;;;;;;x;;;;
-LUX_ADJ;Benelux;;;;;;;;;;;;;x;;;;
-LUX_proletarian_dictatorship;The Benelux Communes;;;;;;;;;;;;;x
-LUX_presidential_dictatorship;The Benelux;;;;;;;;;;;;;x
-LUX_bourgeois_dictatorship;The Benelux;;;;;;;;;;;;;x
-LUX_fascist_dictatorship;The Benelux Kingdom;;;;;;;;;;;;;x
-LUX_democracy;The Benelux Republic;;;;;;;;;;;;;x
-LUX_absolute_monarchy;Kingdom of The Benelux;;;;;;;;;;;;;x
-LUX_prussian_constitutionalism;The Benelux Kingdom;;;;;;;;;;;;;x
-LUX_hms_government;The Benelux Kingdom;;;;;;;;;;;;;x
-LUX_liberal;Liberale Fraktion;Liberale Fraktion;Liberale Fraktion;;Liberale Fraktion;;;;;;;;;x;;;;
-LUX_conservative;Konservative Fraktion;Konservative Fraktion;Konservative Fraktion;;Konservative Fraktion;;;;;;;;;x;;;;
-LUX_socialist;Sozialist Fraktion;Sozialist Fraktion;Sozialistische Fraktion;;Sozialist Fraktion;;;;;;;;;x;;;;
-LUX_reactionary;Nationalist Fraktion;Nationalist Fraktion;Nationalistische Fraktion;;Nationalist Fraktion;;;;;;;;;x;;;;
-LUX_anarcho_liberal;Radical Fraktion;Radical Fraktion;Radikale Fraktion;;Radical Fraktion;;;;;;;;;x;;;;
-LUX_communist;Communist Fraktion;Communist Fraktion;Kommunistische Fraktion;;Communist Fraktion;;;;;;;;;x;;;;
-LUX_fascist;Fascist Fraktion;Fascist Fraktion;Faschistische Fraktion;;Fascist Fraktion;;;;;;;;;x;;;;
-ZBW;Clown Town;;;;;;;;;;;;;x;;;;
-ZBW_ADJ;Clown;;;;;;;;;;;;;x;;;;
+ZBW;Clown Towns;;;;;;;;;;;;;x;;;;
+ZBW_ADJ;Clowny;;;;;;;;;;;;;x;;;;
 ZBW_proletarian_dictatorship;The Clown Commune;;;;;;;;;;;;;x
-ZBW_presidential_dictatorship;Clown Town;;;;;;;;;;;;;x
-ZBW_bourgeois_dictatorship;Clown Town;;;;;;;;;;;;;x
+ZBW_presidential_dictatorship;Clown Towns;;;;;;;;;;;;;x
+ZBW_bourgeois_dictatorship;Clown Towns;;;;;;;;;;;;;x
 ZBW_fascist_dictatorship;The Grand Circus;;;;;;;;;;;;;x
-ZBW_democracy;Clown Town;;;;;;;;;;;;;x
+ZBW_democracy;Clown Towns;;;;;;;;;;;;;x
 ZBW_absolute_monarchy;Cirus Kingdom;;;;;;;;;;;;;x
 ZBW_prussian_constitutionalism;Cirus Kingdom;;;;;;;;;;;;;x
 ZBW_hms_government;Cirus Kingdom;;;;;;;;;;;;;x
@@ -184,5 +57,3 @@ ZBW_reactionary;Nationalist Fraktion;Nationalist Fraktion;Nationalistische Frakt
 ZBW_anarcho_liberal;Radical Fraktion;Radical Fraktion;Radikale Fraktion;;Radical Fraktion;;;;;;;;;x;;;;
 ZBW_communist;Communist Fraktion;Communist Fraktion;Kommunistische Fraktion;;Communist Fraktion;;;;;;;;;x;;;;
 ZBW_fascist;Fascist Fraktion;Fascist Fraktion;Faschistische Fraktion;;Fascist Fraktion;;;;;;;;;x;;;;
-CPL;Elfrvatn Dynjahagr;;;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
-CPL_ADJ;Dynjahagr;;;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
