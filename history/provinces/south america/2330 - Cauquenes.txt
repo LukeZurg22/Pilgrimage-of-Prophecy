@@ -2,6 +2,5 @@ owner = CHL
 controller = CHL
 trade_goods = iron
 life_rating = 35	
-colonial = 0	
 add_core = CHL
 fort = 0	

@@ -149,7 +149,7 @@ SAF_colonial_company;The Arktiesian Colony;;;;;;;;;;;;;x
 SAF_dominon;The Arktiesian Colony;;;;;;;;;;;;;x
 PHL_colonial_company;Las Filipinas;;;;;;;;;;;;;x
 ECU;Jungle Nation;;;;;;;;;;;;x
-ECU_ADJ;Amazonians;;;;;;;;;;;;x
+ECU_ADJ;Jungler;;;;;;;;;;;;x
 ECU_democracy;Jungle Republic;;;;;;;;;;;;;x;;
 ECU_bourgeois_dictatorship;Jungle Nation;;;;;;;;;;;;;;
 ECU_absolute_monarchy;Jungle Kingdom;;;;;;;;;;;;x
@@ -163,8 +163,8 @@ ECU_reactionary;The Reactionaries;;;;;;;;;;;;x
 ECU_liberal;Arktiesian Reformists;;;;;;;;;;;;x
 ECU_fascist;Hyperborean Revanchists;;;;;;;;;;;;x
 ECU_anarcho_liberal;Anprim Jungle Party;;;;;;;;;;;;x
-ECU_colonial_company;The Amazonian Colony;;;;;;;;;;;;;x
-ECU_dominon;The Amazonian Colony;;;;;;;;;;;;;x
+ECU_colonial_company;The Jungler Colony;;;;;;;;;;;;;x
+ECU_dominon;The Jungler Colony;;;;;;;;;;;;;x
 VNZ;Muzo;;;;;;;;;;;;x
 VNZ_ADJ;Muzo;;;;;;;;;;;;x
 VNZ_democracy;Muzo Republic;;;;;;;;;;;;;x;;
@@ -221,3 +221,17 @@ COL_reactionary;Nationalist Party;Parti nationaliste;Nationalistische Partei;;Pa
 COL_anarcho_liberal;Radical Party;Parti radical;Radikale Partei;;Partido Radical;;;;;;;;;x;;;;
 COL_communist;Communist Party;Parti communiste ;Kommunistische Partei;;Partido Comunista;;;;;;;;;x;;;;
 COL_fascist;Fascist Party;Parti fasciste;Faschistische Partei;;Partido Fascista;;;;;;;;;x;;;;
+CHL;The Underground;;;;;;;;;;;;;x;;;;
+CHL_ADJ;Mole-Men;;;;;;;;;;;;;x;;;;
+CHL_hms_government;The Underground Kingdom;;;;;;;;;;;;;x
+ECU_bourgeois_dictatorship;Mole Reich;;;;;;;;;;;;;;
+ECU_absolute_monarchy;Grand Mole-Men Empire;;;;;;;;;;;;x
+ECU_prussian_constitutionalism;The Underground;;;;;;;;;;;;x
+CHL_dominon;The Mole-Men Colony;;;;;;;;;;;;;x
+CHL_liberal;Liberal Party;;;;;;;;;;;;;x;;;;
+CHL_conservative;Conservative Party;Parti conservateur;Konservative Partei;;;;;;;;;;;x;;;;
+CHL_socialist;Socialist Party;Parti socialiste;Sozialistische Partei;;Partido Socialista;;;;;;;;;x;;;;
+CHL_reactionary;Nationalist Party;Parti nationaliste;Nationalistische Partei;;Partido Nacionalista;;;;;;;;;x;;;;
+CHL_anarcho_liberal;Radical Party;Parti radical;Radikale Partei;;Partido Radical;;;;;;;;;x;;;;
+CHL_communist;Communist Party;Parti communiste ;Kommunistische Partei;;Partido Comunista;;;;;;;;;x;;;;
+CHL_fascist;Fascist Party;Parti fasciste;Faschistische Partei;;Partido Fascista;;;;;;;;;x;;;;

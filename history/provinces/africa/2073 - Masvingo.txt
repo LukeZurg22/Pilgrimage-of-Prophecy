@@ -1,4 +1,7 @@
+owner = ZBW
+controller = ZBW
+trade_goods = iron
+life_rating = 10	
 add_core = ZBW
 terrain = savanna
-trade_goods = iron
-life_rating = 10
+fort = 0	

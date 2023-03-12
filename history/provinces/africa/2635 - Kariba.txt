@@ -1,5 +1,8 @@
-add_core = ZBW
+owner = ZBW
+controller = ZBW
 trade_goods = grain
+life_rating = 10	
+colonial = 1	
+add_core = ZBW
 terrain = dryhills
-life_rating = 10
-colonial = 1
+fort = 0	

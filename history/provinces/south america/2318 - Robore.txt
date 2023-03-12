@@ -1,5 +1,3 @@
-owner = ECU
-controller = ECU
 trade_goods = wool
 life_rating = 31	
 add_core = ECU

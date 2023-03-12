@@ -2,6 +2,6 @@ owner = CHL
 controller = CHL
 trade_goods = cattle
 life_rating = 35	
-colonial = 0	
 add_core = CHL
+add_core = ARC
 fort = 0	
