@@ -1,6 +1,7 @@
-owner = KAZ
-controller = KAZ
+owner = ALT
+controller = ALT
 trade_goods = iron
 life_rating = 35	
+colonial = 0	
 add_core = KAZ
 fort = 0	

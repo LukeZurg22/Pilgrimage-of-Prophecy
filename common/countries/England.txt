@@ -1,5 +1,5 @@
 color = { 239  96  88 }
-colonial_company = { 30 50 150 }
+dominion = { 30 50 150 }
 graphical_culture = BritishGC
 
 party = {

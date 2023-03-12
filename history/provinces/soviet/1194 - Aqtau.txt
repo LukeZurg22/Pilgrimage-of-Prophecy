@@ -1,7 +1,8 @@
-owner = KAZ
-controller = KAZ
+owner = ALT
+controller = ALT
 trade_goods = fish
 life_rating = 25	
+colonial = 0	
 add_core = KAZ
 terrain = semidesert
 fort = 0	
