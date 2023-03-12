@@ -224,7 +224,8 @@ COL_fascist;Fascist Party;Parti fasciste;Faschistische Partei;;Partido Fascista;
 CHL;The Underground;;;;;;;;;;;;;x;;;;
 CHL_ADJ;Mole-Men;;;;;;;;;;;;;x;;;;
 CHL_hms_government;The Underground Kingdom;;;;;;;;;;;;;x
-ECU_bourgeois_dictatorship;Mole Reich;;;;;;;;;;;;;;
+ECU_bourgeois_dictatorship;The Underground Kingdom;;;;;;;;;;;;;;
+ECU_fascist_dictatorship;Mole Reich;;;;;;;;;;;;;x;
 ECU_absolute_monarchy;Grand Mole-Men Empire;;;;;;;;;;;;x
 ECU_prussian_constitutionalism;The Underground;;;;;;;;;;;;x
 CHL_dominon;The Mole-Men Colony;;;;;;;;;;;;;x

@@ -1,6 +1,9 @@
-owner = SVA
-controller = SVA
+owner = CHY
+controller = CHY
+add_core = CHY
+trade_goods = wool
+life_rating = 35	
+colonial = 0	
 add_core = GEO
 add_core = SVA
-trade_goods = wool
-life_rating = 35
+fort = 0	

@@ -1,4 +1,7 @@
-add_core = KZB
+owner = KUB
+controller = KUB
 trade_goods = grain
-life_rating = 10
-colonial = 1
+life_rating = 10	
+colonial = 1	
+add_core = KZB
+fort = 0	

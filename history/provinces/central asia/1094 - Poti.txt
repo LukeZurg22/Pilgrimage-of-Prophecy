@@ -1,5 +1,6 @@
-owner = GEO
-controller = GEO
+owner = CHY
+controller = CHY
+add_core = CHY
 trade_goods = fish
 life_rating = 35	
 colonial = 0	

@@ -1,5 +1,8 @@
+owner = KUB
+controller = KUB
+trade_goods = grain
+life_rating = 10	
+colonial = 1	
 add_core = LUN
 terrain = savanna
-trade_goods = grain
-life_rating = 10
-colonial = 1
+fort = 0	

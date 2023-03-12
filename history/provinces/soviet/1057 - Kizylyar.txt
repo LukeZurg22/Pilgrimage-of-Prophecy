@@ -1,5 +1,6 @@
-owner = DAG
-controller = DAG
+owner = CHY
+controller = CHY
+add_core = CHY
 trade_goods = silk
 life_rating = 35	
 colonial = 0	

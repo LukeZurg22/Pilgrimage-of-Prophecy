@@ -1,4 +1,8 @@
+owner = KUB
+controller = KUB
+trade_goods = tropical_wood
+life_rating = 10	
+colonial = 0	
 add_core = LUN
 add_core = LBA
-trade_goods = tropical_wood
-life_rating = 10
+fort = 0	

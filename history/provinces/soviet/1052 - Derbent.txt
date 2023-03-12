@@ -1,9 +1,11 @@
-owner = DAG
-controller = DAG
+owner = CHY
+controller = CHY
+add_core = CHY
 add_core = DAG
 trade_goods = fruit
 life_rating = 35
 1861.1.1 = {
-	owner = RUS
-	controller = RUS
+	owner = CHY
+	controller = CHY
+add_core = CHY
 }
