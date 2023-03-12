@@ -1,6 +1,8 @@
-
-
-add_core = SHO
+owner = ZBW
+controller = ZBW
 trade_goods = precious_goods
-life_rating = 35
-colonial = 2
+life_rating = 35	
+colonial = 2	
+add_core = SHO
+add_core = ZBW
+fort = 0	

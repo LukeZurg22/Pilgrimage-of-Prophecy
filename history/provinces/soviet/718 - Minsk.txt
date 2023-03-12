@@ -1,11 +1,8 @@
-owner = RUS
-controller = RUS
+owner = BYE
+controller = BYE
+trade_goods = timber
+life_rating = 40	
+colonial = 0	
 add_core = RUS
 add_core = BYE
-trade_goods = timber
-life_rating = 40
-#state_building = {
-#	level = 1
-#	building = liquor_distillery
-#	upgrade = yes
-#}
+fort = 0	

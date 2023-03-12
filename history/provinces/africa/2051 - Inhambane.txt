@@ -1,6 +1,9 @@
-
-
-add_core = GAZ
+owner = ZBW
+controller = ZBW
 trade_goods = cattle
+life_rating = 35	
+colonial = 0	
+add_core = GAZ
+add_core = ZBW
 terrain = savanna
-life_rating = 35
+fort = 0	

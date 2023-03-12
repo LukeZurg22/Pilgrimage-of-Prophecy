@@ -1,20 +1,8 @@
-owner = RUS
-controller = RUS
-add_core = CPL
-add_core = POL
+owner = POL
+controller = POL
 trade_goods = cattle
-life_rating = 40
+life_rating = 40	
+colonial = 0	
+add_core = POL
 terrain = warsaw
-#state_building = {
-#	level = 1
-#	building = fabric_factory
-#	upgrade = yes
-#}
-1861.1.1 = { 
-	state_building = {
-		level = 1
-		building = regular_clothes_factory
-		upgrade = yes
-	} 
-}
-1861.1.1 = { railroad = 3 }
+fort = 0	

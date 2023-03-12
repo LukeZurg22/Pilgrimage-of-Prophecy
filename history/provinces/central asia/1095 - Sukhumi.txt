@@ -1,7 +1,9 @@
-
-
+owner = ABK
+controller = ABK
+trade_goods = grain
+life_rating = 35	
+colonial = 0	
 add_core = ABK
 add_core = CIR
 add_core = GEO
-trade_goods = grain
-life_rating = 35
+fort = 0	

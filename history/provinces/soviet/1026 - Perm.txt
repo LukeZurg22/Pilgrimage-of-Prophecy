@@ -1,14 +1,9 @@
-owner = RUS
-controller = RUS
+owner = CPL
+controller = CPL
+trade_goods = iron
+life_rating = 35	
+colonial = 2	
 add_core = RUS
 add_core = URA
-trade_goods = iron
-life_rating = 35
-colonial = 2
-1861.1.1 = {
-	state_building = {
-		level = 1
-		building = artillery_factory
-		upgrade = yes
-	} 
-}
+add_core = CPL
+fort = 0	

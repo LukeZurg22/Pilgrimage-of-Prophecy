@@ -1,8 +1,9 @@
-owner = GRE
-controller = GRE
+owner = SAM
+controller = SAM
+add_core = SAM
 trade_goods = grain
 life_rating = 35	
 colonial = 0	
 add_core = BYZ
-add_core = GRE
+
 fort = 0	

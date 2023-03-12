@@ -8,8 +8,8 @@ life_rating = 35
 terrain = hills
 
 1861.1.1 = {
-	controller = TUR 
-	owner = TUR
+	controller = BUL 
+	owner = BUL
 }
 1861.1.1 = {
 	state_building = {

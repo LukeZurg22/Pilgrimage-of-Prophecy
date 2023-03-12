@@ -1,6 +1,7 @@
-owner = RUS
-controller = RUS
-add_core = CPL
-add_core = POL
+owner = POL
+controller = POL
 trade_goods = cattle
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = POL
+fort = 0	

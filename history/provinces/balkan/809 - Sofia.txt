@@ -4,5 +4,6 @@ trade_goods = timber
 life_rating = 35	
 colonial = 0	
 add_core = BYZ
+add_core = BUL
 terrain = sofia
 fort = 0	

@@ -1,7 +1,10 @@
-
-
+owner = ZBW
+controller = ZBW
+trade_goods = tobacco
+life_rating = 35	
+colonial = 0	
 add_core = GAZ
 add_core = SHO
 add_core = AGC
-trade_goods = tobacco
-life_rating = 35
+add_core = ZBW
+fort = 0	
