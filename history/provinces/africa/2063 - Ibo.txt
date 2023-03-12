@@ -2,6 +2,6 @@ owner = AGC
 controller = AGC
 trade_goods = grain
 life_rating = 35	
-colonial = 2	
+colonial = 0	
 add_core = AGC
 fort = 0	

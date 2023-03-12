@@ -523,37 +523,19 @@
     farmers = {
         culture = metis
         religion = animist
-        size = 312
+        size = 625
     }
 
     farmers = {
         culture = metis
         religion = orthodox
-        size = 3711
+        size = 7422
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 196
-    }
-
-    farmers = {
-        culture = amerikan_greek
-        religion = animist
-        size = 1252
-    }
-
-    farmers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 14844
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 784
+        size = 392
     }
 }
 #Walla Walla (4000/1000 POPS)
@@ -723,109 +705,55 @@
     aristocrats = {
         culture = metis
         religion = animist
-        size = 99
+        size = 62
     }
 
     soldiers = {
         culture = metis
         religion = animist
-        size = 99
+        size = 62
     }
 
     farmers = {
         culture = metis
         religion = animist
-        size = 899
+        size = 562
     }
 
     aristocrats = {
         culture = metis
         religion = orthodox
-        size = 1187
+        size = 742
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 1187
+        size = 742
     }
 
     farmers = {
         culture = metis
         religion = orthodox
-        size = 10688
+        size = 6680
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 64
+        size = 40
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 64
+        size = 40
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 563
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 149
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 149
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 1349
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 1781
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 1781
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 16032
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 96
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 96
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 845
+        size = 352
     }
 }
 #Oregon Region (20000)
@@ -1201,49 +1129,61 @@
     aristocrats = {
         culture = metis
         religion = animist
-        size = 15
+        size = 30
     }
 
     clergymen = {
         culture = metis
         religion = animist
-        size = 51
+        size = 102
     }
 
     soldiers = {
         culture = metis
         religion = animist
-        size = 7
+        size = 15
     }
 
     farmers = {
         culture = metis
         religion = animist
-        size = 793
+        size = 1587
     }
 
     aristocrats = {
         culture = metis
         religion = orthodox
-        size = 178
+        size = 357
     }
 
     clergymen = {
         culture = metis
         religion = orthodox
-        size = 608
+        size = 1217
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 90
+        size = 180
     }
 
     farmers = {
         culture = metis
         religion = orthodox
-        size = 9426
+        size = 18852
+    }
+
+    soldiers = {
+        culture = metis
+        religion = orthodox
+        size = 20
+    }
+
+    soldiers = {
+        culture = metis
+        religion = orthodox
+        size = 65
     }
 
     soldiers = {
@@ -1255,91 +1195,7 @@
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 32
-    }
-
-    soldiers = {
-        culture = metis
-        religion = orthodox
-        size = 5
-    }
-
-    soldiers = {
-        culture = metis
-        religion = orthodox
-        size = 496
-    }
-
-    aristocrats = {
-        culture = amerikan_greek
-        religion = animist
-        size = 60
-    }
-
-    clergymen = {
-        culture = amerikan_greek
-        religion = animist
-        size = 204
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = animist
-        size = 32
-    }
-
-    farmers = {
-        culture = amerikan_greek
-        religion = animist
-        size = 3176
-    }
-
-    aristocrats = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 716
-    }
-
-    clergymen = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 2436
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 360
-    }
-
-    farmers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 37704
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 40
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 132
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 20
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 1984
+        size = 992
     }
 }
 #Baker City (4000/1000 POPS)
@@ -1713,145 +1569,73 @@
     aristocrats = {
         culture = metis
         religion = animist
-        size = 2
-    }
-
-    clergymen = {
-        culture = metis
-        religion = animist
-        size = 13
-    }
-
-    soldiers = {
-        culture = metis
-        religion = animist
         size = 5
     }
 
+    clergymen = {
+        culture = metis
+        religion = animist
+        size = 27
+    }
+
+    soldiers = {
+        culture = metis
+        religion = animist
+        size = 10
+    }
+
     farmers = {
         culture = metis
         religion = animist
-        size = 265
+        size = 530
     }
 
     aristocrats = {
         culture = metis
         religion = orthodox
-        size = 37
+        size = 75
     }
 
     clergymen = {
         culture = metis
         religion = orthodox
-        size = 163
+        size = 327
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 52
+        size = 105
     }
 
     farmers = {
         culture = metis
         religion = orthodox
-        size = 3140
+        size = 6280
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 2
+        size = 5
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 8
+        size = 17
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 3
+        size = 7
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 166
-    }
-
-    aristocrats = {
-        culture = amerikan_greek
-        religion = animist
-        size = 12
-    }
-
-    clergymen = {
-        culture = amerikan_greek
-        religion = animist
-        size = 56
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = animist
-        size = 20
-    }
-
-    farmers = {
-        culture = amerikan_greek
-        religion = animist
-        size = 1060
-    }
-
-    aristocrats = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 152
-    }
-
-    clergymen = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 656
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 212
-    }
-
-    farmers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 12560
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 12
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 36
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 16
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 664
+        size = 332
     }
 }
 #Klamath Falls (4000/1000 POPS)
@@ -2225,55 +2009,61 @@
     aristocrats = {
         culture = metis
         religion = animist
-        size = 2
+        size = 5
     }
 
     clergymen = {
+        culture = metis
+        religion = animist
+        size = 20
+    }
+
+    soldiers = {
         culture = metis
         religion = animist
         size = 10
     }
 
-    soldiers = {
-        culture = metis
-        religion = animist
-        size = 5
-    }
-
     farmers = {
         culture = metis
         religion = animist
-        size = 265
+        size = 530
     }
 
     aristocrats = {
         culture = metis
         religion = orthodox
-        size = 37
+        size = 75
     }
 
     clergymen = {
         culture = metis
         religion = orthodox
-        size = 126
+        size = 252
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 52
+        size = 105
     }
 
     farmers = {
         culture = metis
         religion = orthodox
-        size = 3140
+        size = 6280
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 2
+        size = 5
+    }
+
+    soldiers = {
+        culture = metis
+        religion = orthodox
+        size = 15
     }
 
     soldiers = {
@@ -2285,85 +2075,7 @@
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 3
-    }
-
-    soldiers = {
-        culture = metis
-        religion = orthodox
-        size = 166
-    }
-
-    aristocrats = {
-        culture = amerikan_greek
-        religion = animist
-        size = 12
-    }
-
-    clergymen = {
-        culture = amerikan_greek
-        religion = animist
-        size = 40
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = animist
-        size = 20
-    }
-
-    farmers = {
-        culture = amerikan_greek
-        religion = animist
-        size = 1060
-    }
-
-    aristocrats = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 152
-    }
-
-    clergymen = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 504
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 212
-    }
-
-    farmers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 12560
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 12
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 32
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 16
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 664
+        size = 332
     }
 }
 #California Region (64000)
@@ -5101,55 +4813,49 @@
     aristocrats = {
         culture = metis
         religion = animist
-        size = 7
+        size = 15
     }
 
     clergymen = {
+        culture = metis
+        religion = animist
+        size = 30
+    }
+
+    soldiers = {
         culture = metis
         religion = animist
         size = 15
     }
 
-    soldiers = {
-        culture = metis
-        religion = animist
-        size = 7
-    }
-
     farmers = {
         culture = metis
         religion = animist
-        size = 528
+        size = 1057
     }
 
     aristocrats = {
         culture = metis
         religion = orthodox
-        size = 90
+        size = 180
     }
 
     clergymen = {
         culture = metis
         religion = orthodox
-        size = 178
+        size = 357
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 90
+        size = 180
     }
 
     farmers = {
         culture = metis
         religion = orthodox
-        size = 6286
-    }
-
-    soldiers = {
-        culture = metis
-        religion = orthodox
-        size = 5
+        size = 12572
     }
 
     soldiers = {
@@ -5161,85 +4867,19 @@
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 5
+        size = 20
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 331
-    }
-
-    aristocrats = {
-        culture = amerikan_greek
-        religion = animist
-        size = 32
-    }
-
-    clergymen = {
-        culture = amerikan_greek
-        religion = animist
-        size = 60
+        size = 10
     }
 
     soldiers = {
-        culture = amerikan_greek
-        religion = animist
-        size = 32
-    }
-
-    farmers = {
-        culture = amerikan_greek
-        religion = animist
-        size = 2116
-    }
-
-    aristocrats = {
-        culture = amerikan_greek
+        culture = metis
         religion = orthodox
-        size = 360
-    }
-
-    clergymen = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 716
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 360
-    }
-
-    farmers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 25144
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 20
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 40
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 20
-    }
-
-    soldiers = {
-        culture = amerikan_greek
-        religion = orthodox
-        size = 1324
+        size = 662
     }
 }
 #Coeur d'Alene (4000/1000 POPS)
@@ -5355,73 +4995,37 @@
     soldiers = {
         culture = metis
         religion = animist
-        size = 152
+        size = 95
     }
 
     farmers = {
         culture = metis
         religion = animist
-        size = 899
+        size = 562
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 1784
+        size = 1115
     }
 
     farmers = {
         culture = metis
         religion = orthodox
-        size = 10688
+        size = 6680
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 96
+        size = 60
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 563
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 228
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 1349
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 2676
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 16032
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 144
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 845
+        size = 352
     }
 }
 #Pocatello (12000/3000 POPS)
@@ -19860,7 +19464,7 @@
     aristocrats = {
         culture = dakota
         religion = animist
-        size = 2400
+        size = 150
     }
 
     soldiers = {
@@ -20582,73 +20186,37 @@
     soldiers = {
         culture = metis
         religion = animist
-        size = 99
+        size = 62
     }
 
     farmers = {
         culture = metis
         religion = animist
-        size = 899
+        size = 562
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 1187
+        size = 742
     }
 
     farmers = {
         culture = metis
         religion = orthodox
-        size = 10688
+        size = 6680
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 64
+        size = 40
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 563
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 149
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 1349
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 1781
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 16032
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 96
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 845
+        size = 352
     }
 }
 #Great Falls (8000/2000 POPS)
@@ -20776,73 +20344,37 @@
     soldiers = {
         culture = metis
         religion = animist
-        size = 99
+        size = 62
     }
 
     farmers = {
         culture = metis
         religion = animist
-        size = 899
+        size = 562
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 1187
+        size = 742
     }
 
     farmers = {
         culture = metis
         religion = orthodox
-        size = 10688
+        size = 6680
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 64
+        size = 40
     }
 
     soldiers = {
         culture = metis
         religion = orthodox
-        size = 563
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 149
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 1349
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 1781
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 16032
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 96
-    }
-
-    farmers = {
-        culture = metis
-        religion = orthodox
-        size = 845
+        size = 352
     }
 }
 #Billings (12000/3000 POPS)
@@ -20874,13 +20406,13 @@
     soldiers = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 14400
+        size = 900
     }
 
     soldiers = {
@@ -21340,19 +20872,19 @@
     aristocrats = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     soldiers = {
         culture = dakota
         religion = animist
-        size = 4800
+        size = 300
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 28800
+        size = 1800
     }
 }
 #Minot (8000/2000 POPS)
@@ -21458,13 +20990,13 @@
     soldiers = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 14400
+        size = 900
     }
 
     soldiers = {
@@ -21918,19 +21450,19 @@
     aristocrats = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     soldiers = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 14400
+        size = 900
     }
 
     aristocrats = {
@@ -21980,13 +21512,13 @@
     soldiers = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 28800
+        size = 1800
     }
 }
 #Rapid City (8000/2000 POPS)
@@ -22018,13 +21550,13 @@
     soldiers = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 14400
+        size = 900
     }
 
     soldiers = {
@@ -22478,19 +22010,19 @@
     aristocrats = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     soldiers = {
         culture = dakota
         religion = animist
-        size = 2400
+        size = 150
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 14400
+        size = 900
     }
 
     aristocrats = {
@@ -37225,7 +36757,7 @@
     aristocrats = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     aristocrats = {
@@ -37375,13 +36907,13 @@
     soldiers = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 28800
+        size = 1800
     }
 }
 #Minnesota Region (32000)
@@ -37427,19 +36959,19 @@
     aristocrats = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     soldiers = {
         culture = dakota
         religion = animist
-        size = 2400
+        size = 150
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 14400
+        size = 900
     }
 
     aristocrats = {
@@ -37501,13 +37033,13 @@
     soldiers = {
         culture = dakota
         religion = animist
-        size = 3200
+        size = 200
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 28800
+        size = 1800
     }
 }
 #Moorhead (8000/2000 POPS)

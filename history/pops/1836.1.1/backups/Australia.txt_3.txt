@@ -69,13 +69,13 @@
     }
 
     clergymen = {
-        culture = aborigine
+        culture = irish
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = aborigine
+        culture = irish
         religion = catholic
         size = 2975
     }
@@ -149,13 +149,13 @@
     }
 
     clergymen = {
-        culture = aborigine
+        culture = irish
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = aborigine
+        culture = irish
         religion = catholic
         size = 1100
     }

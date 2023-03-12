@@ -19860,7 +19860,7 @@
     aristocrats = {
         culture = dakota
         religion = animist
-        size = 2400
+        size = 600
     }
 
     soldiers = {
@@ -20874,13 +20874,13 @@
     soldiers = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 400
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 14400
+        size = 3600
     }
 
     soldiers = {
@@ -21458,13 +21458,13 @@
     soldiers = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 400
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 14400
+        size = 3600
     }
 
     soldiers = {
@@ -21980,13 +21980,13 @@
     soldiers = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 400
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 28800
+        size = 7200
     }
 }
 #Rapid City (8000/2000 POPS)
@@ -22018,13 +22018,13 @@
     soldiers = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 400
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 14400
+        size = 3600
     }
 
     soldiers = {

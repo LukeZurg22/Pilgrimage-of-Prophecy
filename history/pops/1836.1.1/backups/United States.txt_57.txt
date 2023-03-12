@@ -19860,7 +19860,7 @@
     aristocrats = {
         culture = dakota
         religion = animist
-        size = 2400
+        size = 150
     }
 
     soldiers = {
@@ -20874,13 +20874,13 @@
     soldiers = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 14400
+        size = 900
     }
 
     soldiers = {
@@ -21340,19 +21340,19 @@
     aristocrats = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     soldiers = {
         culture = dakota
         religion = animist
-        size = 4800
+        size = 300
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 28800
+        size = 1800
     }
 }
 #Minot (8000/2000 POPS)
@@ -21458,13 +21458,13 @@
     soldiers = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 14400
+        size = 900
     }
 
     soldiers = {
@@ -21918,19 +21918,19 @@
     aristocrats = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     soldiers = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 14400
+        size = 900
     }
 
     aristocrats = {
@@ -21980,13 +21980,13 @@
     soldiers = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 28800
+        size = 1800
     }
 }
 #Rapid City (8000/2000 POPS)
@@ -22018,13 +22018,13 @@
     soldiers = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 14400
+        size = 900
     }
 
     soldiers = {
@@ -22478,19 +22478,19 @@
     aristocrats = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     soldiers = {
         culture = dakota
         religion = animist
-        size = 2400
+        size = 150
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 14400
+        size = 900
     }
 
     aristocrats = {
@@ -37225,7 +37225,7 @@
     aristocrats = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     aristocrats = {
@@ -37375,13 +37375,13 @@
     soldiers = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 28800
+        size = 1800
     }
 }
 #Minnesota Region (32000)
@@ -37427,19 +37427,19 @@
     aristocrats = {
         culture = dakota
         religion = animist
-        size = 1600
+        size = 100
     }
 
     soldiers = {
         culture = dakota
         religion = animist
-        size = 2400
+        size = 150
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 14400
+        size = 900
     }
 
     aristocrats = {
@@ -37501,13 +37501,13 @@
     soldiers = {
         culture = dakota
         religion = animist
-        size = 3200
+        size = 200
     }
 
     farmers = {
         culture = dakota
         religion = animist
-        size = 28800
+        size = 1800
     }
 }
 #Moorhead (8000/2000 POPS)

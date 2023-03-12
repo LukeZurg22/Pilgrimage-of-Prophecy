@@ -965,13 +965,7 @@
     farmers = {
         culture = metis
         religion = animist
-        size = 1979
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 2969
+        size = 4948
     }
 }
 #Atlin (4000/1000 POPS)
@@ -1205,13 +1199,7 @@
     farmers = {
         culture = metis
         religion = animist
-        size = 3899
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 5849
+        size = 9748
     }
 }
 #Kelowna (8000/2000 POPS)
@@ -1249,13 +1237,7 @@
     farmers = {
         culture = metis
         religion = animist
-        size = 3899
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 5849
+        size = 9748
     }
 }
 #Vernon (8000/2000 POPS)
@@ -1293,13 +1275,7 @@
     farmers = {
         culture = metis
         religion = animist
-        size = 3899
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 5849
+        size = 9748
     }
 }
 #Fort Nelson (1600/400 POPS)
@@ -1519,7 +1495,7 @@
     farmers = {
         culture = metis
         religion = catholic
-        size = 2584
+        size = 6460
     }
 
     clergymen = {
@@ -1573,19 +1549,7 @@
     farmers = {
         culture = metis
         religion = animist
-        size = 891
-    }
-
-    farmers = {
-        culture = metis
-        religion = catholic
-        size = 3876
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 1337
+        size = 2228
     }
 }
 #Banff (4000/1000 POPS)
@@ -1677,13 +1641,7 @@
     farmers = {
         culture = metis
         religion = animist
-        size = 3000
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 4500
+        size = 7500
     }
 }
 #Calgary (8000/2000 POPS)
@@ -1715,7 +1673,7 @@
     farmers = {
         culture = metis
         religion = catholic
-        size = 928
+        size = 2320
     }
 
     farmers = {
@@ -1775,19 +1733,7 @@
     farmers = {
         culture = metis
         religion = animist
-        size = 2059
-    }
-
-    farmers = {
-        culture = metis
-        religion = catholic
-        size = 1392
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 3089
+        size = 5148
     }
 }
 #Edmonton - Denwood (8000/2000 POPS)
@@ -2049,13 +1995,7 @@
     farmers = {
         culture = metis
         religion = animist
-        size = 1331
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 1997
+        size = 3328
     }
 }
 #Fort Vermillion (3200/800 POPS)
@@ -2443,25 +2383,13 @@
     farmers = {
         culture = metis
         religion = catholic
-        size = 1048
+        size = 2620
     }
 
     farmers = {
         culture = metis
         religion = animist
-        size = 1899
-    }
-
-    farmers = {
-        culture = metis
-        religion = catholic
-        size = 1572
-    }
-
-    farmers = {
-        culture = metis
-        religion = animist
-        size = 2849
+        size = 4748
     }
 }
 #Manitoba Region : 52000

@@ -1,11 +1,10 @@
-
-
+owner = AGC
+controller = AGC
+trade_goods = grain
+life_rating = 35	
+colonial = 0	
 add_core = ZAN
 add_core = OMA
-trade_goods = grain
+add_core = AGC
 terrain = savanna
-life_rating = 35
-1861.1.1 = {
-	owner = ZAN
-	controller = ZAN
-}
+fort = 0	

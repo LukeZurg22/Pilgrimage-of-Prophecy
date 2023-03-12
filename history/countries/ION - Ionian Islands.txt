@@ -1,18 +1,18 @@
 capital = 826
-primary_culture = greek
+primary_culture = amerikan_greek
+culture = greek
 religion = orthodox
-government = colonial_company
+government = democracy
 plurality = 10.0
-nationalvalue = nv_productivity
-literacy = 0.08
+nationalvalue = nv_liberty
+literacy = 0.3
 civilized = yes
-prestige = 1
-
+prestige = 10
 
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = none_voting
+vote_franschise = universal_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions

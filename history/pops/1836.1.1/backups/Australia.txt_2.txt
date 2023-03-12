@@ -69,13 +69,13 @@
     }
 
     clergymen = {
-        culture = aborigine
+        culture = irish
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = aborigine
+        culture = irish
         religion = catholic
         size = 2975
     }
@@ -149,13 +149,13 @@
     }
 
     clergymen = {
-        culture = aborigine
+        culture = irish
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = aborigine
+        culture = irish
         religion = catholic
         size = 1100
     }
@@ -181,25 +181,25 @@
 #Port Macquarie (12000/3000 POPS)
 2470 = {
     clergymen = {
-        culture = aborigine
+        culture = british
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = aborigine
+        culture = british
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = aborigine
+        culture = british
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = aborigine
+        culture = british
         religion = protestant
         size = 700
     }
@@ -772,7 +772,7 @@
     }
 
     soldiers = {
-        culture = aborigine
+        culture = british
         religion = protestant
         size = 25
     }
@@ -784,7 +784,7 @@
     }
 
     farmers = {
-        culture = aborigine
+        culture = british
         religion = protestant
         size = 875
     }
