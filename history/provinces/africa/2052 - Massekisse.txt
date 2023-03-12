@@ -1,7 +1,10 @@
-
-
+owner = ZBW
+controller = ZBW
+trade_goods = grain
+life_rating = 35	
+colonial = 0	
 add_core = GAZ
 add_core = SHO
-trade_goods = grain
+add_core = ZBW
 terrain = savanna
-life_rating = 35
+fort = 0	

@@ -1,7 +1,7 @@
-owner = RUS
-controller = RUS
-add_core = CPL
-add_core = POL
+owner = POL
+controller = POL
 trade_goods = fruit
-life_rating = 35
-1861.1.1 = { railroad = 3 }
+life_rating = 35	
+colonial = 0	
+add_core = POL
+fort = 0	

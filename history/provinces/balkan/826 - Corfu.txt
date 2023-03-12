@@ -4,7 +4,7 @@ trade_goods = fish
 life_rating = 30	
 colonial = 0	
 add_core = ION
-add_core = GRE
+
 add_core = BOS
 terrain = small_island
 fort = 0	

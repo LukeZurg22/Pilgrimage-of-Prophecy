@@ -1,7 +1,9 @@
-owner = RUS
-controller = RUS
+owner = UKR
+controller = UKR
+trade_goods = coal
+life_rating = 35	
+colonial = 0	
 add_core = RUS
 add_core = UKR
-trade_goods = coal
-life_rating = 35
-naval_base = 1
+naval_base = 1	
+fort = 0	

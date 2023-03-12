@@ -6,4 +6,5 @@ colonial = 0
 add_core = COL
 add_core = CPH
 add_core = ION
+add_core = USA
 fort = 0	
