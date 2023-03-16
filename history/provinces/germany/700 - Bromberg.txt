@@ -8,4 +8,5 @@ add_core = GER
 add_core = PZN
 add_core = FEM
 add_core = PML
+add_core = ZUR
 fort = 0	
