@@ -1,5 +1,5 @@
-owner = GNG
-controller = GNG
+owner = QNG
+controller = QNG
 trade_goods = tea
 life_rating = 35	
 colonial = 0	

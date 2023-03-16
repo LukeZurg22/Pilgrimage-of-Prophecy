@@ -3,5 +3,5 @@ controller = QNG
 trade_goods = grain
 life_rating = 32	
 add_core = CHI
-add_core = QNG
+
 fort = 0	

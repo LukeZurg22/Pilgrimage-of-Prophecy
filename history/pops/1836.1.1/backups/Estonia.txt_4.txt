@@ -2,37 +2,37 @@
 #under the rule of Russia in 1836
 #Tallinn/Reval (160000/40000 POPS)
 349 = {
-    slaves = {
+    aristocrats = {
         culture = estonian
         religion = protestant
         size = 100
     }
 
-    slaves = {
+    officers = {
         culture = estonian
         religion = protestant
         size = 100
     }
 
-    slaves = {
+    clergymen = {
         culture = estonian
         religion = protestant
         size = 325
     }
 
-    slaves = {
+    artisans = {
         culture = estonian
         religion = protestant
         size = 750
     }
 
-    slaves = {
+    soldiers = {
         culture = estonian
         religion = protestant
         size = 1600
     }
 
-    slaves = {
+    farmers = {
         culture = estonian
         religion = protestant
         size = 17212
@@ -166,25 +166,25 @@
 }
 #Narva (184000/46000 POPS)
 350 = {
-    slaves = {
+    clergymen = {
         culture = estonian
         religion = protestant
         size = 425
     }
 
-    slaves = {
+    artisans = {
         culture = estonian
         religion = protestant
         size = 2300
     }
 
-    slaves = {
+    soldiers = {
         culture = estonian
         religion = protestant
         size = 1450
     }
 
-    slaves = {
+    farmers = {
         culture = estonian
         religion = protestant
         size = 19912
@@ -270,25 +270,25 @@
         size = 100
     }
 
-    slaves = {
+    clergymen = {
         culture = estonian
         religion = protestant
         size = 400
     }
 
-    slaves = {
+    artisans = {
         culture = estonian
         religion = protestant
         size = 600
     }
 
-    slaves = {
+    soldiers = {
         culture = estonian
         religion = protestant
         size = 200
     }
 
-    slaves = {
+    farmers = {
         culture = estonian
         religion = protestant
         size = 10400
@@ -338,25 +338,25 @@
         size = 100
     }
 
-    slaves = {
+    clergymen = {
         culture = estonian
         religion = protestant
         size = 350
     }
 
-    slaves = {
+    artisans = {
         culture = estonian
         religion = protestant
         size = 1300
     }
 
-    slaves = {
+    soldiers = {
         culture = estonian
         religion = protestant
         size = 350
     }
 
-    slaves = {
+    farmers = {
         culture = estonian
         religion = protestant
         size = 17250
@@ -436,41 +436,40 @@
         size = 100
     }
 
-    slaves = {
+    clergymen = {
         culture = estonian
         religion = protestant
         size = 100
     }
 
-    slaves = {
+    artisans = {
         culture = estonian
         religion = protestant
         size = 100
     }
 
-    slaves = {
+    soldiers = {
         culture = estonian
         religion = protestant
         size = 100
     }
 
-    slaves = {
+    farmers = {
         culture = estonian
         religion = protestant
         size = 1612
     }
 
-    slaves = {
+    farmers = {
         culture = estonian
         religion = orthodox
         size = 1774
     }
-
-    farmers = {
+farmers = {
         culture = zyrgi
         religion = soldiers
         size = 500
-    }
+}
 
     bureaucrats = {
         culture = zyrgi

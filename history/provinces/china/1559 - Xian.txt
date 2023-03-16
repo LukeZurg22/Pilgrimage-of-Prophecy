@@ -3,6 +3,6 @@ controller = QNG
 trade_goods = timber
 life_rating = 32	
 add_core = CHI
-add_core = QNG
+
 terrain = xian
 fort = 0	

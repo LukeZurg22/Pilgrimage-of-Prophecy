@@ -2,6 +2,6 @@ owner = QNG
 controller = QNG
 trade_goods = iron
 life_rating = 32	
-add_core = QNG
+colonial = 0	
 add_core = CHI
 fort = 0	

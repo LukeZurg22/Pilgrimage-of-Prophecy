@@ -1,7 +1,8 @@
-owner = QNG
-controller = QNG
+owner = KOR
+controller = KOR
 trade_goods = timber
 life_rating = 32	
-add_core = QNG
+colonial = 0	
 add_core = CHI
+add_core = YAK
 fort = 0	

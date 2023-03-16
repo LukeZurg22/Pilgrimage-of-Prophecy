@@ -1,11 +1,11 @@
-owner = HUI
-controller = HUI
+owner = QNG
+controller = QNG
 trade_goods = cotton
 life_rating = 32	
 colonial = 0	
 add_core = GNG
 add_core = CHI
-add_core = QNG
+
 add_core = HUI
 terrain = ningbo
 fort = 0	

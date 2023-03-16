@@ -1,7 +1,9 @@
-owner = XBI
-controller = XBI
+owner = MGL
+controller = MGL
 trade_goods = cotton
 life_rating = 32	
+colonial = 0	
 add_core = CHI
 add_core = XBI
+add_core = MGL
 fort = 0	

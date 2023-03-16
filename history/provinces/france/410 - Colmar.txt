@@ -3,6 +3,5 @@ controller = ALS
 trade_goods = sulphur
 life_rating = 31	
 colonial = 0	
-add_core = FRA
 add_core = ALS
 fort = 0	

@@ -1,5 +1,5 @@
-owner = GXI
-controller = GXI
+owner = QNG
+controller = QNG
 trade_goods = fish
 life_rating = 32	
 add_core = GXI

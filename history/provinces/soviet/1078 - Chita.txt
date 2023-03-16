@@ -1,9 +1,10 @@
-owner = QNG
-controller = QNG
+owner = YAK
+controller = YAK
 trade_goods = timber
 life_rating = 35	
 colonial = 2	
 add_core = MGL
 add_core = CHI
-add_core = QNG
+
+add_core = YAK
 fort = 0	

@@ -4,5 +4,4 @@ trade_goods = cattle
 life_rating = 31	
 colonial = 0	
 add_core = ALS
-add_core = FRA
 fort = 0	

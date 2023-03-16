@@ -1,10 +1,10 @@
-owner = HUI
-controller = HUI
+owner = QNG
+controller = QNG
 trade_goods = tea
 life_rating = 32	
 colonial = 0	
 add_core = GNG
 add_core = CHI
-add_core = QNG
+
 add_core = HUI
 fort = 0	

@@ -2,6 +2,6 @@ owner = QNG
 controller = QNG
 trade_goods = silk
 life_rating = 32	
-add_core = QNG
+
 add_core = CHI
 fort = 0	

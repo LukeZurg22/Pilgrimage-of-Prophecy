@@ -1,7 +1,8 @@
-owner = TIB
-controller = TIB
+owner = QNG
+controller = QNG
 trade_goods = grain
 life_rating = 32	
+colonial = 0	
 add_core = TIB
 add_core = CHI
 fort = 0	

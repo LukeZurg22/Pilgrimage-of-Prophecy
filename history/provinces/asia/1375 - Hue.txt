@@ -1,7 +1,8 @@
-owner = DAI
-controller = DAI
+owner = QNG
+controller = QNG
 trade_goods = grain
 life_rating = 34	
+colonial = 0	
 add_core = DAI
 terrain = hue
 fort = 0	

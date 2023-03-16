@@ -3,6 +3,5 @@ controller = ALS
 trade_goods = dye
 life_rating = 30	
 colonial = 0	
-add_core = FRA
 add_core = ALS
 fort = 0	

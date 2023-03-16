@@ -7,8 +7,3 @@ add_core = ENG
 add_core = ENL
 terrain = london
 fort = 1	
-state_building = {
-	level = 3
-	building = fabric_factory
-	upgrade = yes
-}

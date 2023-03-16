@@ -1982,19 +1982,19 @@
         size = 5495
     }
 
-    slaves = {
+    artisans = {
         culture = estonian
         religion = protestant
         size = 550
     }
 
-    slaves = {
+    soldiers = {
         culture = estonian
         religion = protestant
         size = 10
     }
 
-    slaves = {
+    farmers = {
         culture = estonian
         religion = protestant
         size = 1962
@@ -2180,19 +2180,19 @@
         size = 7700
     }
 
-    slaves = {
+    artisans = {
         culture = estonian
         religion = protestant
         size = 150
     }
 
-    slaves = {
+    soldiers = {
         culture = estonian
         religion = protestant
         size = 10
     }
 
-    slaves = {
+    farmers = {
         culture = estonian
         religion = protestant
         size = 2962
@@ -2706,25 +2706,25 @@
         size = 50000
     }
 
-    slaves = {
+    clergymen = {
         culture = estonian
         religion = protestant
         size = 15
     }
 
-    slaves = {
+    artisans = {
         culture = estonian
         religion = protestant
         size = 50
     }
 
-    slaves = {
+    soldiers = {
         culture = estonian
         religion = protestant
         size = 10
     }
 
-    slaves = {
+    farmers = {
         culture = estonian
         religion = protestant
         size = 462

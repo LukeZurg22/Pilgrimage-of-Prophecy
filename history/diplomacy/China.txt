@@ -11,25 +11,6 @@ substate = {
 	start_date = 1816.1.1
 	end_date = 1860.1.1
 }
-substate = {
-	first = QNG
-	second = XIN
-	start_date = 1816.1.1
-	end_date = 1860.1.1
-}
-substate = {
-	first = QNG
-	second = TIB
-	start_date = 1816.1.1
-	end_date = 1860.1.1
-}
-
-substate = {
-	first = QNG
-	second = GNG
-	start_date = 1816.1.1
-	end_date = 1860.1.1
-}
 
 substate = {
 	first = QNG

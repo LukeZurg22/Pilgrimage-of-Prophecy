@@ -8,3 +8,8 @@ add_core = IRE
 terrain = dublin
 naval_base = 1	
 fort = 0	
+state_building = {
+	level = 3
+	building = fabric_factory
+	upgrade = yes
+}

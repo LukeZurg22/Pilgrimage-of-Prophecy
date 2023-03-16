@@ -1,7 +1,6 @@
-owner = GXI
-controller = GXI
 trade_goods = grain
 life_rating = 33	
+colonial = 0	
 add_core = SIA
 add_core = WIA
 fort = 0	

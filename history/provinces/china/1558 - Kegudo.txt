@@ -2,6 +2,7 @@ owner = TIB
 controller = TIB
 trade_goods = grain
 life_rating = 32	
+colonial = 0	
 add_core = CHI
 add_core = TIB
 fort = 0	

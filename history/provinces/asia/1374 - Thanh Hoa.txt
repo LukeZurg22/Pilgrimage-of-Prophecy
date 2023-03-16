@@ -1,5 +1,5 @@
-owner = GXI
-controller = GXI
+owner = QNG
+controller = QNG
 trade_goods = grain
 life_rating = 34	
 add_core = DAI

@@ -1,7 +1,9 @@
-owner = XIN
-controller = XIN
+owner = MGL
+controller = MGL
 trade_goods = sulphur
 life_rating = 32	
+colonial = 0	
 add_core = CHI
 add_core = XIN
+add_core = MGL
 fort = 0	

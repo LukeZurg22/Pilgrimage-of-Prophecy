@@ -1,9 +1,8 @@
-owner = KOR
-controller = KOR
+owner = YAK
+controller = YAK
 trade_goods = coal
 life_rating = 32	
 colonial = 0	
-add_core = QNG
 add_core = CHI
 add_core = KOR
 add_core = YAK

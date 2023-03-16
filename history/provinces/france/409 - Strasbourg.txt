@@ -4,6 +4,5 @@ trade_goods = grain
 life_rating = 31	
 colonial = 0	
 add_core = ALS
-add_core = FRA
 terrain = strasburg
 fort = 0	

@@ -622,7 +622,7 @@
         size = 100
     }
 
-    slaves = {
+    farmers = {
         culture = estonian
         religion = protestant
         size = 750
