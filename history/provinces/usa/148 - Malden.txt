@@ -2,6 +2,7 @@ owner = ULA
 controller = ULA
 trade_goods = grain
 life_rating = 35	
-add_core = USA
+
 add_core = ULA
+add_core = USA
 fort = 0	

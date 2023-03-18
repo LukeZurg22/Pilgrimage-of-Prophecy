@@ -3,7 +3,8 @@ controller = AMA
 trade_goods = cotton
 life_rating = 35	
 colonial = 0	
-add_core = USA
+
 add_core = AMA
+add_core = USA
 fort = 0	
 railroad = 1	

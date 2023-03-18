@@ -5,6 +5,5 @@ life_rating = 35
 colonial = 0	
 add_core = CAN
 add_core = AMK
-fort = 0	
-
 add_core = SAF
+fort = 0	

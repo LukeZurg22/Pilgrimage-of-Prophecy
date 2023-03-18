@@ -3,7 +3,8 @@ controller = AMK
 trade_goods = timber
 life_rating = 35	
 colonial = 0	
-add_core = USA
+
 add_core = AMK
+add_core = USA
 add_core = CAN
 fort = 0	

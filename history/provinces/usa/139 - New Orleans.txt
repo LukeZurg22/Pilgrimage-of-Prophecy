@@ -2,8 +2,9 @@ owner = ULA
 controller = ULA
 trade_goods = grain
 life_rating = 35	
-add_core = USA
+
 add_core = ULA
+add_core = USA
 terrain = neworleans
 naval_base = 1	
 fort = 0	

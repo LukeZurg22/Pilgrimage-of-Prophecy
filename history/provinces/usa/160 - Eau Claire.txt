@@ -3,8 +3,10 @@ controller = OHI
 trade_goods = grain
 life_rating = 35	
 colonial = 0	
-add_core = USA
+
 add_core = OHI
+add_core = USA
 add_core = ULA
+add_core = USA
 add_core = CAN
 fort = 0	

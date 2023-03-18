@@ -2,7 +2,8 @@ owner = ULA
 controller = ULA
 trade_goods = cattle
 life_rating = 35	
-add_core = USA
+
 add_core = ULA
+add_core = USA
 terrain = stlouis
 fort = 0	

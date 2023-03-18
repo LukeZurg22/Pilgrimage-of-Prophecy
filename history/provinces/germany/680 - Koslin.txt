@@ -1,5 +1,6 @@
 owner = PML
 controller = PML
+trade_goods = precious_metal
 colonial = 0	
 add_core = PML
 add_core = GER

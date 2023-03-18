@@ -3,6 +3,6 @@ controller = CAN
 trade_goods = fish
 life_rating = 35	
 colonial = 0	
-add_core = USA
+
 add_core = CAN
 fort = 0	

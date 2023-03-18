@@ -3,7 +3,8 @@ controller = ULA
 trade_goods = grain
 life_rating = 35	
 colonial = 0	
-add_core = USA
+
 add_core = CPH
 add_core = ULA
+add_core = USA
 fort = 0	

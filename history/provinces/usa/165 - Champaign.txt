@@ -5,5 +5,7 @@ life_rating = 35
 colonial = 0	
 add_core = OHI
 add_core = USA
+
 add_core = ULA
+add_core = USA
 fort = 0	

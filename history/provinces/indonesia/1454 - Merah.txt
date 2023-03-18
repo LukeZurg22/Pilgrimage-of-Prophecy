@@ -1,5 +1,5 @@
-owner = MAL
-controller = MAL
+owner = PPG
+controller = PPG
 trade_goods = fish
 life_rating = 10	
 colonial = 0	

@@ -5,5 +5,6 @@ life_rating = 35
 colonial = 0	
 add_core = NWJ
 add_core = USA
+
 naval_base = 1	
 fort = 0	

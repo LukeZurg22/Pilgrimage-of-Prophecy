@@ -8,4 +8,5 @@ add_core = RUT
 add_core = MOL
 add_core = BKV
 add_core = SLV
+add_core = UKR
 fort = 0	

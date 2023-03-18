@@ -1,6 +1,7 @@
 owner = ZUR
 controller = ZUR
-trade_goods = fish
+trade_goods = precious_metal
 life_rating = 40	
+colonial = 0	
 terrain = lubeck
 fort = 0	

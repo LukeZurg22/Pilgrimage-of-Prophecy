@@ -3,7 +3,8 @@ controller = AMA
 trade_goods = fruit
 life_rating = 35	
 colonial = 0	
-add_core = USA
+
 add_core = AMA
+add_core = USA
 naval_base = 1	
 fort = 0	

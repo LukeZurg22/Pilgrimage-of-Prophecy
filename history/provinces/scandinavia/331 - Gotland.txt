@@ -2,5 +2,6 @@ owner = ZUR
 controller = ZUR
 trade_goods = grain
 life_rating = 35	
+colonial = 0	
 add_core = SWE
 fort = 0	

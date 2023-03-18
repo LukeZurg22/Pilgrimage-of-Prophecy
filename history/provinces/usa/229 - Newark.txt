@@ -2,7 +2,8 @@ owner = NWJ
 controller = NWJ
 trade_goods = iron
 life_rating = 35	
-add_core = USA
+
 add_core = NWJ
+add_core = USA
 fort = 0	
 railroad = 1	

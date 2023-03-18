@@ -3,10 +3,12 @@ controller = NWJ
 trade_goods = grain
 life_rating = 35	
 colonial = 0	
-add_core = USA
+
 add_core = NEN
 add_core = NWJ
+add_core = USA
 add_core = AMK
+add_core = USA
 terrain = boston
 naval_base = 1	
 fort = 0	

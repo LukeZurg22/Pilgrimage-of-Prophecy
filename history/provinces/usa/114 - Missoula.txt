@@ -3,7 +3,7 @@ controller = COL
 trade_goods = cattle
 life_rating = 35	
 colonial = 0	
-add_core = USA
+
 add_core = COL
 add_core = ION
 fort = 0	

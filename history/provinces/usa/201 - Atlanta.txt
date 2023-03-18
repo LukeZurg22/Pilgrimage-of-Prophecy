@@ -2,8 +2,9 @@ owner = KEN
 controller = KEN
 trade_goods = cotton
 life_rating = 35	
-add_core = USA
+
 add_core = KEN
+add_core = USA
 terrain = atlanta
 fort = 0	
 state_building = {

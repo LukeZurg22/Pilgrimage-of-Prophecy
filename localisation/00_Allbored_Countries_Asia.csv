@@ -46,15 +46,30 @@ NZI_reactionary;Goering's Party;;;;;;;;;;;;x
 NZI_liberal;Speer's Party;;;;;;;;;;;;x
 NZI_fascist;The NSDP;;;;;;;;;;;;x
 NZI_anarcho_liberal;Steiner's Party;;;;;;;;;;;;x
-ALT;Kazakotav;;;;;;;;;;;;x,,
-ALT_absolute_monarchy;Vasileio of Kazakotav;;;;;;;;;;;;x,,
-ALT_hms_government;Kazakotav;;;;;;;;;;;;x,,
-ALT_prussian_constitutionalism;Kazakotav;;;;;;;;;;;;x,,
-ALT_ADJ;Kazakotav;;;;;;;;;;;;x,,
-ALT_conservative;The Conservatives;;;;;;;;;;;;;x,,
-ALT_liberal;The Liberals;;;;;;;;;;;;;x,,
-ALT_reactionary;The Imperator's Faction;;;;;;;;;;;;;x,,
-ALT_anarcho_liberal;The Libertains;;;;;;;;;;;;;x,,
-ALT_socialist;The Socialists;;;;;;;;;;;;;x,,
-ALT_communist;The Communists;;;;;;;;;;;;;x,,
-ALT_fascist;The Roman Faction;;;;;;;;;;;;;x,,
+ALT;Kazakotav;;;;;;;;;;;;x
+ALT_absolute_monarchy;Vasileio of Kazakotav;;;;;;;;;;;;x
+ALT_hms_government;Kazakotav;;;;;;;;;;;;x
+ALT_prussian_constitutionalism;Kazakotav;;;;;;;;;;;;x
+ALT_ADJ;Kazakotav;;;;;;;;;;;;x
+ALT_conservative;The Conservatives;;;;;;;;;;;;;x
+ALT_liberal;The Liberals;;;;;;;;;;;;;x
+ALT_reactionary;The Imperator's Faction;;;;;;;;;;;;;x
+ALT_anarcho_liberal;The Libertains;;;;;;;;;;;;;x
+ALT_socialist;The Socialists;;;;;;;;;;;;;x
+ALT_communist;The Communists;;;;;;;;;;;;;x
+ALT_fascist;The Roman Faction;;;;;;;;;;;;;x
+PPG;Ant Colony;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PPG_ADJ;Anty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+KOR;Hwan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,
+KOR_absolute_monarchy;The Hwan Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,
+KOR_proletarian_dictatorship;The Great Il-Sung Republic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,
+KOR_reactionary;Bandong;;;;;;;;;;;;;;;;;;x;;;;,,
+KOR_liberal;Taewon'gun;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
+KOR_liberal_2;Songgyungwan;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
+KOR_conservative;Tong Hak;;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
+KOR_liberal_3;Silhak;;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
+KOR_anarcho_liberal;Geubjinpa;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
+KOR_conservative_2;Wangdangpa;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
+KOR_socialist;Sahoe-tang;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
+KOR_communist;Choson Kongsantang;;;;;;;;;;;;;;;;;;;;;x;;;;,,
+KOR_fascist;Pasiseuteu Pati;;;;;;;;;;;;;;;;;;;;x;;;;,,

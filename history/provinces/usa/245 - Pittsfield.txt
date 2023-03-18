@@ -3,9 +3,11 @@ controller = NWJ
 trade_goods = iron
 life_rating = 35	
 colonial = 0	
-add_core = USA
+
 add_core = NEN
 add_core = NWJ
+add_core = USA
 add_core = AMK
+add_core = USA
 fort = 0	
 railroad = 1	

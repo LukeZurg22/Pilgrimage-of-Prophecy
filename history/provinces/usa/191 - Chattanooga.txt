@@ -2,7 +2,8 @@ owner = KEN
 controller = KEN
 trade_goods = coal
 life_rating = 35	
-add_core = USA
+
 add_core = KEN
+add_core = USA
 terrain = montane_forest
 fort = 0	

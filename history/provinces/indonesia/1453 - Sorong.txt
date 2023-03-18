@@ -1,6 +1,8 @@
-
-
+owner = PPG
+controller = PPG
+trade_goods = fish
+life_rating = 31	
+colonial = 0	
 add_core = MAL
 add_core = PPG
-trade_goods = fish
-life_rating = 31
+fort = 0	

@@ -4,6 +4,6 @@ trade_goods = timber
 life_rating = 35	
 colonial = 0	
 add_core = COL
-add_core = USA
+
 add_core = ION
 fort = 0	
