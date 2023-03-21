@@ -1,5 +1,7 @@
-
-
-add_core = EGY
+owner = ISR
+controller = ISR
 trade_goods = fruit
-life_rating = 40
+life_rating = 40	
+colonial = 0	
+add_core = EGY
+fort = 0	

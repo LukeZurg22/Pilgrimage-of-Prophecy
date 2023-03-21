@@ -1,11 +1,11 @@
 capital = 2648
 primary_culture = yakut
-culture = russian
 religion = animist
 government = absolute_monarchy
-plurality = 0.0
+plurality = 0.4
 nationalvalue = nv_order
-literacy = 0.01
+literacy = 0.05
+
 
 # Political reforms
 slavery = no_slavery

@@ -20,25 +20,25 @@
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = catholic
 		size = 60
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = catholic
 		size = 240
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = catholic
 		size = 5000
 	}
@@ -46,19 +46,19 @@
 #Aruba (3300/825 POPS)
 2235 = {
 	clergymen = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = catholic
 		size = 35
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = catholic
 		size = 35
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = catholic
 		size = 755
 	}
@@ -66,19 +66,19 @@
 #Saint Martin (6800/1700 POPS)
 2236 = {
 	clergymen = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 20
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 1580
 	}

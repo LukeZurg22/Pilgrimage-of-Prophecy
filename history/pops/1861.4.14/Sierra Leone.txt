@@ -3,19 +3,19 @@
 #Freetown (400000/100000 POPS)
 1884 = {
 	artisans = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 257.5
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 51.5
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 4841.0
 	}

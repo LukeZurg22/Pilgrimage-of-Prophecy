@@ -11,6 +11,7 @@ political_decisions = {
 		allow = {
 			war = no
 			is_greater_power = yes
+			state_n_government = 1
 			OR = {
 				LAT = {
 					exists = yes

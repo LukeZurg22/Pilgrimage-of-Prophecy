@@ -38,25 +38,25 @@
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 200
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 3300
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 1500
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 15500
 	}
@@ -64,7 +64,7 @@
 #Mahdia (6000/1500 POPS)
 2242 = {
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 250
 	}
@@ -132,25 +132,25 @@
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 225
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 11550
 	}
@@ -158,7 +158,7 @@
 #Biloka (6000/1500 POPS)
 1979 = {
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 250
 	}

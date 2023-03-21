@@ -1,9 +1,10 @@
 owner = CHY
 controller = CHY
+trade_goods = fish
+life_rating = 35	
+colonial = 0	
 add_core = CHY
 add_core = RUS
 add_core = UKR
 add_core = CRI
-trade_goods = fish
-life_rating = 35
-colonial = 2
+fort = 0	

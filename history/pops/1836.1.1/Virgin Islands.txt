@@ -2,46 +2,129 @@
 #Ruled by Denmark 1836
 #Saint Thomas (44000/11000 POPS)
 2223 = {
-	aristocrats = {
-		culture = danish
-		religion = protestant
-		size = 200
-	}
+    aristocrats = {
+        culture = danish
+        religion = protestant
+        size = 110
+    }
 
-	bureaucrats = {
-		culture = danish
-		religion = protestant
-		size = 25
-	}
+    bureaucrats = {
+        culture = danish
+        religion = protestant
+        size = 14
+    }
 
-	artisans = {
-		culture = danish
-		religion = protestant
-		size = 175
-	}
+    artisans = {
+        culture = danish
+        religion = protestant
+        size = 96
+    }
 
-	farmers = {
-		culture = danish
-		religion = protestant
-		size = 200
-	}
+    farmers = {
+        culture = danish
+        religion = protestant
+        size = 110
+    }
 
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 150
-	}
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 82
+    }
 
-	farmers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 350
-	}
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 192
+    }
 
-	slaves = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 500
-	}
+    slaves = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 275
+    }
 
+    aristocrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 180
+    }
+
+    bureaucrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 22
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 158
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 180
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 136
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 316
+    }
+
+    slaves = {
+        culture = new_venetian
+        religion = protestant
+        size = 450
+    }
+
+    aristocrats = {
+        culture = caribeno
+        religion = protestant
+        size = 180
+    }
+
+    bureaucrats = {
+        culture = caribeno
+        religion = protestant
+        size = 22
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = protestant
+        size = 158
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = protestant
+        size = 180
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = protestant
+        size = 136
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = protestant
+        size = 316
+    }
+
+    slaves = {
+        culture = caribeno
+        religion = protestant
+        size = 450
+    }
 }

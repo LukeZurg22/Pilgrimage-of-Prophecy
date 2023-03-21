@@ -1,0 +1,184 @@
+#Puerto Rico (356000)
+#Ruled by Spain 1836
+#Puerto Rico (356000/89000 POPS)
+2222 = {
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 137
+    }
+
+    bureaucrats = {
+        culture = spanish
+        religion = catholic
+        size = 41
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 165
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 440
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 27
+    }
+
+    aristocrats = {
+        culture = caribeno
+        religion = catholic
+        size = 844
+    }
+
+    bureaucrats = {
+        culture = caribeno
+        religion = catholic
+        size = 14
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 110
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 1650
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 247
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 22467
+    }
+
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 605
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 220
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 16830
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 5500
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 452
+    }
+
+    bureaucrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 136
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 540
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 1440
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 92
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 2764
+    }
+
+    bureaucrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 44
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 360
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 5400
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 812
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 73532
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 1980
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 720
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 55080
+    }
+
+    slaves = {
+        culture = new_venetian
+        religion = catholic
+        size = 18000
+    }
+}

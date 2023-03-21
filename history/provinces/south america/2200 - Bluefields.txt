@@ -1,9 +1,9 @@
-owner = HQJ
-controller = HQJ
+owner = CUB
+controller = CUB
 trade_goods = tropical_wood
 life_rating = 31	
 colonial = 0	
 add_core = MSK
 add_core = NIC
-add_core = HQJ
+add_core = CUB
 fort = 0	

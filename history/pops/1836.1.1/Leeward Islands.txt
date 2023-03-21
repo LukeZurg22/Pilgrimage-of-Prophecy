@@ -2,220 +2,639 @@
 #Ruled by Britain 1836
 #Antigua (25000/6250 POPS) #now independent
 2224 = {
-	aristocrats = {
-		culture = british
-		religion = protestant
-		size = 50
-	}
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 27
+    }
 
-	bureaucrats = {
-		culture = british
-		religion = protestant
-		size = 30
-	}
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 16
+    }
 
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 10
-	}
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
 
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 200
-	}
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 110
+    }
 
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 10
-	}
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
 
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 200
-	}
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 110
+    }
 
-	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 75
-	}
+    clergymen = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 41
+    }
 
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 150
-	}
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 82
+    }
 
-	soldiers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 50
-	}
+    soldiers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 27
+    }
 
-	farmers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 5470
-	}
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 3008
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 46
+    }
+
+    bureaucrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 28
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 180
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 180
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 68
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 136
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 46
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 4924
+    }
+
+    aristocrats = {
+        culture = caribeno
+        religion = protestant
+        size = 46
+    }
+
+    bureaucrats = {
+        culture = caribeno
+        religion = protestant
+        size = 28
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = protestant
+        size = 180
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = protestant
+        size = 180
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = protestant
+        size = 68
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = protestant
+        size = 136
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = protestant
+        size = 46
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = protestant
+        size = 4924
+    }
 }
 #Montserrat (5300/1325 POPS) #still British Colony
 2225 = {
-	aristocrats = {
-		culture = british
-		religion = protestant
-		size = 10
-	}
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
 
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 5
-	}
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 3
+    }
 
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 30
-	}
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 16
+    }
 
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 30
-	}
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 16
+    }
 
-	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 15
-	}
+    clergymen = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 8
+    }
 
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 45
-	}
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 25
+    }
 
-	soldiers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 10
-	}
+    soldiers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 5
+    }
 
-	farmers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 1380
-	}
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 759
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 10
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 4
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 28
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 28
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 14
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 40
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 1242
+    }
+
+    aristocrats = {
+        culture = caribeno
+        religion = protestant
+        size = 10
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = protestant
+        size = 4
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = protestant
+        size = 28
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = protestant
+        size = 28
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = protestant
+        size = 14
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = protestant
+        size = 40
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = protestant
+        size = 1242
+    }
 }
 #Tortola (4800/1200 POPS) #still British Colony
 2226 = {
-	aristocrats = {
-		culture = british
-		religion = protestant
-		size = 10
-	}
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
 
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 10
-	}
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
 
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 40
-	}
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 22
+    }
 
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 40
-	}
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 22
+    }
 
-	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 15
-	}
+    clergymen = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 8
+    }
 
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 35
-	}
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 19
+    }
 
-	soldiers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 10
-	}
+    soldiers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 5
+    }
 
-	farmers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 1040
-	}
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 572
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 10
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 36
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 36
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 14
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 32
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 936
+    }
+
+    aristocrats = {
+        culture = caribeno
+        religion = protestant
+        size = 10
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = protestant
+        size = 36
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = protestant
+        size = 36
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = protestant
+        size = 14
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = protestant
+        size = 32
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = protestant
+        size = 936
+    }
 }
 #Saint Kitts (26500/6625 POPS) #now independent
 2227 = {
-	aristocrats = {
-		culture = british
-		religion = protestant
-		size = 75
-	}
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 41
+    }
 
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 15
-	}
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 8
+    }
 
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 225
-	}
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 124
+    }
 
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 50
-	}
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 27
+    }
 
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 260
-	}
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 143
+    }
 
-	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 75
-	}
+    clergymen = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 41
+    }
 
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 150
-	}
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 82
+    }
 
-	soldiers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 75
-	}
+    soldiers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 41
+    }
 
-	farmers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 5900
-	}
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 3245
+    }
 
+    aristocrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 68
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 14
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 202
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 46
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 234
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 68
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 136
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 68
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 5310
+    }
+
+    aristocrats = {
+        culture = caribeno
+        religion = protestant
+        size = 68
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = protestant
+        size = 14
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = protestant
+        size = 202
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = protestant
+        size = 46
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = protestant
+        size = 234
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = protestant
+        size = 68
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = protestant
+        size = 136
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = protestant
+        size = 68
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = protestant
+        size = 5310
+    }
 }

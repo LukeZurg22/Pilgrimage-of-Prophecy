@@ -5,6 +5,7 @@ government = absolute_monarchy
 plurality = 10
 nationalvalue = nv_order
 literacy = 0.01
+prestige = 32
 
 # Political reforms
 slavery = yes_slavery

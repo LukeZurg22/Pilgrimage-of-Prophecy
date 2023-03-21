@@ -38,25 +38,25 @@
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 120
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 4200
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 380
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 28900
 	}
@@ -88,25 +88,25 @@
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 175
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 6000
 	}
@@ -138,25 +138,25 @@
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 65
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 70
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 5610
 	}
@@ -194,25 +194,25 @@
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 55
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 160
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 80
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 7150
 	}
@@ -244,25 +244,25 @@
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 7120
 	}

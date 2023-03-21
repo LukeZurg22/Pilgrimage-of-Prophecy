@@ -2,6 +2,7 @@ owner = ZUR
 controller = ZUR
 trade_goods = fish
 life_rating = 40	
+colonial = 0	
 add_core = PRU
 add_core = GER
 add_core = LIT

@@ -2,167 +2,475 @@
 #Ruled by France 1836
 #Martinique (190800/27450 POPS)
 2228 = {
-	aristocrats = {
-		culture = french
-		religion = catholic
-		size = 750
-	}
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 412
+    }
 
-	bureaucrats = {
-		culture = french
-		religion = catholic
-		size = 100
-	}
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 55
+    }
 
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 50
-	}
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 27
+    }
 
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 900
-	}
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 495
+    }
 
-	soldiers = {
-		culture = french
-		religion = catholic
-		size = 250
-	}
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 137
+    }
 
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 400
-	}
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 220
+    }
 
-	clergymen = {
-		culture = afro_antillean
-		religion = catholic
-		size = 125
-	}
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 69
+    }
 
-	artisans = {
-		culture = afro_antillean
-		religion = catholic
-		size = 1250
-	}
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 687
+    }
 
-	soldiers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 250
-	}
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 137
+    }
 
-	farmers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 3400
-	}
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1870
+    }
 
-	slaves = {
-		culture = afro_antillean
-		religion = catholic
-		size = 20000
-	}
+    slaves = {
+        culture = afro_antillean
+        religion = catholic
+        size = 11000
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 676
+    }
+
+    bureaucrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 90
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 46
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 810
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 226
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 360
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 112
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 1126
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 226
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 3060
+    }
+
+    slaves = {
+        culture = new_venetian
+        religion = catholic
+        size = 18000
+    }
+
+    aristocrats = {
+        culture = caribeno
+        religion = catholic
+        size = 676
+    }
+
+    bureaucrats = {
+        culture = caribeno
+        religion = catholic
+        size = 90
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 46
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 810
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 226
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 360
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 112
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 1126
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 226
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 3060
+    }
+
+    slaves = {
+        culture = caribeno
+        religion = catholic
+        size = 18000
+    }
 }
 #Guadeloupe (128400/32100 POPS)
 2230 = {
-	aristocrats = {
-		culture = french
-		religion = catholic
-		size = 850
-	}
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 467
+    }
 
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 50
-	}
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 27
+    }
 
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 1300
-	}
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 715
+    }
 
-	soldiers = {
-		culture = french
-		religion = catholic
-		size = 300
-	}
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 165
+    }
 
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 600
-	}
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 330
+    }
 
-	clergymen = {
-		culture = afro_antillean
-		religion = catholic
-		size = 150
-	}
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 82
+    }
 
-	artisans = {
-		culture = afro_antillean
-		religion = catholic
-		size = 1500
-	}
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 825
+    }
 
-	soldiers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 300
-	}
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 165
+    }
 
-	farmers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 3050
-	}
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1677
+    }
 
-	slaves = {
-		culture = afro_antillean
-		religion = catholic
-		size = 24000
-	}
+    slaves = {
+        culture = afro_antillean
+        religion = catholic
+        size = 13200
+    }
 
+    aristocrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 766
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 46
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 1170
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 270
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 540
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 136
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 1350
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 270
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 2746
+    }
+
+    slaves = {
+        culture = new_venetian
+        religion = catholic
+        size = 21600
+    }
+
+    aristocrats = {
+        culture = caribeno
+        religion = catholic
+        size = 766
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 46
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 1170
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 270
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 540
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 136
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 1350
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 270
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 2746
+    }
+
+    slaves = {
+        culture = caribeno
+        religion = catholic
+        size = 21600
+    }
 }
-
 #Marigot - Former Baffin Island (4000/1000 POPS)
 45 = {
-	
-	aristocrats = {
-		culture = french
-		religion = catholic
-		size = 10
-	}
-	
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 25
-	}
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 5
+    }
 
-	artisans = {
-		culture = afro_caribbean
-		religion = catholic
-		size = 55
-	}
-	
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 500
-	}
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 14
+    }
 
-	slaves = {
-		culture = afro_caribbean
-		religion = catholic
-		size = 120
-	}
+    artisans = {
+        culture = caribbean_mayan
+        religion = catholic
+        size = 30
+    }
 
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 275
+    }
+
+    slaves = {
+        culture = caribbean_mayan
+        religion = catholic
+        size = 66
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 10
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 22
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 450
+    }
+
+    slaves = {
+        culture = new_venetian
+        religion = catholic
+        size = 108
+    }
+
+    aristocrats = {
+        culture = caribeno
+        religion = catholic
+        size = 10
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 22
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 450
+    }
+
+    slaves = {
+        culture = caribeno
+        religion = catholic
+        size = 108
+    }
 }

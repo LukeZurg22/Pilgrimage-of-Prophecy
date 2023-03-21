@@ -1,10 +1,9 @@
-owner = HQJ
-controller = HQJ
+owner = CUB
+controller = CUB
 trade_goods = tobacco
 life_rating = 35	
-colonial = 2	
+colonial = 0	
 add_core = CUB
-add_core = HQJ
 terrain = havana
 naval_base = 1	
 fort = 0	

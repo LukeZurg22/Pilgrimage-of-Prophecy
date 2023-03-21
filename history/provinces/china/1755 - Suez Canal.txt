@@ -1,7 +1,8 @@
-
-
-add_core = EGY
+owner = ISR
+controller = ISR
 trade_goods = cotton
-life_rating = 32
+life_rating = 32	
+colonial = 0	
+add_core = EGY
 terrain = suez
-1861.1.1 = { railroad = 2 }
+fort = 0	

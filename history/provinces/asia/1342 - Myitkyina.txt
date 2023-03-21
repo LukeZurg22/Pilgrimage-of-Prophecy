@@ -2,6 +2,6 @@ owner = YNN
 controller = YNN
 trade_goods = grain
 life_rating = 33	
-add_core = BNG
+colonial = 0	
 add_core = YNN
 fort = 0	

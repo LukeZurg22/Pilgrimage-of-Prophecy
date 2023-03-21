@@ -1,5 +1,5 @@
-owner = BUL
-controller = BUL
+owner = ISR
+controller = ISR
 trade_goods = grain
 life_rating = 20	
 colonial = 2	
@@ -8,6 +8,4 @@ add_core = HTY
 add_core = SYR
 add_core = KDS
 add_core = ASY
-add_
-terrain = semidesert
 fort = 0	

@@ -1,7 +1,8 @@
-
-
-add_core = EGY
+owner = ISR
+controller = ISR
 trade_goods = fruit
-life_rating = 20
+life_rating = 20	
+colonial = 0	
+add_core = EGY
 terrain = semidesert
-#terrain = coastal_desert
+fort = 0	

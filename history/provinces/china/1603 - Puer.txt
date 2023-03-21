@@ -6,4 +6,5 @@ colonial = 0
 add_core = GXI
 add_core = CHI
 add_core = YNN
+add_core = HQJ
 fort = 0	

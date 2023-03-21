@@ -1,8 +1,10 @@
+owner = ISR
+controller = ISR
 trade_goods = wool
 life_rating = 35	
 colonial = 0	
 add_core = BYZ
 add_core = CLC
 add_core = KDS
-add_
+add_core = ANT
 fort = 0	

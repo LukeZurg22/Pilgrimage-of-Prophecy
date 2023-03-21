@@ -1,0 +1,527 @@
+#Windward Islands Region - 188000
+#Barbados (100000/25000 POPS) #now independent
+2229 = {
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 632
+    }
+
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 55
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 27
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 962
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 27
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 605
+    }
+
+    clergymen = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 41
+    }
+
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 1512
+    }
+
+    soldiers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 137
+    }
+
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 10409
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 2072
+    }
+
+    bureaucrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 180
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 92
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 3152
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 92
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 1980
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 136
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 4952
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 452
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 34064
+    }
+}
+#Saint Lucia (18000/4500 POPS) #now independent
+2231 = {
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 71
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 55
+    }
+
+    clergymen = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 27
+    }
+
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 55
+    }
+
+    soldiers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 27
+    }
+
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 2227
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 20
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 20
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 236
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 180
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 92
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 180
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 92
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 7292
+    }
+}
+#Dominica (19000/4750 POPS) #now independent
+2232 = {
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 71
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 55
+    }
+
+    clergymen = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 27
+    }
+
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 82
+    }
+
+    soldiers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 27
+    }
+
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 2337
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 20
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 20
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 236
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 180
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 92
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 272
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 92
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 7652
+    }
+}
+#Grenada (30000/7500 POPS) #now independent
+2233 = {
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 14
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 11
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 137
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 3
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 110
+    }
+
+    clergymen = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 27
+    }
+
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 82
+    }
+
+    soldiers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 41
+    }
+
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 3699
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 44
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 36
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 452
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 8
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 360
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 92
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 272
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 136
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 12104
+    }
+}
+#Saint Vincent (21000/5250 POPS) #now independent
+2409 = {
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 71
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 55
+    }
+
+    clergymen = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 27
+    }
+
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 110
+    }
+
+    soldiers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 27
+    }
+
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 2585
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 20
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 20
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 236
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 180
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 92
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 360
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 92
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 8460
+    }
+}

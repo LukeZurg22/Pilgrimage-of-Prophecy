@@ -38,25 +38,25 @@
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 110
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 220
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 70
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 7975
 	}
@@ -88,25 +88,25 @@
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 60
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 15
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 1700
 	}
@@ -138,25 +138,25 @@
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 30
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 65
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 25
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 1950
 	}
@@ -194,25 +194,25 @@
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 190
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 7335
 	}

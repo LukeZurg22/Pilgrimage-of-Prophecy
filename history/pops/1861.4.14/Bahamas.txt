@@ -37,25 +37,25 @@
 		size = 950
 	}
 	clergymen = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 90
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 180
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 90
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 7180
 	}
@@ -63,25 +63,25 @@
 #Turks & Caicos Islands (4400/1100 POPS)
 2220 = {
 	clergymen = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 145
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = caribbean_mayan
 		religion = protestant
 		size = 805
 	}

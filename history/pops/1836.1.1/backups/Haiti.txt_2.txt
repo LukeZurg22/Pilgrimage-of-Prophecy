@@ -1,0 +1,138 @@
+#Hispanola Region (516000) #see Dominican Republic.txt for balance of region
+#Ruled by Haiti 1836
+#Port au Prince (312000/78000 POPS)
+2213 = {
+    aristocrats = {
+        culture = afro_antillean
+        religion = catholic
+        size = 454
+    }
+
+    officers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 82
+    }
+
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 96
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 2227
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 55
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 37565
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 1484
+    }
+
+    officers = {
+        culture = new_venetian
+        religion = catholic
+        size = 272
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 316
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 7292
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 180
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 122940
+    }
+}
+#Cap Haitien (204000/51000 POPS)
+2215 = {
+    aristocrats = {
+        culture = afro_antillean
+        religion = catholic
+        size = 302
+    }
+
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 41
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1402
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 110
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 25754
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 992
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 136
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 4592
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 360
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 84284
+    }
+}

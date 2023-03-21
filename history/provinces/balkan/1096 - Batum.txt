@@ -1,5 +1,6 @@
-owner = BYZ
-controller = BYZ
+owner = ANT
+controller = ANT
+add_core = ANT
 trade_goods = fish
 life_rating = 35	
 colonial = 0	

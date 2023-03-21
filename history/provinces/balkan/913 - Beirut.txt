@@ -1,20 +1,10 @@
-owner = EGY
-controller = EGY
+owner = ISR
+controller = ISR
+trade_goods = silk
+life_rating = 35	
+colonial = 0	
 add_core = EGY
 add_core = BYZ
 add_core = LBN
-trade_goods = silk
-life_rating = 35
 terrain = hills
-
-1861.1.1 = {
-	controller = BUL 
-	owner = BUL
-}
-1861.1.1 = {
-	state_building = {
-		level = 1
-		building = fabric_factory
-		upgrade = yes
-	}
-}
+fort = 0	

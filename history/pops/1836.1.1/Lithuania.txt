@@ -2,43 +2,43 @@
 #under the rule of Russia in 1836
 #Vilnius (168000/42000 POPS)
 360 = {
-    aristocrats = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 350
     }
 
-    officers = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 105
     }
 
-    bureaucrats = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 105
     }
 
-    clergymen = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 105
     }
 
-    artisans = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 1750
     }
 
-    soldiers = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 770
     }
 
-    farmers = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 8680
@@ -202,31 +202,31 @@
 }
 #Kaunas (204000/51000 POPS)
 361 = {
-    aristocrats = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 665
     }
 
-    clergymen = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 280
     }
 
-    artisans = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 805
     }
 
-    soldiers = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 1470
     }
 
-    farmers = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 25550
@@ -342,25 +342,25 @@
 }
 #Marjampole (240000/60000 POPS)
 362 = {
-    clergymen = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 175
     }
 
-    artisans = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 1050
     }
 
-    soldiers = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 1575
     }
 
-    farmers = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 16100
@@ -470,31 +470,31 @@
 }
 #Panevezys (204000/51000 POPS)
 363 = {
-    aristocrats = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 717
     }
 
-    clergymen = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 262
     }
 
-    artisans = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 1225
     }
 
-    soldiers = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 262
     }
 
-    farmers = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 24132
@@ -610,31 +610,31 @@
 }
 #Siauliai (200000/50000 POPS)
 364 = {
-    aristocrats = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 630
     }
 
-    clergymen = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 280
     }
 
-    artisans = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 875
     }
 
-    soldiers = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 1540
     }
 
-    farmers = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 26775
@@ -720,31 +720,31 @@
 }
 #Palanga (84000/21000 POPS)
 365 = {
-    aristocrats = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 245
     }
 
-    clergymen = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 105
     }
 
-    artisans = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 350
     }
 
-    soldiers = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 122
     }
 
-    farmers = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 11077
@@ -874,31 +874,31 @@
         size = 145
     }
 
-    clergymen = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 105
     }
 
-    artisans = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 665
     }
 
-    soldiers = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 770
     }
 
-    farmers = {
+    slaves = {
         culture = lithuanian
         religion = catholic
         size = 11270
     }
 
-    farmers = {
+    slaves = {
         culture = lithuanian
         religion = protestant
         size = 700

@@ -1,5 +1,5 @@
-owner = SYR
-controller = SYR
+owner = ISR
+controller = ISR
 trade_goods = grain
 life_rating = 35	
 colonial = 0	

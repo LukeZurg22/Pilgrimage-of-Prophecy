@@ -1,5 +1,6 @@
 owner = ALT
 controller = ALT
+add_core = ALT
 trade_goods = iron
 life_rating = 35	
 colonial = 0	

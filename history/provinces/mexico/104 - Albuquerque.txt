@@ -6,6 +6,5 @@ colonial = 2
 add_core = MEX
 add_core = CAL
 add_core = CPH
-add_core = FEM
 terrain = sanfrancisco
 fort = 0	

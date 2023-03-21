@@ -10,6 +10,7 @@ SOR = "countries/Sorbia.txt"
 GUN = "countries/Gunai.txt"
 TIM = "countries/Timurid.txt"
 NZI = "countries/Nazis.txt"
+BAB = "countries/Babylonia.txt"
 
 ###Allbored America
 OHI = "countries/Ohio.txt"

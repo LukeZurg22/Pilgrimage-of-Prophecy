@@ -653,73 +653,73 @@
     farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 2
+        size = 10
     }
 
     farmers = {
         culture = alaskan_german
         religion = protestant
-        size = 3690
+        size = 18450
     }
 
     clergymen = {
         culture = cree
         religion = protestant
-        size = 8
+        size = 40
     }
 
     artisans = {
         culture = cree
         religion = protestant
-        size = 8
+        size = 40
     }
 
     officers = {
         culture = cree
         religion = protestant
-        size = 4
+        size = 20
     }
 
     soldiers = {
         culture = cree
         religion = protestant
-        size = 8
+        size = 40
+    }
+
+    farmers = {
+        culture = cree
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = cree
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = cree
+        religion = protestant
+        size = 10
+    }
+
+    officers = {
+        culture = cree
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = cree
+        religion = protestant
+        size = 10
     }
 
     farmers = {
         culture = cree
         religion = protestant
         size = 40
-    }
-
-    clergymen = {
-        culture = cree
-        religion = protestant
-        size = 2
-    }
-
-    artisans = {
-        culture = cree
-        religion = protestant
-        size = 2
-    }
-
-    officers = {
-        culture = cree
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 2
-    }
-
-    farmers = {
-        culture = cree
-        religion = protestant
-        size = 8
     }
 }
 #Vancouver Island (8000/2000 POPS)
@@ -745,61 +745,61 @@
     farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 2
+        size = 10
     }
 
     farmers = {
         culture = alaskan_german
         religion = protestant
-        size = 3195
+        size = 15975
     }
 
     clergymen = {
         culture = cree
         religion = protestant
-        size = 8
+        size = 40
     }
 
     artisans = {
         culture = cree
         religion = protestant
-        size = 8
+        size = 40
     }
 
     soldiers = {
         culture = cree
         religion = protestant
-        size = 8
+        size = 40
+    }
+
+    farmers = {
+        culture = cree
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = cree
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = cree
+        religion = protestant
+        size = 10
+    }
+
+    soldiers = {
+        culture = cree
+        religion = protestant
+        size = 10
     }
 
     farmers = {
         culture = cree
         religion = protestant
         size = 40
-    }
-
-    clergymen = {
-        culture = cree
-        religion = protestant
-        size = 2
-    }
-
-    artisans = {
-        culture = cree
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = cree
-        religion = protestant
-        size = 2
-    }
-
-    farmers = {
-        culture = cree
-        religion = protestant
-        size = 8
     }
 }
 #Prince Rupert (8000/2000 POPS)
@@ -831,55 +831,55 @@
     farmers = {
         culture = alaskan_german
         religion = protestant
-        size = 4672
+        size = 23360
     }
 
     clergymen = {
         culture = cree
         religion = protestant
-        size = 2
+        size = 10
     }
 
     artisans = {
         culture = cree
         religion = protestant
-        size = 2
+        size = 10
     }
 
     soldiers = {
         culture = cree
         religion = protestant
-        size = 2
+        size = 10
     }
 
     farmers = {
         culture = cree
         religion = protestant
-        size = 8
+        size = 40
     }
 
     clergymen = {
         culture = cree
         religion = protestant
-        size = 1
+        size = 5
     }
 
     artisans = {
         culture = cree
         religion = protestant
-        size = 1
+        size = 5
     }
 
     soldiers = {
         culture = cree
         religion = protestant
-        size = 1
+        size = 5
     }
 
     farmers = {
         culture = cree
         religion = protestant
-        size = 2
+        size = 10
     }
 }
 #Glenora (4000/1000 POPS)

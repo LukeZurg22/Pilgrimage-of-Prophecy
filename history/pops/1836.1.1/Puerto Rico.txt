@@ -1,95 +1,274 @@
-#Puerto Rico (356000)	
-#Ruled by Spain 1836 
+#Puerto Rico (356000)
+#Ruled by Spain 1836
 #Puerto Rico (356000/89000 POPS)
 2222 = {
-	aristocrats = {
-		culture = spanish
-		religion = catholic
-		size = 250
-	}
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 137
+    }
 
-	bureaucrats = {
-		culture = spanish
-		religion = catholic
-		size = 75
-	}
+    bureaucrats = {
+        culture = spanish
+        religion = catholic
+        size = 41
+    }
 
-	clergymen = {
-		culture = spanish
-		religion = catholic
-		size = 300
-	}
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 165
+    }
 
-	artisans = {
-		culture = spanish
-		religion = catholic
-		size = 800
-	}
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 440
+    }
 
-	soldiers = {
-		culture = spanish
-		religion = catholic
-		size = 50
-	}
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 27
+    }
 
-	aristocrats = {
-		culture = caribeno
-		religion = catholic
-		size = 1535
-	}
+    aristocrats = {
+        culture = caribeno
+        religion = catholic
+        size = 844
+    }
 
-	bureaucrats = {
-		culture = caribeno
-		religion = catholic
-		size = 25
-	}
+    bureaucrats = {
+        culture = caribeno
+        religion = catholic
+        size = 14
+    }
 
-	clergymen = {
-		culture = caribeno
-		religion = catholic
-		size = 200
-	}
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 110
+    }
 
-	artisans = {
-		culture = caribeno
-		religion = catholic
-		size = 3000
-	}
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 1650
+    }
 
-	soldiers = {
-		culture = caribeno
-		religion = catholic
-		size = 450
-	}
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 247
+    }
 
-	farmers = {
-		culture = caribeno
-		religion = catholic
-		size = 40850
-	}
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 22467
+    }
 
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 1100
-	}
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 605
+    }
 
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 400
-	}
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 220
+    }
 
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 30600
-	}
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 16830
+    }
 
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 10000
-	}
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 5500
+    }
 
+    aristocrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 226
+    }
+
+    bureaucrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 68
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 270
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 720
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 46
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 1382
+    }
+
+    bureaucrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 22
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 180
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 2700
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 406
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 36766
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 990
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 360
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 27540
+    }
+
+    slaves = {
+        culture = new_venetian
+        religion = catholic
+        size = 9000
+    }
+
+    aristocrats = {
+        culture = caribeno
+        religion = catholic
+        size = 226
+    }
+
+    bureaucrats = {
+        culture = caribeno
+        religion = catholic
+        size = 68
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 270
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 720
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 46
+    }
+
+    aristocrats = {
+        culture = caribeno
+        religion = catholic
+        size = 1382
+    }
+
+    bureaucrats = {
+        culture = caribeno
+        religion = catholic
+        size = 22
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 180
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 2700
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 406
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 36766
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 990
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 360
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 27540
+    }
+
+    slaves = {
+        culture = caribeno
+        religion = catholic
+        size = 9000
+    }
 }

@@ -1,7 +1,8 @@
-
-
-add_core = EGY
+owner = ISR
+controller = ISR
 trade_goods = grain
-life_rating = 45
+life_rating = 45	
+colonial = 0	
+add_core = EGY
 terrain = cairo
-1861.1.1 = { railroad = 2 }
+fort = 0	

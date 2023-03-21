@@ -2,120 +2,347 @@
 #Ruled by Haiti 1836
 #Santo Domingo (68000/17000 POPS) #now part of Dominican Republic
 2214 = {
-	aristocrats = {
-		culture = caribeno
-		religion = catholic
-		size = 700
-	}
-	
-	bureaucrats = {
-		culture = caribeno
-		religion = catholic
-		size = 25
-	}
-	
-	clergymen = {
-		culture = caribeno
-		religion = catholic
-		size = 100
-	}
+    aristocrats = {
+        culture = caribeno
+        religion = catholic
+        size = 385
+    }
 
-	artisans = {
-		culture = caribeno
-		religion = catholic
-		size = 350
-	}
+    bureaucrats = {
+        culture = caribeno
+        religion = catholic
+        size = 14
+    }
 
-	soldiers = {
-		culture = caribeno
-		religion = catholic
-		size = 75
-	}
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 55
+    }
 
-	farmers = {
-		culture = caribeno
-		religion = catholic
-		size = 62375
-	}
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 192
+    }
 
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 41
+    }
 
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 500
-	}
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 34306
+    }
 
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
+    clergymen = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 27
+    }
 
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 45350
-	}
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 275
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 27
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 24942
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 630
+    }
+
+    bureaucrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 22
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 90
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 316
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 68
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 56138
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 46
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 450
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 46
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 40816
+    }
+
+    aristocrats = {
+        culture = caribeno
+        religion = catholic
+        size = 630
+    }
+
+    bureaucrats = {
+        culture = caribeno
+        religion = catholic
+        size = 22
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 90
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 316
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 68
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 56138
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 46
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 450
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 46
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 40816
+    }
 }
 #La Vega (56000/15000 POPS) #now part of Dominican Republic
 2216 = {
-	aristocrats = {
-		culture = caribeno
-		religion = catholic
-		size = 550
-	}
-	
-	clergymen = {
-		culture = caribeno
-		religion = catholic
-		size = 100
-	}
+    aristocrats = {
+        culture = caribeno
+        religion = catholic
+        size = 302
+    }
 
-	artisans = {
-		culture = caribeno
-		religion = catholic
-		size = 400
-	}
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 55
+    }
 
-	soldiers = {
-		culture = caribeno
-		religion = catholic
-		size = 50
-	}
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 220
+    }
 
-	farmers = {
-		culture = caribeno
-		religion = catholic
-		size = 30175
-	}
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 27
+    }
 
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 16596
+    }
 
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 300
-	}
+    clergymen = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 27
+    }
 
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 75
-	}
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 165
+    }
 
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 19575
-	}
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 41
+    }
 
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 10766
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 496
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 90
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 360
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 46
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 27158
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 46
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 270
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 68
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 17618
+    }
+
+    aristocrats = {
+        culture = caribeno
+        religion = catholic
+        size = 496
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 90
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 360
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 46
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 27158
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 46
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 270
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 68
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 17618
+    }
 }

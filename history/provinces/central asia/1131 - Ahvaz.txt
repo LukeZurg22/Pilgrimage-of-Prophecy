@@ -1,6 +1,8 @@
-
-
+owner = BAB
+controller = BAB
+trade_goods = grain
+life_rating = 35	
+colonial = 0	
 add_core = PER
 add_core = IRQ
-trade_goods = grain
-life_rating = 35
+fort = 0	

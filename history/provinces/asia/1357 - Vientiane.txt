@@ -1,5 +1,8 @@
+owner = HQJ
+controller = HQJ
 trade_goods = grain
 life_rating = 35	
 colonial = 0	
 add_core = SIA
+add_core = HQJ
 fort = 0	

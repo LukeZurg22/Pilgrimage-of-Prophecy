@@ -1,0 +1,430 @@
+#Leeward Islands Region - 61600
+#Ruled by Britain 1836
+#Antigua (25000/6250 POPS) #now independent
+2224 = {
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 27
+    }
+
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 16
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 110
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 110
+    }
+
+    clergymen = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 41
+    }
+
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 82
+    }
+
+    soldiers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 27
+    }
+
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 3008
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 92
+    }
+
+    bureaucrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 56
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 20
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 360
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 20
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 360
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 136
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 272
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 92
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 9848
+    }
+}
+#Montserrat (5300/1325 POPS) #still British Colony
+2225 = {
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 3
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 16
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 16
+    }
+
+    clergymen = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 8
+    }
+
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 25
+    }
+
+    soldiers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 5
+    }
+
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 759
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 20
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 8
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 56
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 56
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 28
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 80
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 20
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 2484
+    }
+}
+#Tortola (4800/1200 POPS) #still British Colony
+2226 = {
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 22
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 22
+    }
+
+    clergymen = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 8
+    }
+
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 19
+    }
+
+    soldiers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 5
+    }
+
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 572
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 20
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 20
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 72
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 72
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 28
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 64
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 20
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 1872
+    }
+}
+#Saint Kitts (26500/6625 POPS) #now independent
+2227 = {
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 41
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 8
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 124
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 27
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 143
+    }
+
+    clergymen = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 41
+    }
+
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 82
+    }
+
+    soldiers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 41
+    }
+
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 3245
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 136
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 28
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 404
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 92
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 468
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 136
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 272
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 136
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 10620
+    }
+}

@@ -1,0 +1,156 @@
+#Jamaica Region - 384000
+#Ruled by Britain 1836
+#Jamaica (372000/93000 POPS)
+2217 = {
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 55
+    }
+
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 1039
+    }
+
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 47
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 41
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 687
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 27
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 1204
+    }
+
+    clergymen = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 344
+    }
+
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 1787
+    }
+
+    soldiers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 605
+    }
+
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 46406
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 180
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 3404
+    }
+
+    bureaucrats = {
+        culture = new_venetian
+        religion = protestant
+        size = 152
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 136
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 2252
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 92
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 3944
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = protestant
+        size = 1124
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = protestant
+        size = 5852
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = protestant
+        size = 1980
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = protestant
+        size = 151876
+    }
+}
+#Cayman Islands : (1200/300 POPS) #still a British Colony
+2218 = {
+    clergymen = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 15
+    }
+
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 280
+    }
+}

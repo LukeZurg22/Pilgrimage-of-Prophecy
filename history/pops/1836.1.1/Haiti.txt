@@ -2,72 +2,203 @@
 #Ruled by Haiti 1836
 #Port au Prince (312000/78000 POPS)
 2213 = {
-	aristocrats = {
-		culture = afro_antillean
-		religion = catholic
-		size = 825
-	}
-	
-	officers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 150
-	}
+    aristocrats = {
+        culture = afro_antillean
+        religion = catholic
+        size = 454
+    }
 
-	clergymen = {
-		culture = afro_antillean
-		religion = catholic
-		size = 175
-	}
+    officers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 82
+    }
 
-	artisans = {
-		culture = afro_antillean
-		religion = catholic
-		size = 4050
-	}
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 96
+    }
 
-	soldiers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 100
-	}
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 2227
+    }
 
-	farmers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 68300
-	}
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 55
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 37565
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 742
+    }
+
+    officers = {
+        culture = new_venetian
+        religion = catholic
+        size = 136
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 158
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 3646
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 90
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 61470
+    }
+
+    aristocrats = {
+        culture = caribeno
+        religion = catholic
+        size = 742
+    }
+
+    officers = {
+        culture = caribeno
+        religion = catholic
+        size = 136
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 158
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 3646
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 90
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 61470
+    }
 }
 #Cap Haitien (204000/51000 POPS)
 2215 = {
-	aristocrats = {
-		culture = afro_antillean
-		religion = catholic
-		size = 550
-	}
+    aristocrats = {
+        culture = afro_antillean
+        religion = catholic
+        size = 302
+    }
 
-	clergymen = {
-		culture = afro_antillean
-		religion = catholic
-		size = 75
-	}
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 41
+    }
 
-	artisans = {
-		culture = afro_antillean
-		religion = catholic
-		size = 2550
-	}
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1402
+    }
 
-	soldiers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 200
-	}
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 110
+    }
 
-	farmers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 46825
-	}
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 25754
+    }
 
+    aristocrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 496
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 68
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 2296
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 180
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 42142
+    }
+
+    aristocrats = {
+        culture = caribeno
+        religion = catholic
+        size = 496
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 68
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 2296
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 180
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 42142
+    }
 }

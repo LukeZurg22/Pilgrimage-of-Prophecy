@@ -5240,25 +5240,25 @@
         size = 4625
     }
 
-    clergymen = {
+    slaves = {
         culture = lithuanian
         religion = protestant
         size = 35
     }
 
-    artisans = {
+    slaves = {
         culture = lithuanian
         religion = protestant
         size = 175
     }
 
-    soldiers = {
+    slaves = {
         culture = lithuanian
         religion = protestant
         size = 35
     }
 
-    farmers = {
+    slaves = {
         culture = lithuanian
         religion = protestant
         size = 3955
@@ -5344,25 +5344,25 @@
         size = 1850
     }
 
-    clergymen = {
+    slaves = {
         culture = lithuanian
         religion = protestant
         size = 17
     }
 
-    artisans = {
+    slaves = {
         culture = lithuanian
         religion = protestant
         size = 105
     }
 
-    soldiers = {
+    slaves = {
         culture = lithuanian
         religion = protestant
         size = 17
     }
 
-    farmers = {
+    slaves = {
         culture = lithuanian
         religion = protestant
         size = 2660

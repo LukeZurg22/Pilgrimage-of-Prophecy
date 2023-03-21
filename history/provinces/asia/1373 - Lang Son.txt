@@ -2,5 +2,7 @@ owner = QNG
 controller = QNG
 trade_goods = grain
 life_rating = 34	
+colonial = 0	
 add_core = GXI
+add_core = HQJ
 fort = 0	

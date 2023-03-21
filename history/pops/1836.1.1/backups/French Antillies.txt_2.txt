@@ -1,0 +1,320 @@
+#French Antilles (319200)
+#Ruled by France 1836
+#Martinique (190800/27450 POPS)
+2228 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 412
+    }
+
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 55
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 27
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 495
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 137
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 220
+    }
+
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 69
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 687
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 137
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1870
+    }
+
+    slaves = {
+        culture = afro_antillean
+        religion = catholic
+        size = 11000
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 1352
+    }
+
+    bureaucrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 180
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 92
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 1620
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 452
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 720
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 224
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 2252
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 452
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 6120
+    }
+
+    slaves = {
+        culture = new_venetian
+        religion = catholic
+        size = 36000
+    }
+}
+#Guadeloupe (128400/32100 POPS)
+2230 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 467
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 27
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 715
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 165
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 330
+    }
+
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 82
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 825
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 165
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1677
+    }
+
+    slaves = {
+        culture = afro_antillean
+        religion = catholic
+        size = 13200
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 1532
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 92
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 2340
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 540
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 1080
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 272
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 2700
+    }
+
+    soldiers = {
+        culture = new_venetian
+        religion = catholic
+        size = 540
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 5492
+    }
+
+    slaves = {
+        culture = new_venetian
+        religion = catholic
+        size = 43200
+    }
+}
+#Marigot - Former Baffin Island (4000/1000 POPS)
+45 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 5
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 14
+    }
+
+    artisans = {
+        culture = caribbean_mayan
+        religion = catholic
+        size = 30
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 275
+    }
+
+    slaves = {
+        culture = caribbean_mayan
+        religion = catholic
+        size = 66
+    }
+
+    aristocrats = {
+        culture = new_venetian
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = new_venetian
+        religion = catholic
+        size = 44
+    }
+
+    artisans = {
+        culture = new_venetian
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = new_venetian
+        religion = catholic
+        size = 900
+    }
+
+    slaves = {
+        culture = new_venetian
+        religion = catholic
+        size = 216
+    }
+}
