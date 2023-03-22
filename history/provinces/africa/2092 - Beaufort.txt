@@ -1,7 +1,9 @@
-
-
-add_core = SAF
+owner = XHO
+controller = XHO
 trade_goods = fruit
-life_rating = 30
+life_rating = 30	
+colonial = 2	
+add_core = XHO
+add_core = SAF
 terrain = mountain
-colonial = 2
+fort = 0	

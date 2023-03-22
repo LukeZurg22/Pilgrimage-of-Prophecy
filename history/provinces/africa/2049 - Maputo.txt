@@ -1,11 +1,9 @@
-
-
-add_core = GAZ
+owner = XHO
+controller = XHO
 trade_goods = fish
+life_rating = 35	
+add_core = GAZ
+add_core = XHO
+add_core = SAF
 terrain = savanna
-life_rating = 35
-1861.1.1 = {
-	owner = POR
-	controller = POR
-	colonial = 2
-}
+fort = 0	

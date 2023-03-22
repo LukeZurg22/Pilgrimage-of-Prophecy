@@ -1,6 +1,8 @@
-
-
-add_core = SAF
+owner = XHO
+controller = XHO
 trade_goods = wool
-life_rating = 35
-colonial = 2
+life_rating = 35	
+colonial = 2	
+add_core = XHO
+add_core = SAF
+fort = 0	

@@ -1,9 +1,8 @@
+owner = XHO
+controller = XHO
 trade_goods = wool
-life_rating = 15
+life_rating = 15	
+add_core = XHO
+add_core = SAF
 terrain = mountain
-1861.1.1 = {
-	
-	
-	add_core = SAF
-	colonial = 2
-}
+fort = 0	

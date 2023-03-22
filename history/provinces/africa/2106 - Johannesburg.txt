@@ -1,14 +1,10 @@
-
-
+owner = XHO
+controller = XHO
+trade_goods = wool
+life_rating = 20	
 add_core = MAT
 add_core = BSH
 add_core = TRN
-trade_goods = wool
-life_rating = 20
-1861.1.1 = {
-	owner = TRN
-	controller = TRN
-	add_core = SAF
-	remove_core = BSH
-	life_rating = 35
-}
+add_core = XHO
+add_core = SAF
+fort = 0	

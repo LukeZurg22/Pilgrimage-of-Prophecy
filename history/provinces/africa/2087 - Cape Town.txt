@@ -1,9 +1,10 @@
-
-
-add_core = SAF
+owner = XHO
+controller = XHO
 trade_goods = fruit
-life_rating = 35
+life_rating = 35	
+colonial = 2	
+add_core = XHO
+add_core = SAF
 terrain = capetown
-colonial = 2
-naval_base = 1
-1861.1.1 = { railroad = 1 }
+naval_base = 1	
+fort = 0	

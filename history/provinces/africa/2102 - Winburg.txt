@@ -1,14 +1,10 @@
-
-
+owner = XHO
+controller = XHO
+trade_goods = coal
+life_rating = 35	
 add_core = BSH
 add_core = ZUL
 add_core = ORA
-trade_goods = coal
-life_rating = 35
-1861.1.1 = {
-	owner = ORA
-	controller = ORA
-	add_core = SAF
-	remove_core = MAT
-}
-
+add_core = XHO
+add_core = SAF
+fort = 0	

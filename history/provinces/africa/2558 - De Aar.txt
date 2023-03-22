@@ -1,9 +1,9 @@
+owner = XHO
+controller = XHO
 trade_goods = fruit
-life_rating = 15
+life_rating = 15	
+colonial = 1	
+add_core = XHO
+add_core = SAF
 terrain = savanna
-colonial = 1
-1861.1.1 = {
-	
-	
-	add_core = SAF
-}
+fort = 0	

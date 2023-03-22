@@ -1,7 +1,8 @@
-
-
+owner = XHO
+controller = XHO
+trade_goods = fruit
+life_rating = 35	
+colonial = 2	
 add_core = XHO
 add_core = SAF
-trade_goods = fruit
-life_rating = 35
-colonial = 2
+fort = 0	
