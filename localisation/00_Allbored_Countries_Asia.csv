@@ -60,16 +60,69 @@ ALT_communist;The Communists;;;;;;;;;;;;;x
 ALT_fascist;The Roman Faction;;;;;;;;;;;;;x
 PPG;Ant Colony;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PPG_ADJ;Anty;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-KOR;Hwan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,
-KOR_absolute_monarchy;The Hwan Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,
-KOR_proletarian_dictatorship;The Great Il-Sung Republic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,
-KOR_reactionary;Bandong;;;;;;;;;;;;;;;;;;x;;;;,,
-KOR_liberal;Taewon'gun;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-KOR_liberal_2;Songgyungwan;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-KOR_conservative;Tong Hak;;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-KOR_liberal_3;Silhak;;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-KOR_anarcho_liberal;Geubjinpa;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-KOR_conservative_2;Wangdangpa;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-KOR_socialist;Sahoe-tang;;;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-KOR_communist;Choson Kongsantang;;;;;;;;;;;;;;;;;;;;;x;;;;,,
-KOR_fascist;Pasiseuteu Pati;;;;;;;;;;;;;;;;;;;;x;;;;,,
+KOR;Hwan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+KOR_absolute_monarchy;The Hwan Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+KOR_democracy;Joseon;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+KOR_proletarian_dictatorship;The Great Il-Sung Republic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+KOR_reactionary;Bandong;;;;;;;;;;;;;;;;;;x;;;;
+KOR_liberal;Taewon'gun;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+KOR_liberal_2;Songgyungwan;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+KOR_conservative;Tong Hak;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+KOR_liberal_3;Silhak;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+KOR_anarcho_liberal;Geubjinpa;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+KOR_conservative_2;Wangdangpa;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+KOR_socialist;Sahoe-tang;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+KOR_communist;Choson Kongsantang;;;;;;;;;;;;;;;;;;;;;x;;;;
+KOR_fascist;Pasiseuteu Pati;;;;;;;;;;;;;;;;;;;;x;;;;
+TUR;Seljuks;;;;;;;;;x;;;;
+TUR_ADJ;Turkish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+TUR_absolute_monarchy;The Seljuk Empire;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_absolute_monarchy_ADJ;Seljuk;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_prussian_constitutionalism;The Seljuk Empire;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_prussian_constitutionalism_ADJ;Seljuk;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_hms_government;The Seljuk Empire;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_hms_government_ADJ;Seljuk;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_bourgeois_dictatorship;Turkish Free State;;;;;;;;;;;;;x
+TUR_proletarian_dictatorship;Turkish Socialist Republic;;;;;;;;;;;;;x
+TUR_proletarian_dictatorship_ADJ;Turkish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_reactionary;Nizam-i Alem;;;;;;;;;;;;;x
+TUR_reactionary_2;Ittihad-i Muhammedi Firkasi;;;;;;;;;;;;;x
+TUR_reactionary_3;Halâskâr Zabitân;;;;;;;;;;;;;x
+TUR_reactionary_4;Fedailer Cemiyeti;;;;;;;;;;;;;x
+TUR_conservative;Hükumet-i Hümayun;;;;;;;;;;;;;x
+TUR_conservative_2;Selamet-i Osmaniye;;;;;;;;;;;;;x
+TUR_conservative_3;Hürriyet ve Itilâf Firkasi;;;;;;;;;;;;;x
+TUR_liberal_2;Tanzimat Firkasi;;;;;;;;;;;;;x
+TUR_liberal_4;Osmanli Demokrat Firkasi;;;;;;;;;;;;;x
+TUR_liberal_5;Halk Firkasi;;;;;;;;;;;;;x
+TUR_socialist;Osmanli Köylü ve Amele Firkasi;;;;;;;;;;;;;x
+TUR_socialist_3;Sosyalist Firka;;;;;;;;;;;;;x
+TUR_communist;Ihtilalci Avam Firkasi;;;;;;;;;;;;;x
+TUR_communist_2;Komünist Firka;;;;;;;;;;;;;x
+TUR_communist_3;Halk Istirakiyun Firkasi;;;;;;;;;;;;;x
+TUR_liberal;Ittihat ve Terakki Firkasi;;;;;;;;;;;;;x
+TUR_liberal_3;Yeni Osmanlilar Cemiyeti;;;;;;;;;;;;;x
+TUR_socialist_2;Osmanli Ahali Firkasi;;;;;;;;;;;;;x
+TUR_anarcho_liberal;Osmanli Ahrar Firkasi;;;;;;;;;;;;;x
+TUR_fascist;Ittihat ve Terakki Firkasi;;;;;;;;;;;;;x
+TUR_fascist_2;Türk Ocagi;;;;;;;;;;;;;x
+TUR_fascist_3;Milli Firka;;;;;;;;;;;;;x
+ISR;Judea;;;;;;;;;x;;;;
+ISR_ADJ;Judean;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ISR_absolute_monarchy;The Empire of God;;;;;;;;;;;;;;;;;;;;;;;;x
+ISR_absolute_monarchy_ADJ;Yahweh's;;;;;;;;;;;;;;;;;;;;;;;;x
+ISR_bourgeois_dictatorship;Judean Free State;;;;;;;;;;;;;x
+ISR_proletarian_dictatorship;Judean Socialist Republic;;;;;;;;;;;;;x
+PLS;Palestine;;;;;;;;;;;;;x
+PLS_ADJ;Palestinian;;;;;;;;;;;;;x
+PLS_absolute_monarchy;The Kingdom of Heaven;;;;;;;;;;;;;;;;;;;;;;;;x
+PLS_absolute_monarchy_ADJ;God's;;;;;;;;;;;;;;;;;;;;;;;;x
+PLS_bourgeois_dictatorship;Heavenly Free State;;;;;;;;;;;;;x
+PLS_proletarian_dictatorship;Socialist State of God;;;;;;;;;;;;;x
+PLS_reactionary;Raj'i;;;;;;;;;;;;;x
+PLS_conservative;Muhafidh;;;;;;;;;;;;;x
+PLS_liberal;Mutaharir;;;;;;;;;;;;;x
+PLS_anarcho_liberal;Anarkiliberali;;;;;;;;;;;;;x
+PLS_socialist;Ishtiraki;;;;;;;;;;;;;x
+PLS_communist;Shiu'i;;;;;;;;;;;;;x
+PLS_fascist;Court of THoG;;;;;;;;;;;;;x

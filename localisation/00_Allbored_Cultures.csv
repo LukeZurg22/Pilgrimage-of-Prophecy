@@ -1,36 +1,42 @@
-;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-swiss;Swabian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-flemish;Flemish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-central_italian;Central Italian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-novgorodian;Novgorodian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-pomeranian;Balten;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-pontic_greek;Pontic;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-lower_danubian;Lower Danubian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-zyrgi;Zyrgi;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-anatolian_greek;Anatolian Greek;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,
-western_slavic;Sorbian;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-trentonite;Trentonite;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-amerikan_armenian;Amerikan-Armenian;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-amerikan_kurdish;Amerikan-Kurdish;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-amerikan_greek;Amerikanós-Hellinas;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-mormon;Mormon;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-icelandic;Old Israeli;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-anarchist;Anarchist;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-anarchy;Anarchy;Religious Anarchy;;;;;;;;;;;;x;;;;,,,,,,,,,,,,,,,,,,,,,,
-north_andean;Muisca;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+swiss;Swabian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+flemish;Flemish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+central_italian;Central Italian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+novgorodian;Novgorodian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+pomeranian;Balten;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+pontic_greek;Pontic;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+lower_danubian;Lower Danubian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+zyrgi;Zyrgi;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+anatolian_greek;Anatolian Greek;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+western_slavic;Sorbian;;;;;;;;;;;;;;;;;;;;x
+trentonite;Trentonite;;;;;;;;;;;;;;;;;;;;x
+amerikan_armenian;Amerikan-Armenian;;;;;;;;;;;;;;;;;;;;x
+amerikan_kurdish;Amerikan-Kurdish;;;;;;;;;;;;;;;;;;;;x
+amerikan_greek;Amerikanós-Hellinas;;;;;;;;;;;;;;;;;;;;x
+mormon;Mormon;;;;;;;;;;;;;;;;;;;;x
+icelandic;Old Israeli;;;;;;;;;;;;;;;;;;;;x
+anarchist;Anarchist;;;;;;;;;;;;;;;;;;;;x
+anarchy;Anarchy;Religious Anarchy;;;;;;;;;;;;x;;;;
+north_andean;Muisca;;;;;;;;;;;;;;;;;;;;x
 nahua;Mesoamerican Indian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 kreol;Kreol;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-brazilian;Gália;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-afro_brazilian;Afro-Gaulish;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-amazonian;Jungler;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-platinean;Zeonest;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-quechua;Mountaineers;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-aimara;Hill-Men;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-south_andean;Mole-Men;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-anatolian;Anatolian;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-alaskan_german;Alaskan-German;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-malagasy;Zafy Ibrahim;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-shona;Clowns;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-makua;Jesters;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-new_venetian;Nuovo Veneziano;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-caribbean_mayan;Maya Kaajo';;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+brazilian;Gália;;;;;;;;;;;;;;;;;;;;x
+afro_brazilian;Afro-Gaulish;;;;;;;;;;;;;;;;;;;;x
+amazonian;Jungler;;;;;;;;;;;;;;;;;;;;x
+platinean;Zeonest;;;;;;;;;;;;;;;;;;;;x
+quechua;Mountaineers;;;;;;;;;;;;;;;;;;;;x
+aimara;Hill-Men;;;;;;;;;;;;;;;;;;;;x
+south_andean;Mole-Men;;;;;;;;;;;;;;;;;;;;x
+anatolian;Anatolian;;;;;;;;;;;;;;;;;;;;x
+alaskan_german;Alaskan-German;;;;;;;;;;;;;;;;;;;;x
+malagasy;Zafy Ibrahim;;;;;;;;;;;;;;;;;;;;x
+shona;Clowns;;;;;;;;;;;;;;;;;;;;x
+makua;Jesters;;;;;;;;;;;;;;;;;;;;x
+new_venetian;Nuovo Veneziano;;;;;;;;;;;;;;;;;;;;x
+caribbean_mayan;Maya Kaajo';;;;;;;;;;;;;;;;;;;;x
+roman;Roman;;;;;;;;;;;;;;;;;;;;x
+samnite;Samnite;;;;;;;;;;;;;;;;;;;;x
+north_italian;Celts;;;;;;;;;;;;;;;;;;;;x
+south_italian;Italiote;;;;;;;;;;;;;;;;;;;;x
+etruscan;Etruscan;;;;;;;;;;;;;;;;;;;;x
+umbrian;Umbrian;;;;;;;;;;;;;;;;;;;;x

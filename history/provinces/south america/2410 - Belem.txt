@@ -1,6 +1,7 @@
-owner = ECU
-controller = ECU
+owner = PAP
+controller = PAP
 trade_goods = fish
 life_rating = 35	
+colonial = 2	
 add_core = ECU
 fort = 0	

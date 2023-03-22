@@ -1,7 +1,0 @@
-# Zurgatol-Pomerelia
-union = {
-	first = ZUR
-	second = PML
-	start_date = 1420.3.2
-	end_date = 1845.11.15
-}

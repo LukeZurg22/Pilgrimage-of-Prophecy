@@ -1,5 +1,7 @@
-
-
-add_core = HDJ
+owner = PLS
+controller = PLS
 trade_goods = grain
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = HDJ
+fort = 0	

@@ -1,6 +1,8 @@
-
-
-add_core = OMA
+owner = OMA
+controller = OMA
 trade_goods = opium
-life_rating = 35
-naval_base = 1
+life_rating = 35	
+colonial = 0	
+add_core = OMA
+naval_base = 1	
+fort = 0	

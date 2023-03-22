@@ -229,6 +229,7 @@ beneluxian = {
 		Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb 
 		Orban Pétillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangermée Wyvekens Zoude }
 	}
+	union = LUX
 }
 
 pan_swiss = {
@@ -425,6 +426,52 @@ italian = {
 		Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
 		radicalism = 10
 	}
+	roman = {
+		color = { 255 90 0}
+		first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
+		Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
+		Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
+		
+		last_names = { Anfora Barberini-Colonna Bonaccorsi Caraga Cattaneo Chigi Clary Colonna "de Liguori" "de Riseis"
+		"della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo
+		Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
+		radicalism = 10
+		primary = PAP
+	}
+	etruscan = {
+		color = { 200 55 55 }
+		first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
+		Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
+		Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
+		
+		last_names = { Anfora Barberini-Colonna Bonaccorsi Caraga Cattaneo Chigi Clary Colonna "de Liguori" "de Riseis"
+		"della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo
+		Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
+		radicalism = 10
+		primary = TUS
+	}
+	umbrian = {
+		color = { 135 205 222 }
+		first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
+		Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
+		Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
+		
+		last_names = { Anfora Barberini-Colonna Bonaccorsi Caraga Cattaneo Chigi Clary Colonna "de Liguori" "de Riseis"
+		"della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo
+		Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
+		radicalism = 10
+	}
+	samnite = {
+		color = { 13 126 62}
+		first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
+		Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
+		Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
+		
+		last_names = { Anfora Barberini-Colonna Bonaccorsi Caraga Cattaneo Chigi Clary Colonna "de Liguori" "de Riseis"
+		"della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo
+		Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
+		radicalism = 10
+	}
 	maltese = { 
 		color = {100 150 120}
 		first_names = { Alessandru Beru Duminku Enrico Fernardu Frangisku Gabriel Ferlad Gorg Joseph
@@ -441,7 +488,7 @@ italian = {
 		
 		last_names = { Abela Adami Azzopardi Boffa Borg Buhagiar Cassar Farrugia Frendo Gonzi
 		Howard Mifsud Mintoff Mizzi Muscat Olivier Puli Pullicino Strickland Vella }
-		primary = MLT
+		primary = VEN
 	}
 	union = ITA
 }

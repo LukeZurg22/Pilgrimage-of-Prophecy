@@ -1,7 +1,9 @@
-
-
+owner = TUR
+controller = TUR
+trade_goods = fish
+life_rating = 35	
+colonial = 0	
 add_core = MAK
 add_core = BLC
 add_core = HND
-trade_goods = fish
-life_rating = 35
+fort = 0	

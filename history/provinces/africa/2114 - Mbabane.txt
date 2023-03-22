@@ -1,8 +1,10 @@
-owner = XHO
-controller = XHO
+owner = ZUL
+controller = ZUL
 trade_goods = grain
 life_rating = 35	
+colonial = 0	
 add_core = SUA
 add_core = XHO
 add_core = SAF
+add_core = ZUL
 fort = 0	

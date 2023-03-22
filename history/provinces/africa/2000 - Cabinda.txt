@@ -1,5 +1,7 @@
-
-
-add_core = KON
+owner = FRA
+controller = FRA
 trade_goods = fruit
-life_rating = 35
+life_rating = 35	
+colonial = 2	
+add_core = KON
+fort = 0	

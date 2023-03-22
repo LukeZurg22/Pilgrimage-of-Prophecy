@@ -1,4 +1,6 @@
 owner = PNJ
 controller = PNJ
+trade_goods = precious_metal
+colonial = 0	
 add_core = PNJ
 fort = 0	

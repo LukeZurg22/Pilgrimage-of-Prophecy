@@ -1,6 +1,8 @@
-
-
-add_core = OMA
+owner = OMA
+controller = OMA
 trade_goods = opium
-life_rating = 32
+life_rating = 32	
+colonial = 0	
+add_core = OMA
 terrain = semidesert
+fort = 0	

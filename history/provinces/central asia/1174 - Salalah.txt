@@ -1,6 +1,8 @@
-
-
-add_core = OMA
+owner = PLS
+controller = PLS
 trade_goods = opium
-life_rating = 20
+life_rating = 20	
+colonial = 0	
+add_core = OMA
 terrain = desert
+fort = 0	

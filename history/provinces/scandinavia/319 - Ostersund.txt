@@ -1,9 +1,10 @@
-owner = NOR
-controller = NOR
+owner = FIN
+controller = FIN
 trade_goods = iron
 life_rating = 20	
 colonial = 0	
 add_core = SWE
 add_core = NOR
+add_core = FIN
 terrain = montane_tundra
 fort = 0	

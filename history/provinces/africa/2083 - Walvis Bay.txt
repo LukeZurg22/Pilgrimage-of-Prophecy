@@ -1,5 +1,8 @@
+owner = IRE
+controller = IRE
+trade_goods = wool
+life_rating = 10	
+colonial = 2	
 add_core = NMB
 terrain = semidesert
-trade_goods = wool
-life_rating = 10
-colonial = 1
+fort = 0	

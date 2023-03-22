@@ -1,5 +1,7 @@
-
-
-add_core = PER
+owner = TUR
+controller = TUR
 trade_goods = iron
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = PER
+fort = 0	

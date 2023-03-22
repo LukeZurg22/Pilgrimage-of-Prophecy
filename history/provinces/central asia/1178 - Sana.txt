@@ -1,11 +1,8 @@
-
-
-add_core = NYE
+owner = PLS
+controller = PLS
 trade_goods = coffee
+life_rating = 35	
+colonial = 0	
+add_core = NYE
 terrain = steppe
-life_rating = 35
-1861.1.1 = {
-	owner = BUL
-	controller = BUL
-	colonial = 2
-}
+fort = 0	

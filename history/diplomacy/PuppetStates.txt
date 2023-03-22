@@ -63,3 +63,11 @@ vassal = {
 	start_date = 1816.1.1
 	end_date = 1840.1.1
 }
+
+# Doggerlands-Norway
+vassal = {
+	first = DEN
+	second = NOR
+	start_date = 1420.3.2
+	end_date = 1845.11.15
+}
