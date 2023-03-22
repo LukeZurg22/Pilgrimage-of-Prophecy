@@ -1,9 +1,7 @@
-
-
-add_core = NIC
+owner = ELS
+controller = ELS
 trade_goods = coffee
-life_rating = 31
-1861.1.1 = {
-	owner = NIC
-	controller = NIC
-}
+life_rating = 31	
+add_core = NIC
+add_core = ELS
+fort = 0	

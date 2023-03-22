@@ -1,6 +1,9 @@
+owner = ELS
+controller = ELS
 trade_goods = fruit
 life_rating = 31	
 add_core = CLM
 add_core = PNM
+add_core = ELS
 terrain = panama
 fort = 0	
