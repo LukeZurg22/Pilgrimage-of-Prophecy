@@ -1,9 +1,8 @@
-owner = CUB
-controller = CUB
+owner = ELS
+controller = ELS
 trade_goods = tropical_wood
 life_rating = 31	
-colonial = 0	
 add_core = MSK
 add_core = NIC
-add_core = CUB
+add_core = ELS
 fort = 0	

@@ -1,6 +1,7 @@
-
-
-add_core = ECU
+owner = BOL
+controller = BOL
 trade_goods = fish
-life_rating = 30
+life_rating = 30	
+add_core = BOL
 terrain = new_world_plains
+fort = 0	
