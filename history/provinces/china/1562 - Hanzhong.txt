@@ -4,6 +4,6 @@ trade_goods = coal
 life_rating = 32	
 colonial = 0	
 add_core = CHI
-
 add_core = GUI
+add_core = QNG
 fort = 0	

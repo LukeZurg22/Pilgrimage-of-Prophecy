@@ -48,31 +48,961 @@
     aristocrats = {
         culture = swedish
         religion = protestant
-        size = 50
+        size = 47
     }
 
     clergymen = {
         culture = swedish
         religion = protestant
-        size = 100
+        size = 93
     }
 
     artisans = {
         culture = swedish
         religion = protestant
-        size = 1100
+        size = 1025
     }
 
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 250
+        size = 233
     }
 
     farmers = {
         culture = swedish
         religion = protestant
-        size = 19100
+        size = 17799
+    }
+
+    aristocrats = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    artisans = {
+        culture = swedish
+        religion = protestant
+        size = 11
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 3
+    }
+
+    farmers = {
+        culture = swedish
+        religion = protestant
+        size = 179
+    }
+
+    aristocrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    artisans = {
+        culture = swedish
+        religion = protestant
+        size = 11
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = swedish
+        religion = protestant
+        size = 179
+    }
+
+    aristocrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    artisans = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 11
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 179
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 21
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 5
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 364
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 4
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 4
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 4
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 21
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 363
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 4
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 4
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 4
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 7
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
     }
 }
 #Ostersund (44000/11000 POPS)
@@ -80,31 +1010,961 @@
     clergymen = {
         culture = swedish
         religion = protestant
-        size = 50
+        size = 47
     }
 
     artisans = {
         culture = swedish
         religion = protestant
-        size = 500
+        size = 465
     }
 
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 100
+        size = 93
     }
 
     labourers = {
         culture = swedish
         religion = protestant
-        size = 9350
+        size = 8712
     }
 
     labourers = {
         culture = norwegian
         religion = protestant
-        size = 1100
+        size = 1025
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    artisans = {
+        culture = swedish
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    labourers = {
+        culture = swedish
+        religion = protestant
+        size = 88
+    }
+
+    labourers = {
+        culture = norwegian
+        religion = protestant
+        size = 11
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    artisans = {
+        culture = swedish
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    labourers = {
+        culture = swedish
+        religion = protestant
+        size = 88
+    }
+
+    labourers = {
+        culture = norwegian
+        religion = protestant
+        size = 11
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    artisans = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    labourers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    labourers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 88
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 11
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 177
+    }
+
+    bureaucrats = {
+        culture = norwegian
+        religion = protestant
+        size = 21
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    bureaucrats = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    bureaucrats = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    bureaucrats = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 10
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 178
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 21
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 4
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 0
     }
 }
 #Umea (56000/14000 POPS)
@@ -112,31 +1972,961 @@
     clergymen = {
         culture = swedish
         religion = protestant
-        size = 75
+        size = 70
     }
 
     artisans = {
         culture = swedish
         religion = protestant
-        size = 750
+        size = 699
     }
 
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 250
+        size = 233
     }
 
     labourers = {
         culture = swedish
         religion = protestant
-        size = 11925
+        size = 11113
     }
 
     farmers = {
         culture = finnish
         religion = protestant
-        size = 1100
+        size = 1025
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    artisans = {
+        culture = swedish
+        religion = protestant
+        size = 8
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 3
+    }
+
+    labourers = {
+        culture = swedish
+        religion = protestant
+        size = 113
+    }
+
+    farmers = {
+        culture = finnish
+        religion = protestant
+        size = 11
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    artisans = {
+        culture = swedish
+        religion = protestant
+        size = 7
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    labourers = {
+        culture = swedish
+        religion = protestant
+        size = 113
+    }
+
+    farmers = {
+        culture = finnish
+        religion = protestant
+        size = 11
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    artisans = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    labourers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    farmers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 7
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 113
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 11
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 15
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 5
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 226
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 21
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 14
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 227
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 21
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
     }
 }
 #Lulea (44000/11000 POPS)
@@ -144,43 +2934,1345 @@
     clergymen = {
         culture = swedish
         religion = protestant
-        size = 50
+        size = 47
     }
 
     artisans = {
         culture = swedish
         religion = protestant
-        size = 400
+        size = 372
     }
 
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 1100
+        size = 1025
     }
 
     labourers = {
         culture = swedish
         religion = protestant
-        size = 6050
+        size = 5638
     }
 
     artisans = {
         culture = finnish
         religion = protestant
-        size = 100
+        size = 93
     }
 
     farmers = {
         culture = sami
         religion = protestant
-        size = 2200
+        size = 2049
     }
 
     farmers = {
         culture = finnish
         religion = protestant
-        size = 1100
+        size = 1025
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    artisans = {
+        culture = swedish
+        religion = protestant
+        size = 4
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 11
+    }
+
+    labourers = {
+        culture = swedish
+        religion = protestant
+        size = 57
+    }
+
+    artisans = {
+        culture = finnish
+        religion = protestant
+        size = 1
+    }
+
+    farmers = {
+        culture = sami
+        religion = protestant
+        size = 22
+    }
+
+    farmers = {
+        culture = finnish
+        religion = protestant
+        size = 11
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    artisans = {
+        culture = swedish
+        religion = protestant
+        size = 4
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 11
+    }
+
+    labourers = {
+        culture = swedish
+        religion = protestant
+        size = 57
+    }
+
+    artisans = {
+        culture = finnish
+        religion = protestant
+        size = 1
+    }
+
+    farmers = {
+        culture = sami
+        religion = protestant
+        size = 22
+    }
+
+    farmers = {
+        culture = finnish
+        religion = protestant
+        size = 11
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    artisans = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    labourers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    artisans = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    farmers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 4
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 11
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 57
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 22
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 11
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 8
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 21
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 115
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 2
+    }
+
+    bureaucrats = {
+        culture = sami
+        religion = protestant
+        size = 42
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 21
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 8
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 21
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 115
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 42
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 21
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = sami
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 0
     }
 }
 #Svealand Region : 1178000

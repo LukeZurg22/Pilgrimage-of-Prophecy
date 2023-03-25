@@ -1,8 +1,8 @@
 owner = NWJ
 controller = NWJ
-trade_goods = tobacco
+trade_goods = coal
 life_rating = 35	
-
+colonial = 0	
 add_core = NWJ
 add_core = USA
 fort = 0	

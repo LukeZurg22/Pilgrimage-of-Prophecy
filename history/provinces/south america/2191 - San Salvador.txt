@@ -1,6 +1,6 @@
 owner = ELS
 controller = ELS
-trade_goods = coffee
+trade_goods = tobacco
 life_rating = 32	
 colonial = 0	
 add_core = ELS

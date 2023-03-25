@@ -1,9 +1,8 @@
 owner = AMA
 controller = AMA
-trade_goods = tobacco
+trade_goods = grain
 life_rating = 35	
 colonial = 0	
-
 add_core = AMA
 add_core = USA
 naval_base = 2	

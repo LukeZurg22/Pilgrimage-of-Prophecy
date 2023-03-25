@@ -1,5 +1,6 @@
 owner = PLS
 controller = PLS
+add_core = PLS
 trade_goods = opium
 life_rating = 32	
 colonial = 0	

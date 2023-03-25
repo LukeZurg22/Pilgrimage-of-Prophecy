@@ -2,5 +2,7 @@ owner = ZUR
 controller = ZUR
 trade_goods = timber
 life_rating = 35	
+colonial = 0	
 add_core = ZUR
+add_core = FIN
 fort = 0	

@@ -1,5 +1,5 @@
-capital = 1616
-primary_culture = manchu
+capital = 1559
+primary_culture = tang
 religion = mahayana
 government = absolute_monarchy
 plurality = 0.0

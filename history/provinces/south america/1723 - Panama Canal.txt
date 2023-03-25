@@ -1,7 +1,8 @@
 owner = ELS
 controller = ELS
-trade_goods = fruit
+trade_goods = tobacco
 life_rating = 31	
+colonial = 0	
 add_core = CLM
 add_core = PNM
 add_core = ELS

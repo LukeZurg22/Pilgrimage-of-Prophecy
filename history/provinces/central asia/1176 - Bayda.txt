@@ -1,5 +1,6 @@
 owner = PLS
 controller = PLS
+add_core = PLS
 trade_goods = fish
 life_rating = 32	
 colonial = 0	

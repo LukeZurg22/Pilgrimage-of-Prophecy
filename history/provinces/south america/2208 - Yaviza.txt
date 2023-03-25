@@ -1,8 +1,10 @@
 owner = CLM
 controller = CLM
-trade_goods = fruit
+trade_goods = tobacco
 life_rating = 31	
+colonial = 0	
 add_core = CLM
 add_core = PNM
 add_core = VNZ
+add_core = ELS
 fort = 0	

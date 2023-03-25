@@ -1,8 +1,8 @@
 owner = NWJ
 controller = NWJ
-trade_goods = tobacco
+trade_goods = fish
 life_rating = 35	
-
+colonial = 0	
 add_core = NWJ
 add_core = USA
 naval_base = 2	

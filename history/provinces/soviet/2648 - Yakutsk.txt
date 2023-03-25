@@ -2,6 +2,6 @@ owner = YAK
 controller = YAK
 trade_goods = grain
 life_rating = 35	
-colonial = 2	
+colonial = 0	
 add_core = YAK
 fort = 0	

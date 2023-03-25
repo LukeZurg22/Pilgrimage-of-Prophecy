@@ -1,8 +1,9 @@
 capital = 919
-primary_culture = ashkenazi
+primary_culture = anatolian
+culture = ashkenazi
 culture = sephardic
-religion = jewish
-government = democracy
+religion = catholic
+government = absolute_monarchy
 plurality = 0.15
 nationalvalue = nv_productivity
 literacy = 0.87
