@@ -4,5 +4,6 @@ trade_goods = fruit
 life_rating = 35	
 colonial = 0	
 add_core = MAD
+add_core = ICL
 terrain = dryhills
 fort = 0	

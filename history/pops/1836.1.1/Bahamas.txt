@@ -2,90 +2,89 @@
 #Ruled by Britain 1836
 #The Bahamas (20000/5000 POPS)
 2219 = {
-	clergymen = {
-		culture = caribbean_mayan
-		religion = protestant
-		size = 50
-	}
+    clergymen = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 150
+    }
 
-	artisans = {
-		culture = caribbean_mayan
-		religion = protestant
-		size = 100
-	}
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 300
+    }
 
-	soldiers = {
-		culture = caribbean_mayan
-		religion = protestant
-		size = 50
-	}
+    soldiers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 150
+    }
 
-	farmers = {
-		culture = caribbean_mayan
-		religion = protestant
-		size = 4050
-	}
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 12150
+    }
 
-	aristocrats = {
-		culture = british
-		religion = protestant
-		size = 15
-	}
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 45
+    }
 
-	bureaucrats = {
-		culture = british
-		religion = protestant
-		size = 5
-	}
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 15
+    }
 
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 15
-	}
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 45
+    }
 
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 150
-	}
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 450
+    }
 
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 75
+    }
 
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 540
-	}
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 1620
+    }
 }
 #Turks & Caicos Islands (3000/750 POPS) #still a British colony
 2220 = {
-	clergymen = {
-		culture = caribbean_mayan
-		religion = protestant
-		size = 50
-	}
+    clergymen = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 50
+    }
 
-	artisans = {
-		culture = caribbean_mayan
-		religion = protestant
-		size = 100
-	}
+    artisans = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 100
+    }
 
-	soldiers = {
-		culture = caribbean_mayan
-		religion = protestant
-		size = 50
-	}
+    soldiers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 50
+    }
 
-	farmers = {
-		culture = caribbean_mayan
-		religion = protestant
-		size = 550
-	}
-
+    farmers = {
+        culture = caribbean_mayan
+        religion = protestant
+        size = 550
+    }
 }

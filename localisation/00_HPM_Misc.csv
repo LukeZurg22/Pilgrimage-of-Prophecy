@@ -759,7 +759,7 @@ independence_rebels_desc;These rebels seek to free the country from its vassal s
 independence_rebels_army;$CULTURE$ Nationalists;;;;;;;;;;;;x,,,,,,,,,,,,
 turkish_nationalist_rebels_title;Turkish Nationalist;;;;;;;;;;;;x,,,,,,,,,,,,
 turkish_nationalist_rebels_name;Turkish Nationalists;;;;;;;;;;;;x,,,,,,,,,,,,
-turkish_nationalist_rebels_desc;Turkish Nationalists seek to topple the Ottoman monarchy, replacing it with a liberal republic.;;;;;;;;;;;;x,,,,,,,,,,,
+turkish_nationalist_rebels_desc;Turkish Nationalists seek to topple the Seljuk monarchy, replacing it with a liberal republic.;;;;;;;;;;;;x,,,,,,,,,,,
 turkish_nationalist_rebels_army;Turkish Nationalists;;;;;;;;;;;;x,,,,,,,,,,,,
 native_rebels_title;Anti-Colonial;;;;;;;;;;;;x,,,,,,,,,,,,
 native_rebels_name;Anti-Colonial Rebels;;;;;;;;;;;;x,,,,,,,,,,,,

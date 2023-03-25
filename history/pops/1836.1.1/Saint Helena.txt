@@ -39,7 +39,7 @@
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = caribbean_mayan
         religion = protestant
         size = 500
     }

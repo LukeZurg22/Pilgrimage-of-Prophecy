@@ -69,25 +69,25 @@
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = caribbean_mayan
         religion = catholic
         size = 605
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = caribbean_mayan
         religion = catholic
         size = 220
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = caribbean_mayan
         religion = catholic
         size = 16830
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = caribbean_mayan
         religion = catholic
         size = 5500
     }

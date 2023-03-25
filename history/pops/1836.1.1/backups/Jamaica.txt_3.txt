@@ -205,18 +205,18 @@
     clergymen = {
         culture = caribbean_mayan
         religion = protestant
-        size = 15
+        size = 5
     }
 
     artisans = {
         culture = caribbean_mayan
         religion = protestant
-        size = 45
+        size = 15
     }
 
     farmers = {
         culture = caribbean_mayan
         religion = protestant
-        size = 840
+        size = 280
     }
 }

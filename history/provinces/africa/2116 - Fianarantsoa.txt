@@ -4,5 +4,6 @@ trade_goods = coal
 life_rating = 35	
 colonial = 0	
 add_core = MAD
+add_core = ICL
 terrain = montane_forest
 fort = 0	
