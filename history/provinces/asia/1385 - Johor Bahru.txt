@@ -1,5 +1,6 @@
-
-
-add_core = JOH
+owner = JOH
+controller = JOH
 trade_goods = tropical_wood
-life_rating = 37
+life_rating = 37	
+add_core = JOH
+fort = 0	

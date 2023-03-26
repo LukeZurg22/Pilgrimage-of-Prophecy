@@ -1,7 +1,8 @@
-
-
-add_core = HND
+owner = SIA
+controller = SIA
 trade_goods = grain
-life_rating = 30
-colonial = 2
+life_rating = 30	
+colonial = 2	
+add_core = SIA
 terrain = small_island
+fort = 0	
