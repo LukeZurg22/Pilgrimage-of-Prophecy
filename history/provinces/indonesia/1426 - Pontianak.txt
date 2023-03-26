@@ -1,6 +1,9 @@
-
-
+owner = BRU
+controller = BRU
+trade_goods = grain
+life_rating = 32	
+colonial = 0	
 add_core = KLM
 add_core = LAN
-trade_goods = grain
-life_rating = 32
+add_core = BRU
+fort = 0	

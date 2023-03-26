@@ -1,7 +1,8 @@
-
-
-add_core = SAK
+owner = BOS
+controller = BOS
 trade_goods = fish
+life_rating = 31	
+colonial = 2	
+add_core = SAK
 terrain = small_island
-life_rating = 31
-colonial = 2
+fort = 0	

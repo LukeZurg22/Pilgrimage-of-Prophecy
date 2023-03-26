@@ -1,11 +1,12 @@
 owner = ISR
 controller = ISR
-add_core = ISR
 trade_goods = wool
 life_rating = 20	
 colonial = 0	
+add_core = ISR
 add_core = EGY
 add_core = BYZ
 add_core = JOR
+add_core = PLS
 terrain = semidesert
 fort = 0	

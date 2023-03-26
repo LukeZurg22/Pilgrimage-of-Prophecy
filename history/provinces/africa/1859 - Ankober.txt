@@ -1,9 +1,10 @@
-owner = ETH
-controller = ETH
+owner = MAJ
+controller = MAJ
 trade_goods = coffee
 life_rating = 35	
 colonial = 0	
 add_core = HAR
 add_core = SHW
 add_core = ETH
+add_core = MAJ
 fort = 0	

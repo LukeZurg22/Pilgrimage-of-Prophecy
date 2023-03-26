@@ -1,6 +1,9 @@
-
-
-add_core = EGY
+owner = PLS
+controller = PLS
 trade_goods = grain
-life_rating = 40
+life_rating = 40	
+colonial = 0	
+add_core = EGY
+add_core = PLS
 terrain = farmlands
+fort = 0	

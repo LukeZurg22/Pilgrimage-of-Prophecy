@@ -1,5 +1,7 @@
-
-
-add_core = SLW
+owner = MAL
+controller = MAL
 trade_goods = dye
-life_rating = 32
+life_rating = 32	
+colonial = 0	
+add_core = MAL
+fort = 0	

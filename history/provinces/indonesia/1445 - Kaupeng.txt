@@ -1,6 +1,7 @@
-
-
-add_core = TMR
+owner = MAL
+controller = MAL
 trade_goods = timber
-life_rating = 31
-colonial = 2
+life_rating = 31	
+colonial = 0	
+add_core = TMR
+fort = 0	

@@ -6,5 +6,6 @@ colonial = 0
 add_core = WRL
 add_core = MAJ
 add_core = GEL
+add_core = ETH
 terrain = semidesert
 fort = 0	

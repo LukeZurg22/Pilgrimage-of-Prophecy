@@ -1,5 +1,8 @@
-
-
-add_core = MAL
+owner = MAL
+controller = MAL
 trade_goods = fish
-life_rating = 30
+life_rating = 30	
+colonial = 0	
+add_core = MAL
+add_core = MAL
+fort = 0	

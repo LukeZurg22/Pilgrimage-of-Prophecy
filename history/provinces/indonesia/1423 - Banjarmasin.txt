@@ -1,6 +1,8 @@
-
-
-add_core = KLM
+owner = NZI
+controller = NZI
 trade_goods = sulphur
-life_rating = 38
-colonial = 2
+life_rating = 38	
+colonial = 2	
+add_core = KLM
+add_core = BRU
+fort = 0	

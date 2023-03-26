@@ -1,9 +1,9 @@
-owner = PLS
-controller = PLS
-add_core = PLS
+owner = TUR
+controller = TUR
 trade_goods = fish
 life_rating = 34	
-colonial = 0	
+colonial = 2	
+add_core = PLS
 add_core = BHR
 add_core = QAT
 terrain = semidesert

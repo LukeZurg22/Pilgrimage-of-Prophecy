@@ -1,6 +1,9 @@
-
-
-add_core = BAL
+owner = MAL
+controller = MAL
 trade_goods = timber
-life_rating = 31
-colonial = 2
+life_rating = 31	
+colonial = 2	
+add_core = BAL
+add_core = MAL
+naval_base = 1	
+fort = 0	

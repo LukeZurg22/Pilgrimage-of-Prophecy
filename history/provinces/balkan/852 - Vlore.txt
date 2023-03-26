@@ -1,5 +1,5 @@
-owner = ALB
-controller = ALB
+owner = MON
+controller = MON
 trade_goods = cattle
 life_rating = 35	
 colonial = 0	

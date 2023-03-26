@@ -1,5 +1,6 @@
 owner = IRE
 controller = IRE
+trade_goods = precious_goods
 colonial = 0	
 add_core = IRE
 fort = 0	

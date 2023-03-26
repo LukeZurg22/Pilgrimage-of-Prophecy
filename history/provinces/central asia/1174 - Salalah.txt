@@ -1,9 +1,9 @@
 owner = PLS
 controller = PLS
-add_core = PLS
 trade_goods = opium
 life_rating = 20	
 colonial = 0	
+add_core = PLS
 add_core = OMA
 terrain = desert
 fort = 0	

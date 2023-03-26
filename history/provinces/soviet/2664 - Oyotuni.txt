@@ -1,6 +1,7 @@
-owner = OMA
-controller = OMA
+owner = PLS
+controller = PLS
 add_core = OMA
+add_core = PLS
 add_core = ABU
 trade_goods = fish
 terrain = mountain

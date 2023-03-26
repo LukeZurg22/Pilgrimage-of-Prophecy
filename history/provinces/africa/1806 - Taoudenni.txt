@@ -1,6 +1,9 @@
-
-
+owner = PLS
+controller = PLS
+trade_goods = wool
+life_rating = 10	
+colonial = 0	
 add_core = EGY
 add_core = SUD
-trade_goods = wool
-life_rating = 10
+add_core = PLS
+fort = 0	
