@@ -56,6 +56,15 @@ upper_house = {
 
 set_country_flag = new_world_nation
 
+govt_flag = {
+	government = hms_government
+	flag = democracy
+}
+govt_flag = {
+	government = prussian_constitutionalism
+	flag = democracy
+}
+
 # Technologies
 post_napoleonic_thought = 1
 flintlock_rifles = 1

@@ -77,14 +77,14 @@ FRA_french_bourbon;The Kingdom of Gaul;;;;;;;;;;;;;x
 FRA_ADJ;Gaul;;;;;;;;;;;;x
 SIE;Gypsyland;;;;;;;;;;;;;x
 SIE_ADJ;Gypsy;;;;;;;;;;;;;x
-SPA;Andalusia;;;;;;;;;;;;;x
-SPA_ADJ;Andalusian;;;;;;;;;;;;;x
-SPA_democracy;The Andalusian Republic;;;;;;;;;;;;;x
-SPA_proletarian_dictatorship;The Andalusian People's Republic;;;;;;;;;;;;;x
-SPA_presidential_dictatorship;The Andalusian State;;;;;;;;;;;;;x
-SPA_fascist_dictatorship;The Spanish State;;;;;;;;;;;;;x
-SPA_absolute_monarchy;Al-Andalus;;;;;;;;;;;;;x
-SPA_bourgeois_dictatorship;The Andalusian Republic;;;;;;;;;;;;;x
+AND;Andalusia;;;;;;;;;;;;;x
+AND_ADJ;Andalusian;;;;;;;;;;;;;x
+AND_democracy;The Andalusian Republic;;;;;;;;;;;;;x
+AND_proletarian_dictatorship;The Andalusian People's Republic;;;;;;;;;;;;;x
+AND_presidential_dictatorship;The Andalusian State;;;;;;;;;;;;;x
+AND_fascist_dictatorship;The Spanish State;;;;;;;;;;;;;x
+AND_absolute_monarchy;Al-Andalus;;;;;;;;;;;;;x
+AND_bourgeois_dictatorship;The Andalusian Republic;;;;;;;;;;;;;x
 BAV;Groﬂbaden;;;;;;;;;;;;;x;;;;
 BAV_ADJ;Groﬂbaden;;;;;;;;;;;;;x
 PAP_theocracy;Papal Roma;;;;;;;;;;;;;x
@@ -126,8 +126,8 @@ LUX_reactionary;Nationalist Fraktion;Nationalist Fraktion;Nationalistische Frakt
 LUX_anarcho_liberal;Radical Fraktion;Radical Fraktion;Radikale Fraktion;;Radical Fraktion;;;;;;;;;x;;;;
 LUX_communist;Communist Fraktion;Communist Fraktion;Kommunistische Fraktion;;Communist Fraktion;;;;;;;;;x;;;;
 LUX_fascist;Fascist Fraktion;Fascist Fraktion;Faschistische Fraktion;;Fascist Fraktion;;;;;;;;;x;;;;
-CPL;Elfrvatn Dynjahagr;;;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
-CPL_ADJ;Dynjahagr;;;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
+ELF;Elfrvatn Dynjahagr;;;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
+ELF_ADJ;Viking;;;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
 CHY;Alania;;;;;;;;;;;;;x,,
 CHY_ADJ;Alan;;;;;;;;;;;;;x,,
 CHY_reactionary;Qadiri;;;;;;;;;;;;;x,,

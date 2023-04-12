@@ -1,12 +1,11 @@
-owner = FEM
-controller = FEM
+owner = PML
+controller = PML
 trade_goods = grain
 life_rating = 40	
-colonial = 2	
+colonial = 0	
 add_core = PRU
 add_core = GER
 add_core = PZN
-add_core = FEM
 add_core = PML
 add_core = ZUR
 fort = 0	

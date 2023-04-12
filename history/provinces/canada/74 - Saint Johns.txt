@@ -4,7 +4,6 @@ trade_goods = fish
 life_rating = 30	
 colonial = 1	
 add_core = NEW
-add_core = IRE
 add_core = SAF
 terrain = stjohn
 fort = 0	

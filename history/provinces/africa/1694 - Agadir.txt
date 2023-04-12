@@ -1,10 +1,11 @@
-owner = SPA
-controller = SPA
+owner = AND
+controller = AND
 trade_goods = fish
 life_rating = 32	
 colonial = 0	
 add_core = MOR
 add_core = SPA
+add_core = AND
 add_core = TUN
 terrain = semidesert
 fort = 0	

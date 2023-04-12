@@ -1,8 +1,8 @@
-owner = NZI
-controller = NZI
+owner = BRU
+controller = BRU
 trade_goods = sulphur
 life_rating = 38	
-colonial = 2	
+colonial = 0	
 add_core = KLM
 add_core = BRU
 fort = 0	

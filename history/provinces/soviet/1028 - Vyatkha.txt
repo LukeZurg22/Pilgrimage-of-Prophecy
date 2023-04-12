@@ -1,8 +1,8 @@
-owner = CPL
-controller = CPL
+owner = ELF
+controller = ELF
 trade_goods = grain
 life_rating = 35	
 colonial = 0	
 add_core = RUS
-add_core = CPL
+add_core = ELF
 fort = 0	

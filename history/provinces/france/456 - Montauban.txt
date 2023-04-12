@@ -3,6 +3,5 @@ controller = BSQ
 trade_goods = tobacco
 life_rating = 30	
 colonial = 0	
-add_core = FRA
 add_core = BSQ
 fort = 0	

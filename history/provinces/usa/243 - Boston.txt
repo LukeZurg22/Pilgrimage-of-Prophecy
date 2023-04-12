@@ -1,9 +1,8 @@
-owner = NWJ
-controller = NWJ
+owner = LUX
+controller = LUX
 trade_goods = grain
 life_rating = 35	
-colonial = 0	
-
+colonial = 2	
 add_core = NEN
 add_core = NWJ
 add_core = USA

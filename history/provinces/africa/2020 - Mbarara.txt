@@ -1,4 +1,7 @@
-add_core = BUG
+owner = BUG
+controller = BUG
 trade_goods = cotton
-life_rating = 10
-colonial = 1
+life_rating = 10	
+colonial = 1	
+add_core = BUG
+fort = 0	

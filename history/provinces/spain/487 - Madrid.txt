@@ -5,5 +5,6 @@ life_rating = 40
 colonial = 0	
 add_core = BSQ
 add_core = SPA
+add_core = AND
 terrain = madrid
 fort = 1	

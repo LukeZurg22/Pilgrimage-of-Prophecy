@@ -2,4 +2,6 @@ trade_goods = wool
 life_rating = 10	
 colonial = 0	
 add_core = HAL
+add_core = PLS
+add_core = BAB
 fort = 0	

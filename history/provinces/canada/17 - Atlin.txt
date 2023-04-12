@@ -1,5 +1,3 @@
-owner = SAF
-controller = SAF
 trade_goods = timber
 life_rating = 15	
 colonial = 0	

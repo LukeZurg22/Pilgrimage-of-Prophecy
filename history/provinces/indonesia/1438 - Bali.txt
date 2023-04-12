@@ -1,8 +1,8 @@
-owner = JAV
-controller = JAV
+owner = LUX
+controller = LUX
 trade_goods = fish
 life_rating = 35	
-colonial = 0	
+colonial = 2	
 add_core = BAL
 add_core = JAV
 fort = 0	

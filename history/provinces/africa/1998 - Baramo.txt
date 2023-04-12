@@ -1,3 +1,8 @@
-add_core = AZA
+owner = SHK
+controller = SHK
 trade_goods = fruit
-life_rating = 10
+life_rating = 10	
+colonial = 0	
+add_core = AZA
+add_core = SHK
+fort = 0	

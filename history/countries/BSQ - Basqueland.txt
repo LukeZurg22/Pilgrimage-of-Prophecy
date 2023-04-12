@@ -1,10 +1,11 @@
 capital = 492
 primary_culture = basque
+culture = catalan
 religion = catholic
 government = democracy
 plurality = 0.1
 nationalvalue = nv_order
-literacy = 0.48
+literacy = 0.50
 civilized = yes
 prestige = 50
 

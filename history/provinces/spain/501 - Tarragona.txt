@@ -1,8 +1,10 @@
-owner = CAT
-controller = CAT
+owner = BSQ
+controller = BSQ
 trade_goods = grain
 life_rating = 35	
 colonial = 0	
 add_core = SPA
+add_core = AND
 add_core = CAT
+add_core = BSQ
 fort = 0	

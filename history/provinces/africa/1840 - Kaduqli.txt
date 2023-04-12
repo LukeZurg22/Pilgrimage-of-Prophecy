@@ -1,7 +1,10 @@
-
-
+owner = PLS
+controller = PLS
+trade_goods = wool
+life_rating = 32	
+colonial = 0	
 add_core = EGY
 add_core = SUD
-trade_goods = wool
+add_core = SHK
 terrain = semidesert
-life_rating = 32
+fort = 0	

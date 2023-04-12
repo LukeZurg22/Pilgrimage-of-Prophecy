@@ -1,7 +1,8 @@
-owner = DAI
-controller = DAI
+owner = LUX
+controller = LUX
 trade_goods = grain
 life_rating = 35	
+colonial = 2	
 add_core = DAI
 add_core = CAM
 fort = 0	

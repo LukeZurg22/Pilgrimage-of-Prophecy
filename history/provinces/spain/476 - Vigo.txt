@@ -1,8 +1,9 @@
-owner = POR
-controller = POR
+owner = BSQ
+controller = BSQ
 trade_goods = fish
 life_rating = 35	
 colonial = 0	
 add_core = SPA
+add_core = AND
 add_core = POR
 fort = 0	

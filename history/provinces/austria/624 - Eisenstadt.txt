@@ -3,7 +3,7 @@ controller = FEM
 trade_goods = grain
 life_rating = 35	
 colonial = 0	
-add_core = AUS
+
 add_core = HUN
 add_core = FEM
 fort = 0	

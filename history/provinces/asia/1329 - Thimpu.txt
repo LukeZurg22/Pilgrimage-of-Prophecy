@@ -1,6 +1,7 @@
-owner = TIB
-controller = TIB
+owner = BNG
+controller = BNG
 trade_goods = wool
 life_rating = 25	
+colonial = 0	
 add_core = TIB
 fort = 0	

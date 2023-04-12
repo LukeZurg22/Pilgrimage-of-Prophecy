@@ -1,6 +1,7 @@
-owner = IRE
-controller = IRE
+owner = LUX
+controller = LUX
 colonial = 0	
 add_core = IRE
 add_core = SPA
+add_core = AND
 fort = 0	

@@ -1,9 +1,10 @@
-owner = CHP
-controller = CHP
+owner = ELS
+controller = ELS
 trade_goods = wool
 life_rating = 31	
 colonial = 0	
 add_core = UCA
 add_core = GUA
 add_core = CHP
+add_core = ELS
 fort = 0	

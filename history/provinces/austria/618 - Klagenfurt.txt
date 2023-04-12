@@ -3,6 +3,6 @@ controller = FEM
 trade_goods = coal
 life_rating = 35	
 colonial = 0	
-add_core = AUS
+
 add_core = FEM
 fort = 0	

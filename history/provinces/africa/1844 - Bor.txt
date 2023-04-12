@@ -1,4 +1,7 @@
-add_core = SHK
+owner = SHK
+controller = SHK
 trade_goods = grain
-life_rating = 15
-colonial = 2
+life_rating = 15	
+colonial = 2	
+add_core = SHK
+fort = 0	

@@ -1,5 +1,7 @@
-
-
-add_core = GBU
+owner = LUX
+controller = LUX
 trade_goods = fruit
-life_rating = 35
+life_rating = 35	
+colonial = 2	
+add_core = GBU
+fort = 0	

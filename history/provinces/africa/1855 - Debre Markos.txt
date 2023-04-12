@@ -1,5 +1,5 @@
-owner = ETH
-controller = ETH
+owner = MAJ
+controller = MAJ
 trade_goods = cattle
 life_rating = 35	
 colonial = 0	

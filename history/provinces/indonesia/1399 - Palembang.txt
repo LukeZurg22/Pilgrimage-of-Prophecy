@@ -1,5 +1,5 @@
-owner = NZI
-controller = NZI
+owner = SAK
+controller = SAK
 trade_goods = dye
 life_rating = 35	
 colonial = 0	

@@ -1,7 +1,8 @@
-owner = SAT
-controller = SAT
+owner = LUX
+controller = LUX
 trade_goods = grain
 life_rating = 35	
+colonial = 1	
 add_core = SAT
 add_core = JAP
 add_core = SEN

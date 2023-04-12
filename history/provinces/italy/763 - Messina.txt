@@ -5,4 +5,5 @@ life_rating = 40
 colonial = 0	
 add_core = SIC
 add_core = ITA
+add_core = SAM
 fort = 0	

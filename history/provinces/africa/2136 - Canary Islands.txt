@@ -1,7 +1,8 @@
-owner = SPA
-controller = SPA
+owner = AND
+controller = AND
 trade_goods = fruit
 life_rating = 35	
 add_core = SPA
+add_core = AND
 naval_base = 1	
 fort = 0	

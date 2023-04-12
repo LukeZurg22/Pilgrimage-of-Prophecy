@@ -1,5 +1,5 @@
 capital = 694
-primary_culture = polish
+primary_culture = north_german
 religion = catholic
 government = colonial_company
 plurality = 0.2

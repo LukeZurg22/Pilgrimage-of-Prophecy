@@ -1,8 +1,8 @@
-owner = SAF
-controller = SAF
+owner = IRE
+controller = IRE
 trade_goods = iron
 life_rating = 30	
-colonial = 0	
+colonial = 1	
 add_core = NEW
 add_core = SAF
 terrain = new_world_boreal

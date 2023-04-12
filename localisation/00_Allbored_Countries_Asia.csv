@@ -111,12 +111,15 @@ ISR;Judea;;;;;;;;;x;;;;
 ISR_ADJ;Judean;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ISR_absolute_monarchy;The Empire of God;;;;;;;;;;;;;;;;;;;;;;;;x
 ISR_absolute_monarchy_ADJ;Yahweh's;;;;;;;;;;;;;;;;;;;;;;;;x
+ISR_hms_government;The Empire of God;;;;;;;;;;;;;;;;;;;;;;;;x
 ISR_bourgeois_dictatorship;Judean Free State;;;;;;;;;;;;;x
 ISR_proletarian_dictatorship;Judean Socialist Republic;;;;;;;;;;;;;x
 PLS;Palestine;;;;;;;;;;;;;x
 PLS_ADJ;Palestinian;;;;;;;;;;;;;x
 PLS_absolute_monarchy;The Kingdom of Heaven;;;;;;;;;;;;;;;;;;;;;;;;x
-PLS_absolute_monarchy_ADJ;God's;;;;;;;;;;;;;;;;;;;;;;;;x
+PLS_absolute_monarchy_ADJ;Heavenly;;;;;;;;;;;;;;;;;;;;;;;;x
+PLS_hms_government;The Kingdom of Heaven;;;;;;;;;;;;;;;;;;;;;;;;x
+PLS_prussian_constitutionalism;The Kingdom of Heaven;;;;;;;;;;;;;;;;;;;;;;;x
 PLS_bourgeois_dictatorship;Heavenly Free State;;;;;;;;;;;;;x
 PLS_proletarian_dictatorship;Socialist State of God;;;;;;;;;;;;;x
 PLS_reactionary;Raj'i;;;;;;;;;;;;;x
@@ -148,6 +151,19 @@ JOH_reactionary;Lion Tamer's Party;;;;;;;;;x;;;;
 JOH_anarcho_liberal;Tight Rope Party;;;;;;;;;x;;;;
 JOH_communist;Theme Park Worker Party;;;;;;;;;x;;;;
 JOH_fascist;Evil Clown Party;;;;;;;;;x;;;;
+BAB;Babylonia;;;;;;;;;;;;;x;;;;
+BAB_ADJ;Babylonian;;;;;;;;;;;;;x;;;;
+BAB_proletarian_dictatorship;The Babylonian People's Republic;;;;;;;;;;;;;x
+BAB_fascist_dictatorship;The Babylonian Empire;;;;;;;;;;;;;x
+BAB_democracy;Babylonian Republic;;;;;;;;;;;;;x
+BAB_hms_government;The Kingdom of Babylonia;;;;;;;;;;;;;x
+BAB_liberal;Liberal Party;;;;;;;;;x;;;;
+BAB_conservative;Conservative Party;;;;;;;;;x;;;;
+BAB_socialist;Socialist Party;;;;;;;;;x;;;;
+BAB_reactionary;Old Monarchist Party;;;;;;;;;x;;;;
+BAB_anarcho_liberal;The Tower Party;;;;;;;;;x;;;;
+BAB_communist;Communist Party;;;;;;;;;x;;;;
+BAB_fascist;The Imperial Court;;;;;;;;;x;;;;
 SGP;Cat City;;;;;;;;;;;;;x;;;;
 SGP_ADJ;Catgirl;;;;;;;;;;;;;x;;;;
 SGP_proletarian_dictatorship;Cat Communes;;;;;;;;;;;;;x
@@ -161,7 +177,21 @@ SGP_hms_government;Kat Kingdom Kingdom;;;;;;;;;;;;;x
 SGP_liberal;Cat Cafe;;;;;;;;;x;;;;
 SGP_conservative;Voidentente;;;;;;;;;x;;;;
 SGP_socialist;TrappyBird;;;;;;;;;x;;;;
-SGP_reactionary;Lion Tamers Party;;;;;;;;;x;;;;
+SGP_reactionary;LukeZurg;;;;;;;;;x;;;;
 SGP_anarcho_liberal;Crusadare;;;;;;;;;x;;;;
 SGP_communist;Kat Kommunist Part;;;;;;;;;x;;;;
 SGP_fascist;Garfield's Domain;;;;;;;;;x;;;;
+ETH;Ethiopia;;;;;;;;;;;;x
+ETH_ADJ;Ethiopian;;;;;;;;;;;;x
+ETH_bourgeois_dictatorship;The Angelic Kingdom;;;;;;;;;;;;;;
+ETH_theocracy;The Angelic Kingdom;;;;;;;;;;;;;;
+ETH_absolute_monarchy;The Angelic Empire;;;;;;;;;;;;x
+ETH_hms_government;Heaven;;;;;;;;;;;;x
+ETH_fascist_dictatorship;The Empire of Heaven;;;;;;;;;;;;;x;
+ETH_socialist;Socialists;;;;;;;;;;;;x
+ETH_communist;Communists;;;;;;;;;;;;x
+ETH_conservative;Conservatives;;;;;;;;;;;;x
+ETH_reactionary;The Crusaders;;;;;;;;;;;;x
+ETH_liberal;Liberals;;;;;;;;;;;;x
+ETH_fascist;The Great Cults;;;;;;;;;;;;x
+ETH_anarcho_liberal;Anarchists;;;;;;;;;;;;x

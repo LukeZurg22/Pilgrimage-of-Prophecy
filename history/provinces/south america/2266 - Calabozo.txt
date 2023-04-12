@@ -1,7 +1,8 @@
-owner = VNZ
-controller = VNZ
+owner = CLM
+controller = CLM
 trade_goods = grain
 life_rating = 31	
+colonial = 0	
 add_core = VNZ
 add_core = CLM
 fort = 0	

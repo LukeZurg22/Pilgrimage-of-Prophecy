@@ -1,7 +1,8 @@
 owner = CHY
 controller = CHY
-add_core = CHY
-add_core = RUS
 trade_goods = grain
-life_rating = 35
+life_rating = 35	
+colonial = 0	
+add_core = RUS
 terrain = saratov
+fort = 0	

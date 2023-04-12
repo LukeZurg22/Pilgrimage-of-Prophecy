@@ -1,10 +1,9 @@
-owner = FEM
-controller = FEM
+owner = PML
+controller = PML
 trade_goods = fish
 life_rating = 40	
-colonial = 2	
+colonial = 0	
 add_core = ZUR
-add_core = FEM
 add_core = PML
 add_core = GER
 terrain = danzig

@@ -1,7 +1,9 @@
-owner = PNJ
-controller = PNJ
+owner = TIM
+controller = TIM
 trade_goods = wool
 life_rating = 32	
+colonial = 0	
 add_core = PNJ
 add_core = HND
+add_core = TIM
 fort = 0	

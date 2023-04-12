@@ -7,6 +7,7 @@ add_core = CHY
 add_core = RUS
 add_core = UKR
 add_core = CRI
+add_core = SAM
 terrain = sevastopol
 naval_base = 2	
 fort = 1	

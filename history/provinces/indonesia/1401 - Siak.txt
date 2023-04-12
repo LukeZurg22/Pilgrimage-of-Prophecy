@@ -1,8 +1,8 @@
-owner = NZI
-controller = NZI
+owner = LUX
+controller = LUX
 trade_goods = grain
 life_rating = 35	
-colonial = 0	
+colonial = 2	
 add_core = SAK
 add_core = NZI
 fort = 0	

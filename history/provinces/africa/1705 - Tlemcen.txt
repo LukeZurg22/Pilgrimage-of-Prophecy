@@ -5,5 +5,6 @@ life_rating = 35
 colonial = 0	
 add_core = ALD
 add_core = SPA
+add_core = AND
 add_core = TUN
 fort = 0	

@@ -1,7 +1,8 @@
-owner = SPA
-controller = SPA
+owner = AND
+controller = AND
 trade_goods = grain
 life_rating = 35	
 colonial = 0	
 add_core = SPA
+add_core = AND
 fort = 0	

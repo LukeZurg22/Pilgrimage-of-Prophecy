@@ -3,7 +3,7 @@ controller = FEM
 trade_goods = sulphur
 life_rating = 35	
 colonial = 0	
-add_core = AUS
+
 add_core = FEM
 terrain = linz
 fort = 0	

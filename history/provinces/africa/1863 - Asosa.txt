@@ -1,9 +1,10 @@
-owner = ETH
-controller = ETH
+owner = MAJ
+controller = MAJ
 trade_goods = cattle
 life_rating = 35	
 colonial = 0	
 add_core = SHW
 add_core = KAF
 add_core = ETH
+add_core = SHK
 fort = 0	

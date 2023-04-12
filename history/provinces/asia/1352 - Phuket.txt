@@ -1,7 +1,8 @@
-owner = JOH
-controller = JOH
+owner = LUX
+controller = LUX
 trade_goods = timber
 life_rating = 35	
+colonial = 2	
 add_core = SIA
 add_core = JOH
 fort = 0	

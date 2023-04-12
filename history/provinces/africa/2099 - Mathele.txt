@@ -2,5 +2,7 @@ owner = XHO
 controller = XHO
 trade_goods = grain
 life_rating = 35	
+colonial = 0	
 add_core = XHO
+add_core = SAF
 fort = 0	
